@@ -1,9 +1,4 @@
-YYYY-MM-DD  John Doe  <johndoe@example.com>
-
-    * myfile.ext (myfunction): my changes made
-    additional changes
-
-    * myfile.ext (unrelated_change): my changes made
-    to myfile.ext but completely unrelated to the above
-
-    * anotherfile.ext (somefunction): more changes
+2013-05-20
+==========
+LuaCore 1.0.5.2
+* Configure garbage collector to run periodically and upon increased addon memory usage.
