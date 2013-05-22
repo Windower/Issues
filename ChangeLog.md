@@ -1,4 +1,4 @@
-LuaCore
+2013-05-20
 ==========
-2013-05-20 - 1.0.5.2 - Aureus
+LuaCore 1.0.5.2 - Aureus
 * Configure garbage collector to run periodically and upon increased addon memory usage.
