@@ -1,3 +1,8 @@
+2013-05-24
+----------
+Timers 1.0.1.10 - Iryoku
+* Added missing Blizzard II icon.
+
 2013-05-22
 ----------
 Windower.exe 4.0.4890.17383 - Iryoku
