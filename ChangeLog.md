@@ -8,7 +8,7 @@ Timers 1.0.1.11 - Iryoku
 
 2013-05-22
 ----------
-Windower.exe 4.0.4890.17383 - Iryoku
+Launcher 4.0.4890.17383 - Iryoku
 * Removed restrictions on registry value 0019: On-Screen Maps.
 
 LuaCore 1.0.5.3 - Aureus
