@@ -3,6 +3,9 @@
 Timers 1.0.1.10 - Iryoku
 * Added missing Blizzard II icon.
 
+Timers 1.0.1.11 - Iryoku
+* Fixed invalid buff durations for nonexistent buffs.
+
 2013-05-22
 ----------
 Windower.exe 4.0.4890.17383 - Iryoku
