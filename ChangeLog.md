@@ -4,8 +4,10 @@ Hook 4.0.0.33 - Aureus
 * Refactoring, remove no longer used interfaces
 
 LuaCore 1.0.5.4 - Aureus
-* Add get_ability_recasts  http://dev.windower.net/doku.php?id=lua:interface_functions:input_functions:start#get_ability_recasts
-* Add get_spell_recasts  http://dev.windower.net/doku.php?id=lua:interface_functions:input_functions:start#get_spell_recasts
+* Add get_ability_recasts
+ * http://dev.windower.net/doku.php?id=lua:interface_functions:input_functions:start#get_ability_recasts
+* Add get_spell_recasts 
+ * http://dev.windower.net/doku.php?id=lua:interface_functions:input_functions:start#get_spell_recasts
 
 * 2013-05-24
 ----------
