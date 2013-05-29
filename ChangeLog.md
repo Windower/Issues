@@ -9,7 +9,7 @@ LuaCore 1.0.5.4 - Aureus
 * Add get_spell_recasts 
  * http://dev.windower.net/doku.php?id=lua:interface_functions:input_functions:start#get_spell_recasts
 
-* 2013-05-24
+2013-05-24
 ----------
 Timers 1.0.1.10 - Iryoku
 * Added missing Blizzard II icon.
