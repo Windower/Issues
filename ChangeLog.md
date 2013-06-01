@@ -1,10 +1,32 @@
 2013-06-01
 ----------
 Binder 1.4.0.0 - Iryoku
-* Added Logitech G710+ Gaming Keyboard.
+* Add Logitech G710+ Gaming Keyboard.
+
+ConsoleBG 2.3.0.8 - Arcon
+* Added settings XML file to configure autoload settings
+
+Distance 1.3.1.5 - Arcon
+* Added 3D mode options
+* Added settings XML file
+
+FFOChat 1.0.1.1 - Arcon
+* Added <showNames> option to settings XML
+* Fixed crash on closed TCP connection, added automatic reconnect
 
 Hook 4.0.0.34 - Iryoku
 * Fixed bug with add_to_chat()
+
+LuaCore 1.0.5.5 - Arcon
+* Added create_dir, file_exists and dir_exists functions
+* Added engaged check to get_player()['in_combat']
+
+SpellCast 2.5.0.9 - Arcon
+* Recompile against new Hook, no changes
+
+TParty 1.2.0.7 - Arcon
+* Target HP% position adjustment
+* Various internal efficiency improvements
 
 2013-05-29
 ----------
