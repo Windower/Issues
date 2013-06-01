@@ -1,3 +1,8 @@
+2013-06-01
+----------
+Binder 1.4.0.0 - Iryoku
+* Add Logitech G710+ Gaming Keyboard.
+
 2013-05-29
 ----------
 Hook 4.0.0.33 - Aureus
