@@ -11,7 +11,7 @@ Distance 1.3.1.5 - Arcon
 * Added settings XML file
 
 FFOChat 1.0.1.1 - Arcon
-* Added <showNames> option to settings XML
+* Added &lt;showNames&gt; option to settings XML
 * Fixed crash on closed TCP connection, added automatic reconnect
 
 Hook 4.0.0.34 - Iryoku
