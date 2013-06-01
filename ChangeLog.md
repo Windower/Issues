@@ -21,6 +21,9 @@ LuaCore 1.0.5.5 - Arcon
 * Added create_dir, file_exists and dir_exists functions
 * Added engaged check to get_player()['in_combat']
 
+PetTP 2.1.1.3 - Arcon
+* Recompile against new Hook, minor internal changes
+
 SpellCast 2.5.0.9 - Arcon
 * Recompile against new Hook, no changes
 
