@@ -21,6 +21,9 @@ LuaCore 1.0.5.5 - Arcon
 * Added create_dir, file_exists and dir_exists functions
 * Added engaged check to get_player()['in_combat']
 
+LuaCore 1.0.5.6 - Arcon
+* Fixed zoning LuaCore crash for get_player()['in_combar']
+
 PetTP 2.1.1.3 - Arcon
 * Recompile against new Hook, minor internal changes
 
