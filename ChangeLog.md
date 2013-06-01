@@ -1,7 +1,10 @@
 2013-06-01
 ----------
 Binder 1.4.0.0 - Iryoku
-* Add Logitech G710+ Gaming Keyboard.
+* Added Logitech G710+ Gaming Keyboard.
+
+Hook 4.0.0.34 - Iryoku
+* Fixed bug with add_to_chat()
 
 2013-05-29
 ----------
