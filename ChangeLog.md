@@ -24,6 +24,10 @@ LuaCore 1.0.5.5 - Arcon
 LuaCore 1.0.5.6 - Arcon
 * Fixed zoning LuaCore crash for get_player()['in_combar']
 
+LuaCore 1.0.5.7 - Arcon
+* Added lpack library for raw bit data manipulation
+ * See addons/libs/packets.lua for example usage
+
 PetTP 2.1.1.3 - Arcon
 * Recompile against new Hook, minor internal changes
 
