@@ -37,6 +37,10 @@ SpellCast 2.5.0.9 - Arcon
 TParty 1.2.0.7 - Arcon
 * Target HP% position adjustment
 * Various internal efficiency improvements
+*
+ConsoleBG 2.3.0.8 - Aureus
+* Fixed issue where background would randomly decide to be white
+* Settings XML should properly download now
 
 2013-05-29
 ----------
