@@ -6,6 +6,9 @@ Binder 1.4.0.0 - Iryoku
 ConsoleBG 2.3.0.8 - Arcon
 * Added settings XML file to configure autoload settings
 
+ConsoleBG 2.3.0.9 - Aureus
+* Fixed white background on startup
+
 Distance 1.3.1.5 - Arcon
 * Added 3D mode options
 * Added settings XML file
