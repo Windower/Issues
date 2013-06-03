@@ -3,6 +3,9 @@
 Hook 4.0.0.35 - Iryoku
 * Fixed bug with consecutive auto-translate phrases
 
+Binder 1.4.0.1 - Iryoku
+* Reenabled Razer BlackWidow 2013 Edition
+
 2013-06-01
 ----------
 Binder 1.4.0.0 - Iryoku
