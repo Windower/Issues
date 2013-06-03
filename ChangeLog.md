@@ -1,7 +1,12 @@
 2013-06-01
 ----------
+Hook 4.0.0.35 - Iryoku
+* Fixed bug with consecutive auto-translate phrases
+
+2013-06-01
+----------
 Binder 1.4.0.0 - Iryoku
-* Add Logitech G710+ Gaming Keyboard.
+* Added Logitech G710+ Gaming Keyboard
 
 ConsoleBG 2.3.0.8 - Arcon
 * Added settings XML file to configure autoload settings
