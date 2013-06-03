@@ -1,4 +1,4 @@
-2013-06-01
+2013-06-02
 ----------
 Hook 4.0.0.35 - Iryoku
 * Fixed bug with consecutive auto-translate phrases
