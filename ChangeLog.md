@@ -1,3 +1,11 @@
+2013-06-06
+----------
+Timers 1.0.1.12 - JoshK6656
+* Fixed Merit values being used for time calculations.
+
+LuaCore 1.5.0.8 - JoshK6656
+* Fixed Merit table
+* 
 2013-06-02
 ----------
 Hook 4.0.0.35 - Iryoku
