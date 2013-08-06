@@ -1,3 +1,8 @@
+2013-08-06
+----------
+InfoBar 1.1.0.4 - Arcon
+* Fixed crash on load
+
 2013-06-06
 ----------
 Timers 1.0.1.12 - JoshK6656
