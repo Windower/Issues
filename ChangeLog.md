@@ -1,5 +1,10 @@
 2013-08-06
 ----------
+Attainment 2.2.5.6 - Arcon
+* Fixed Abyssea and Dynamis trackng
+
+2013-08-06
+----------
 InfoBar 1.1.0.4 - Arcon
 * Fixed crash on load
 
