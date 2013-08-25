@@ -102,3 +102,8 @@ LuaCore 1.0.5.3 - Aureus
 ----------
 LuaCore 1.0.5.2 - Aureus
 * Configure garbage collector to run periodically and upon increased addon memory usage.
+
+2013-08-25
+----------
+Launcher 4.0.4985.17832 - Iryoku
+* Fixed parsing bug in `<gamma>`, `<uiscale>`, and `<supersampling>`.
