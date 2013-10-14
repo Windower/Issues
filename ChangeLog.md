@@ -1,27 +1,29 @@
 2013-10-07 - 2013-10-12
 ----------
-Find 1.0.1.4
+Various updates happened in this time frame, most very fast paced and bug fixes of previous releases to adjust for the Mog Case and changes to the inventory struct due to it. The following is a listing of the final releases.
+
+Find 1.0.1.4 - JoshK6656
 * Adjusted for new inventory struct
 
-GearCollector 1.0.1.0
+GearCollector 1.0.1.0 - JoshK6656
 * Adjusted for new inventory struct
 
-Guildwork 1.3.2.0
+Guildwork 1.3.2.0 - JoshK6656
 * Adjusted for new inventory struct
 
-Itemizer 1.2.0.5
+Itemizer 1.2.0.5 - JoshK6656
 * Adjusted for new inventory struct
 
-LuaCore 1.0.6.4
+LuaCore 1.0.6.4 - JoshK6656
 * Adjusted for new inventory struct
 
-Timers 1.0.1.15
+Timers 1.0.1.15 - JoshK6656
 * Adjusted for new inventory struct
 
-Blinkmenot 3.0.5.3
+Blinkmenot 3.0.5.3 - JoshK6656
 * Adjusted for new inventory struct and adjusted combat check
 
-Spellcast 2.5.0.14
+Spellcast 2.5.0.14 - JoshK6656
 * Adjusted for new inventory struct and adjusted combat check
 
 2013-08-06
