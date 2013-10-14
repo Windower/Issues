@@ -1,3 +1,9 @@
+2013-10-12
+----------
+GearCollector 1.0.1.0 - Aureus
+* Moved storage priority up, items are now being checked in the following order:
+  * Safe > Locker > Storage > Satchel > Sack > Case
+
 2013-10-07 - 2013-10-12
 ----------
 Various updates happened in this time frame, most very fast paced and bug fixes of previous releases to adjust for the Mog Case and changes to the inventory struct due to it. The following is a listing of the final releases.
@@ -5,7 +11,7 @@ Various updates happened in this time frame, most very fast paced and bug fixes 
 Find 1.0.1.4 - JoshK6656
 * Adjusted for new inventory struct
 
-GearCollector 1.0.1.0 - JoshK6656
+GearCollector 1.0.0.9 - JoshK6656
 * Adjusted for new inventory struct
 
 Guildwork 1.3.2.0 - JoshK6656
