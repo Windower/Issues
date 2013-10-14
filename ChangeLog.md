@@ -1,14 +1,26 @@
 2013-10-07 - 2013-10-12
 ----------
 Find 1.0.1.4
+* Adjusted for new inventory struct
+
 GearCollector 1.0.1.0
+* Adjusted for new inventory struct
+
 Guildwork 1.3.2.0
+* Adjusted for new inventory struct
+
 Itemizer 1.2.0.5
+* Adjusted for new inventory struct
+
 LuaCore 1.0.6.4
+* Adjusted for new inventory struct
+
 Timers 1.0.1.15
 * Adjusted for new inventory struct
 
 Blinkmenot 3.0.5.3
+* Adjusted for new inventory struct and adjusted combat check
+
 Spellcast 2.5.0.14
 * Adjusted for new inventory struct and adjusted combat check
 
