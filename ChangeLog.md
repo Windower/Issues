@@ -1,3 +1,17 @@
+2013-10-07 - 2013-10-12
+----------
+Find 1.0.1.4
+GearCollector 1.0.1.0
+Guildwork 1.3.2.0
+Itemizer 1.2.0.5
+LuaCore 1.0.6.4
+Timers 1.0.1.15
+* Adjusted for new inventory struct
+
+Blinkmenot 3.0.5.3
+Spellcast 2.5.0.14
+* Adjusted for new inventory struct and adjusted combat check
+
 2013-08-06
 ----------
 Attainment 2.2.5.6 - Arcon
