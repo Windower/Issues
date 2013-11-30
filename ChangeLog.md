@@ -1,3 +1,15 @@
+2013-11-30
+----------
+Attainment 2.2.5.8 - Arcon
+* Fixed version mismatch
+Timers 1.0.1.16 - Cairthenn
+* Various equipment related fixes (Carnwenhan, Brioso Slippers/Roundlet, Legato Dagger)
+
+2013-11-29
+----------
+Attainment 2.2.5.7 - Arcon
+* Fixed Abyssea lights since last update
+
 2013-10-12
 ----------
 GearCollector 1.0.1.0 - Aureus
@@ -35,7 +47,7 @@ Spellcast 2.5.0.14 - JoshK6656
 2013-08-06
 ----------
 Attainment 2.2.5.6 - Arcon
-* Fixed Abyssea and Dynamis trackng
+* Fixed Abyssea and Dynamis tracking
 
 2013-08-06
 ----------
