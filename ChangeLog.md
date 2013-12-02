@@ -1,7 +1,13 @@
+2013-12-02
+----------
+Spellcast 2.5.0.18 - Cairthenn
+* Fixed auto-translated command issue
+
 2013-11-30
 ----------
 Attainment 2.2.5.8 - Arcon
 * Fixed version mismatch
+
 Timers 1.0.1.16 - Cairthenn
 * Various equipment related fixes (Carnwenhan, Brioso Slippers/Roundlet, Legato Dagger)
 
