@@ -3,9 +3,9 @@
 Hook 4.1.1.4 - Group effort
 * New text renderer
 * New console display and console options
-  * console_color [alpha] <red> <green> <blue>
-  * console_font <name> [size]
-  * console_timestamp [0|1]
+  * `console_color [alpha] <red> <green> <blue>`
+  * `console_font <name> [size]`
+  * `console_timestamp [0|1]`
 * Added mouse and keyboard events to the plugin API
 * Minor controller bug fixe for multiboxing
 
