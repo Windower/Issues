@@ -1,3 +1,34 @@
+2013-12-15 - Windower 4.1 released
+----------
+Hook 4.1.1.4 - Group effort
+* New text renderer
+* New console display and console options
+  * console_color [alpha] <red> <green> <blue>
+  * console_font <name> [size]
+  * console_timestamp [0|1]
+* Added mouse and keyboard events to the plugin API
+* Minor controller bug fixe for multiboxing
+
+LuaCore 1.2.1.3 - Group effort
+* Revamped entire API, multiple additions, some removals
+  * See [API documentation](http://dev.windower.net/doku.php?id=lua:api:start)
+* Changed addons to run on their own threads
+* Changed event scheduling
+  * `windower.register_event('event name', function_to_execute)`
+* `_addon` table now exists by default, can take the following values:
+  * _String_ `name`
+  * _String_ `author`
+  * _String_ `language`
+  * _String_ `version`
+  * _String_ `command`
+  * _Table_ `commands`
+
+FFXIDB 0.2.1.4 - Zohno
+* Added draggable/scrollable minimap
+
+All plugins - Group effort
+* Updated to match the new API and various minor fixes
+
 2013-12-02
 ----------
 Spellcast 2.5.0.18 - Cairthenn
