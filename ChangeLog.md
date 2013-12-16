@@ -7,7 +7,7 @@ Hook 4.1.1.4 - Group effort
   * `console_font <name> [size]`
   * `console_timestamp [0|1]`
 * Added mouse and keyboard events to the plugin API
-* Minor controller bug fixe for multiboxing
+* Minor controller bug fix for multiboxing
 
 LuaCore 1.2.1.3 - Group effort
 * Revamped entire API, multiple additions, some removals
