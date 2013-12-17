@@ -1,3 +1,8 @@
+2013-12-17
+----------
+Infobar 1.1.1.5 - Arcon
+* Fixed crash on logout
+
 2013-12-15 - Windower 4.1 released
 ----------
 Hook 4.1.1.4 - Group effort
