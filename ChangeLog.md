@@ -1,3 +1,8 @@
+2013-12-18
+----------
+LuaCore 1.2.1.4 - Arcon
+* Fixed "file does not exist" error on `lua exec`
+
 2013-12-17
 ----------
 Infobar 1.1.1.5 - Arcon
