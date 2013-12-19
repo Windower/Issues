@@ -1,3 +1,11 @@
+2013-12-19
+----------
+LuaCore 1.2.1.6 - Arcon
+* Partially fixed events that take string arguments
+
+LuaCore 1.2.1.5 - Cair
+* Fixed crash when using `windower.ffxi.get_mob_by_target` while logged out
+
 2013-12-18
 ----------
 LuaCore 1.2.1.4 - Arcon
