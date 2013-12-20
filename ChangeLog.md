@@ -1,5 +1,8 @@
 2013-12-19
 ----------
+LuaCore 1.2.1.7 - Arcon
+* Added boolean `autorun` value to `windower.ffxi.get_player()`
+
 LuaCore 1.2.1.6 - Arcon
 * Partially fixed events that take string arguments
 
