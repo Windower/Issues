@@ -2,7 +2,7 @@
 ----------
 LuaCore 1.2.1.8 - Arcon
 * Changed the `time change` event to return the number of minutes
-* Fixed `windower.ffxi.get_player().linkshell_*` display
+* Fixed the various `linkshell` values in `windower.ffxi.get_player()`
   * **Note:** Only takes effect after zoning or changing it once, will need to be adjusted
 
 2013-12-19
