@@ -1,3 +1,8 @@
+2013-12-22
+----------
+LuaCore 1.2.1.9 - Arcon
+* Fixed crashes when trying to access the mob array when logged out
+
 2013-12-21
 ----------
 LuaCore 1.2.1.8 - Arcon
