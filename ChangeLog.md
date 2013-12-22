@@ -1,8 +1,8 @@
 2013-12-22
 ----------
 Hook 4.1.2.0 - Arcon
-* Added removal of duplicate packets based on a blacklist
-  * If you want us to add more packets to the blacklist, let us know
+* Added removal of duplicate packets based on a whitelist
+  * If you want us to add more packets to the whitelist, let us know
 * Made injected packets trigger `(incoming|outgoing) chunk` events
 
 LuaCore 1.2.1.10 - Arcon
