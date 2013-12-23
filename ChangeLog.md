@@ -1,3 +1,10 @@
+2013-12-23
+----------
+LuaCore 1.2.1.11 - Arcon
+* Fixed `windower.ffxi.get_mob_by_target('st')`
+* Added `last_incoming` and `last_outgoing` to `windower.packets`
+  * See the [wiki entry](http://dev.windower.net/doku.php?id=lua:api:functions:packets:start&#windowerpacketslast_incoming_id) for documentation
+
 2013-12-22
 ----------
 Hook 4.1.2.0 - Arcon
