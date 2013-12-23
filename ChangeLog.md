@@ -1,5 +1,11 @@
 2013-12-23
 ----------
+Timers 1.0.2.9 - Cair
+* Something
+
+LuaCore 1.2.1.12 - Arcon
+* Fixed crash on zoning with certain addons loaded
+
 LuaCore 1.2.1.11 - Arcon
 * Fixed `windower.ffxi.get_mob_by_target('st')`
 * Added `last_incoming` and `last_outgoing` to `windower.packets`
