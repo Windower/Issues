@@ -1,7 +1,7 @@
 2013-12-23
 ----------
 Timers 1.0.2.9 - Cair
-* Something
+* Fixed job change to appropriately clear current timers. 
 
 LuaCore 1.2.1.12 - Arcon
 * Fixed crash on zoning with certain addons loaded
