@@ -1,3 +1,7 @@
+2013-12-24
+LuaCore 1.2.2.0 - Arcon
+* Rewrote packet injecting mechanics, fixed deadlock
+
 2013-12-23
 ----------
 Timers 1.0.2.9 - Cair
