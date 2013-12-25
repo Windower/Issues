@@ -1,3 +1,14 @@
+2013-12-25
+----------
+StatusTimer 1.2.2.0 - JoshK6656
+* Added Lv.119 mythic support
+
+AutoExec 2.7.10.8 - Cair
+* Recompiled against new API to fix an issue with new zones
+
+LightLuggage 3.3.2.3 - Cair
+* Recompiled against new packet API to stop sending bad packets
+
 2013-12-24
 ----------
 LuaCore 1.2.2.0 - Arcon
