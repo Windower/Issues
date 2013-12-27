@@ -1,3 +1,8 @@
+2013-12-27
+----------
+LuaCore 1.2.2.1 - Cair
+* Added boolean `charmed` value to `windower.ffxi.get_mob_by_*` functions
+
 2013-12-25
 ----------
 StatusTimer 1.2.2.0 - JoshK6656
