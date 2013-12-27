@@ -1,7 +1,7 @@
 2013-12-27
 ----------
 LuaCore 1.2.2.1 - Cair
-* Added boolean `charmed` value to `windower.ffxi.get_mob_by_*` functions
+* Added boolean values `charmed`,`in_party`, and `in_alliance` to `windower.ffxi.get_mob_by_*` functions
 
 2013-12-25
 ----------
