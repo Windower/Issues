@@ -1,3 +1,40 @@
+2013-12-29
+----------
+LuaCore 1.3.0.4 - Arcon
+* Fixed bracket enclosed (`<*>`) value support in `windower.ffxi.get_mob_by_target`
+
+LuaCore 1.3.0.3 - Arcon
+* Fixed setting character info before triggering the login event
+
+LuaCore 1.3.0.2 - Arcon
+* Fixed junk ID byte on certain packet-related functions
+
+2013-12-28
+----------
+AutoExec 2.8.0.1 - Cair
+* Adjusted for auto-translated text in events
+
+LuaCore 1.3.0.1 - Cair
+* Adjusted for auto-translated text in events
+
+Timers 1.1.0.0 - Arcon
+* Major internal API revamp
+
+Chatmon 1.10.0.0 - Arcon
+* Major internal API revamp
+
+AutoExec 2.8.0.0 - Arcon
+* Major internal API revamp
+
+LuaCore 1.3.0.0 - Arcon
+* Major internal API revamp
+
+Spellcast 2.6.0.0 - Arcon
+* Major internal API revamp
+
+StatusTimer 1.2.2.1 - JoshK6656
+* Added support for all Lv.119 mythic weapon types
+
 2013-12-27
 ----------
 LuaCore 1.2.2.1 - Cair
