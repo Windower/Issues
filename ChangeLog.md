@@ -1,5 +1,8 @@
 2013-12-30
 ----------
+Timers 1.1.0.1 - Arcon
+* Added *Flee* enhancing items
+
 LuaCore 1.3.0.5 - Arcon
 * Fixed time-related functions and variables
 
