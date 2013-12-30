@@ -1,3 +1,11 @@
+2013-12-30
+----------
+LuaCore 1.3.0.5 - Arcon
+* Fixed time-related functions and variables
+
+Spellcast 2.6.0.4 - Arcon
+* Fixed time-related functions and variables
+
 2013-12-29
 ----------
 LuaCore 1.3.0.4 - Arcon
