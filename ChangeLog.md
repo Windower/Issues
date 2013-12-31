@@ -1,3 +1,8 @@
+2013-12-31
+----------
+LuaCore 1.3.0.6 - Arcon
+* Fixed party struct
+
 2013-12-30
 ----------
 Timers 1.1.0.1 - Arcon
