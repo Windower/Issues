@@ -1,5 +1,17 @@
 2013-12-31
 ----------
+Spellcast 2.6.0.5 - Arcon
+* Adjusted for the fixed job change event
+
+LuaCore 1.4.0.0 - Arcon
+* Adjusted the Lua parser to allow indexing and calling of literals
+
+LuaCore 1.3.0.9 - Cair
+* Added `valid_target` to the mob table
+
+LuaCore 1.3.0.8 - Arcon
+* Amended the Lua parser to accept the unary plus (including metamethod `__unp`)
+
 LuaCore 1.3.0.7 - Cair
 * Fixed job change event
 * Added `lot_item` and `pass_item` to `windower.ffxi`
