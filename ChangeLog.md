@@ -1,5 +1,8 @@
 2013-12-31
 ----------
+PetTP 2.2.0.1 - Cair
+* Recompiled to handle invalid mob array
+
 Spellcast 2.6.0.5 - Arcon
 * Adjusted for the fixed job change event
 
