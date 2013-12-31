@@ -1,5 +1,10 @@
 2013-12-31
 ----------
+LuaCore 1.3.0.7 - Cair
+* Fixed job change event
+* Added `lot_item` and `pass_item` to `windower.ffxi`
+  * See the [wiki entry](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxilot_item_slot) for documentation
+
 LuaCore 1.3.0.6 - Arcon
 * Fixed party struct
 
