@@ -1,5 +1,8 @@
 2014-01-01
 ----------
+Launcher 4.1.5114.21982 - Arcon
+* Added `-u|update` option to only update files then immediately close without launching POL
+
 AutoExec 2.8.0.2 - Arcon
 * Rebuilt against new API to fix certain events
 
