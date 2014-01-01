@@ -1,5 +1,13 @@
+2014-01-01
+----------
+LuaCore 1.4.0.2 - Arcon
+* Re-added nil returns on invalid event registry (stable)
+
 2013-12-31
 ----------
+LuaCore 1.4.0.1 - Cair
+* Temporarily fixed crashing on invalid event registry
+
 Spellcast 2.6.0.7 - Cair
 * Fixed expression parsing
 
