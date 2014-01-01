@@ -1,11 +1,24 @@
 2014-01-01
 ----------
+LuaCore 1.4.0.4 - Arcon
+* Added `windower.execute`.
+  * See the [wiki entry](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowerexecute_file_arguments) for documentation
+
+Launcher 4.1.5114.38760 - Arcon
+* Made the `-u|--update` option launch the program invisibly
+
+Spellcast 2.6.0.10 - Cair
+* Fixed the access violation in the `OutgoingText` method
+
+Spellcast 2.6.0.9 - Cair
+* Fixed target rules
+
 LuaCore 1.4.0.3 - Cair
 * Removed unused `target` from `ffxi.get_info`
 * Fixed moon phase
 
 Launcher 4.1.5114.21982 - Arcon
-* Added `-u|update` option to only update files then immediately close without launching POL
+* Added `-u|--update` option to only update files then immediately close without launching POL
 
 AutoExec 2.8.0.2 - Arcon
 * Rebuilt against new API to fix certain events
