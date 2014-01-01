@@ -1,5 +1,8 @@
 2014-01-01
 ----------
+Spellcast 2.6.0.11 - Cair
+* Fixed `<st*>` handling
+
 LuaCore 1.4.0.4 - Arcon
 * Added `windower.execute`.
   * See the [wiki entry](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowerexecute_file_arguments) for documentation
