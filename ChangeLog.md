@@ -1,5 +1,9 @@
 2014-01-01
 ----------
+LuaCore 1.4.0.3 - Cair
+* Removed unused `target` from `ffxi.get_info`
+* Fixed moon phase
+
 Launcher 4.1.5114.21982 - Arcon
 * Added `-u|update` option to only update files then immediately close without launching POL
 
