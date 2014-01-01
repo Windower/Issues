@@ -1,5 +1,11 @@
 2013-12-31
 ----------
+Spellcast 2.6.0.7 - Cair
+* Fixed expression parsing
+
+Spellcast 2.6.0.6 - Cair
+* Re-implemented autodetection of party member names
+
 PetTP 2.2.0.1 - Cair
 * Recompiled to handle invalid mob array
 
