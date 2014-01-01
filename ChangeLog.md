@@ -1,7 +1,13 @@
 2014-01-01
 ----------
+AutoExec 2.8.0.2 - Arcon
+* Rebuilt against new API to fix certain events
+
+Spellcast 2.6.0.8 - Arcon
+* Fixed targeting issues
+
 LuaCore 1.4.0.2 - Arcon
-* Re-added nil returns on invalid event registry (stable)
+* Re-added `nil` returns on invalid event registry (stable)
 
 2013-12-31
 ----------
