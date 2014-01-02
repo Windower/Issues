@@ -1,3 +1,12 @@
+2014-01-02
+----------
+Spellcast 2.6.0.12 - Arcon
+* Fixed `(regex)` formatted rules
+* Fixed another access violation in the `OutgoingText` method
+
+AutoExec 2.8.0.3 - Arcon
+* Fixed `(regex)` formatted events
+
 2014-01-01
 ----------
 Spellcast 2.6.0.11 - Cair
