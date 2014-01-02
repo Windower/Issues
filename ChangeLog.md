@@ -1,5 +1,8 @@
 2014-01-02
 ----------
+FFXIDB 0.2.1.5 - Arcon
+* Fixed map looping when zooming out too far
+
 Spellcast 2.6.0.12 - Arcon
 * Fixed `(regex)` formatted rules
 * Fixed another access violation in the `OutgoingText` method
