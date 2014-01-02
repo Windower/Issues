@@ -1,5 +1,8 @@
 2014-01-02
 ----------
+Spellcast 2.6.0.12, LuaCore 1.4.0.5 - Cair
+* Fixed player status assignment on initial login
+
 FFXIDB 0.2.1.5 - Arcon
 * Fixed map looping when zooming out too far
 
