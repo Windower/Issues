@@ -1,6 +1,9 @@
 2014-01-02
 ----------
-Spellcast 2.6.0.13, LuaCore 1.4.0.5 - Cair
+Spellcast 2.6.0.13
+* Fixed player status assignment on initial login
+
+LuaCore 1.4.0.5 - Cair
 * Fixed player status assignment on initial login
 
 FFXIDB 0.2.1.5 - Arcon
