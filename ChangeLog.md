@@ -1,6 +1,9 @@
 2014-01-02
 ----------
-Spellcast 2.6.0.13
+LuaCore 1.4.0.6 - Cair
+* Fixed outgoing packet functions for blue magic and puppetmaster.
+
+Spellcast 2.6.0.13 - Cair
 * Fixed player status assignment on initial login
 
 LuaCore 1.4.0.5 - Cair
