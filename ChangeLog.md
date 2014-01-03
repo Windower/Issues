@@ -1,5 +1,8 @@
 2014-01-02
 ----------
+Hook 4.1.2.1 - Arcon
+* Added Nitrous's development key
+
 Spellcast 2.6.1.0 - Arcon
 * Fixed the permanent autoset triggering
 * Fixed accessing targets by party specifier (`<p0>`, `<p1>`, etc.)
