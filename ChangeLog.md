@@ -1,3 +1,11 @@
+2014-01-03
+----------
+LightLuggage 4.0.0.0 - Arcon
+* Recoded completely except for the file parsing
+* Stopped spamming packets when not necessary
+* Won't auto-sort inventory anymore except on login
+  * There is now an in-game option to keep the inventory sorted
+
 2014-01-02
 ----------
 Distance 1.3.2.4 - Nitrous
