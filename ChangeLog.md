@@ -1,5 +1,8 @@
 2014-01-02
 ----------
+Distance 1.3.2.4 - Nitrous
+* Rebuilt against new API
+
 Hook 4.1.2.1 - Arcon
 * Added Nitrous's development key
 
