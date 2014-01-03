@@ -1,5 +1,9 @@
 2014-01-02
 ----------
+Spellcast 2.6.1.0 - Arcon
+* Fixed the permanent autoset triggering
+* Fixed accessing targets by party specifier (`<p0>`, `<p1>`, etc.)
+
 LuaCore 1.4.0.6 - Cair
 * Fixed outgoing packet functions for blue magic and puppetmaster.
 
