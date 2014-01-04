@@ -1,5 +1,12 @@
 2014-01-03
 ----------
+Timers 1.1.1.0 - Nitrous
+* Added Samba duration timers + gear extensions
+* Fixed Circle Duration and added gear extensions
+* Rebuilt for new API 
+
+2014-01-03
+----------
 LightLuggage 4.0.1.0 - Arcon
 * Re-enabled auto-stacking
 
