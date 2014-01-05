@@ -1,5 +1,9 @@
 2014-01-03
 ----------
+FFXIVDB 0.2.1.6 - Nitrous
+* Fix - Dots werent showing for players/monsters
+* Added feedback when toggling display of dots and targetlines
+
 Timers 1.1.1.0 - Nitrous
 * Added Samba duration timers + gear extensions
 * Fixed Circle Duration and added gear extensions
