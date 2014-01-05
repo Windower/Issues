@@ -3,6 +3,7 @@
 FFXIVDB 0.2.1.6 - Nitrous
 * Fix - Dots werent showing for players/monsters
 * Added feedback when toggling display of dots and targetlines
+* Fix - Mouse Dragging
 
 Timers 1.1.1.0 - Nitrous
 * Added Samba duration timers + gear extensions
