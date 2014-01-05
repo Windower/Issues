@@ -1,6 +1,6 @@
 2014-01-05
 ----------
-* GearCollector 1.0.2.4 - Nitrous
+GearCollector 1.0.2.4 - Nitrous
 * Rebuilt for new api
 * Made furnishings exempt from collection/putting away
 
