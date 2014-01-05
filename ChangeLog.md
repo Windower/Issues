@@ -1,4 +1,4 @@
-2014-01-03
+2014-01-04
 ----------
 FFXIVDB 0.2.1.6 - Nitrous
 * Fix - Dots werent showing for players/monsters
