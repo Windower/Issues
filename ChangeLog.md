@@ -1,3 +1,9 @@
+2014-01-05
+~~~~~~~~~~
+* GearCollector 1.0.2.4 - Nitrous
+* Rebuilt for new api
+* Made furnishings exempt from collection/putting away
+
 2014-01-04
 ----------
 FFXIVDB 0.2.1.6 - Nitrous
