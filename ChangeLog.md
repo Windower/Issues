@@ -15,6 +15,20 @@ GearCollector 1.0.2.4 - Nitrous
 * Rebuilt for new api
 * Made furnishings exempt from collection/putting away
 
+LuaCore 1.4.1.3 - Nitrous
+* Fixed `windwer.ffxi.get_mob_by_target` for `<r>` and `<bt>`
+
+LuaCore 1.4.1.2 - Arcon
+* Made `windower.ffxi.get_player().treasure` start at `0` to match the internal ID
+
+LuaCore 1.4.1.1 - Arcon
+* Adjusted inaccurate error message and removed erroneous safety check
+
+LuaCore 1.4.1.0 - Arcon
+* Fixed lotting/passing with packets
+* Made `windower.ffxi.lot_item` and `windower.ffxi.pass_item` go off the internal memory ID, since that is also used in packets
+* Changed `windower.ffxi.get_player().treasure` to also show items ordered by their internal ID to match the lot/pass changes
+
 2014-01-04
 ----------
 FFXIDB 0.2.1.6 - Nitrous
