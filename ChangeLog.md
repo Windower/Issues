@@ -1,3 +1,14 @@
+2014-01-06
+----------
+LuaCore 1.4.1.5 - Arcon
+* Fixed crashing bug with `windower.ffxi.get_position`
+
+LuaCore 1.4.1.4 - Arcon
+* Added `get_position` and `get_map_data` to `windower.ffxi`
+  * `get_position` returns the position string (same as `<pos>`)
+  * `get_map_data` returns the internally used map ID as well as the pixel coordinates
+  * For full documentation, see the wiki entry for [`get_position`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_position_index_x_y_z) and [`get_map_data`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_map_data_index_x_y_z)
+
 2014-01-05
 ----------
 GearCollector 1.0.2.4 - Nitrous
