@@ -6,7 +6,7 @@ GearCollector 1.0.2.4 - Nitrous
 
 2014-01-04
 ----------
-FFXIVDB 0.2.1.6 - Nitrous
+FFXIDB 0.2.1.6 - Nitrous
 * Fix - Dots werent showing for players/monsters
 * Added feedback when toggling display of dots and targetlines
 * Fix - Mouse Dragging
