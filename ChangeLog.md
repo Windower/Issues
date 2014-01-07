@@ -1,7 +1,13 @@
 2014-01-06
 ----------
+LuaCore 1.4.2.0 - Cair
+* Changed event registration handling to allow registration in asynchronous events and facilitate registration and removal in user environments
+* Removed `time_string` from `windower.ffxi.get_info`
+* Changed `get_mob_by_target` to use `<t>` if no argument is provided
+
 Timers 1.1.1.1 - Nitrous
 * Fixed extremely long timers for category 14 items that aren't sambas.
+
 LuaCore 1.4.1.5 - Arcon
 * Fixed crashing bug with `windower.ffxi.get_position`
 
