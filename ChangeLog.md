@@ -1,5 +1,7 @@
 2014-01-06
 ----------
+Timers 1.1.1.1 - Nitrous
+* Fixed extremely long timers for category 14 items that aren't sambas.
 LuaCore 1.4.1.5 - Arcon
 * Fixed crashing bug with `windower.ffxi.get_position`
 
