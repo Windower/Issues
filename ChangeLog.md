@@ -1,3 +1,9 @@
+2014-01-07
+----------
+Timers 1.1.1.2 - Nitrous
+* Added Atrophy Gloves/+1 check
+* Fixed Saber Dance check so that it actually checks for buff
+
 2014-01-06
 ----------
 LuaCore 1.4.2.0 - Cair
