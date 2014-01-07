@@ -1,5 +1,9 @@
 2014-01-07
 ----------
+LuaCore 1.4.2.1 - Arcon
+* Fixed merit typos
+* Renamed `max_hp` and `max_mp` merits to `hp` and `mp`
+
 Timers 1.1.1.2 - Nitrous
 * Added Atrophy Gloves/+1 check
 * Fixed Saber Dance check so that it actually checks for buff
