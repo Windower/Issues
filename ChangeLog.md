@@ -1,11 +1,11 @@
 2014-01-07
 ----------
 LuaCore 1.4.2.2 - Arcon
-* Renamed the merit values `hp` and `mp` to `max_hp` and `max_mp`
+* Renamed the merit values `hp` and `mp` back to `max_hp` and `max_mp`
 
 LuaCore 1.4.2.1 - Arcon
 * Fixed merit typos
-* Renamed the merit values `max_hp` and `max_mp` merits to `hp` and `mp`
+* Renamed the merit values `max_hp` and `max_mp` to `hp` and `mp`
 
 Timers 1.1.1.2 - Nitrous
 * Added Atrophy Gloves/+1 check
