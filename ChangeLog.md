@@ -1,3 +1,8 @@
+2014-01-11
+----------
+ChatMon 1.10.0.1 - Arcon
+* Fixed the party invite event
+
 2014-01-07
 ----------
 LuaCore 1.4.2.2 - Arcon
