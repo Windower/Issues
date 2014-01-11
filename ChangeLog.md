@@ -57,10 +57,12 @@ LuaCore 1.4.1.0 - Arcon
 
 2014-01-04
 ----------
+FFXIDB 0.2.1.7 - Nitrous
+* Fix - Mouse Dragging
+
 FFXIDB 0.2.1.6 - Nitrous
 * Fix - Dots werent showing for players/monsters
 * Added feedback when toggling display of dots and targetlines
-* Fix - Mouse Dragging
 
 Timers 1.1.1.0 - Nitrous
 * Added Samba duration timers + gear extensions
