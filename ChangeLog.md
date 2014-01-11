@@ -1,5 +1,10 @@
 2014-01-11
 ----------
+LuaCore 1.4.2.3 - Arcon
+* Added ErrorNewLine option in LuaCore's settings XML
+  * Setting it to `true` will insert newlines before the error message, to avoid the text going outside of the screen
+  * Setting it to `false` (default) will make them display in one line as they were until now
+
 ChatMon 1.10.0.1 - Arcon
 * Fixed the party invite event
 
