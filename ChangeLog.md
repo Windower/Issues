@@ -1,3 +1,10 @@
+2014-01-12
+----------
+LuaCore 1.4.2.4 - Arcon
+* Added CondenseError option in LuaCore's settings XML
+  * Setting it to `true` will shorten the file path to the beginning of the addons folder
+  * Setting it to `false` (default) will display the full file path
+
 2014-01-11
 ----------
 LuaCore 1.4.2.3 - Arcon
