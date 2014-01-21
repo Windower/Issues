@@ -1,3 +1,74 @@
+2014-01-21
+----------
+InfoBar 1.2.0.1 - Arcon
+* Fixed crash on login
+
+Attainment 2.2.6.3 - Arcon
+* Fixed crash on login
+
+Spellcast 2.6.2.1 - Arcon
+* Fixed file loading
+
+Spellcast 2.6.2.0 - Cair
+* Fixed multiple crashes
+
+LuaCore 1.4.3.6 - Arcon
+* Adjusted `windower.ffxi.get_player().buffs` to not show `0xFF` (no buff)
+
+LuaCore 1.4.3.5 - Arcon
+* Changed `windower.ffxi.get_info().zone` to proper capitalization
+
+LuaCore 1.4.3.4 - Arcon
+* Increased addon reload duration to 3 seconds after `//reload LuaCore`
+
+Attainment 2.2.6.2 - Arcon
+* Adjusted for new update
+
+BlinkMeNot 3.0.7.0 - Arcon
+* Fixed crash on login
+
+LuaCore 1.4.3.3 - Arcon
+* Fixed incorrect job level reporting in `windower.ffxi.get_player()` (for both `main_job` and `sub_job`)
+
+LuaCore 1.4.3.2 - Arcon
+* Adjusted `windower.ffxi.get_player().status` to return a string again
+
+LuaCore 1.4.3.1 - Arcon
+* Adjusted `windower.ffxi.get_info().zone` to return a string again
+
+LuaCore 1.4.3.0 - Arcon
+* Adjusted the `status change` event to return IDs again
+
+2014-01-20 January FFXI update
+----------
+
+Itemizer 1.2.2.0 - Cair
+* Fixed for new Inventory struct
+
+GearCollector 1.0.3.0 - Cair
+* Fixed for new Inventory struct
+
+Find 1.0.3.0 - Cair
+* Fixed for new Inventory struct
+
+FFXIDB 0.2.2.0 - Cair
+* Fixed for new Party struct
+
+BoxHelper 1.3.1.3 - JoshK6656
+* Fixed for new Party struct
+
+TParty 1.2.1.3 - JoshK6656
+* Fixed for new Party struct
+
+BlinkMeNot 3.0.6.9 - JoshK6656
+* Fixed for new Party struct
+
+Timers 1.1.1.4 - JoshK6656
+* Fixed for new Inventory struct
+
+StatusTimer 1.2.2.2 - JoshK6656
+* Fixed for new Inventory struct
+
 2014-01-12
 ----------
 LuaCore 1.4.2.4 - Arcon
