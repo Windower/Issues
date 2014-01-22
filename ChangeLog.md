@@ -1,5 +1,8 @@
 2014-01-22
 ----------
+LuaCore 1.4.3.7 - Cair
+* Fixed unregistering events
+
 StatusTimer 1.2.2.3 - Cair
 * Fixed incorrect timer displays
 
