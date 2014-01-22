@@ -1,5 +1,8 @@
 2014-01-22
 ----------
+StatusTimer 1.2.2.3 - cair
+* Fixed incorrect timer displays
+
 Spellcast 2.6.2.2 - Arcon
 * Fixed job-related rules
 
