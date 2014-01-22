@@ -1,3 +1,8 @@
+2014-01-22
+----------
+Spellcast 2.6.2.2 - Arcon
+* Fixed job-related rules
+
 2014-01-21
 ----------
 InfoBar 1.2.0.1 - Arcon
