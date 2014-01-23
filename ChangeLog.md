@@ -1,5 +1,12 @@
 2014-01-22
 ----------
+Spellcast 2.6.2.3 - Arcon
+* Fixed default group loading
+
+LuaCore 1.4.4.0 - Arcon
+* Fixed `windower.ffxi.get_info().day`
+* Adjusted all resource values passed to be IDs instead of strings now
+
 LuaCore 1.4.3.7 - Cair
 * Fixed unregistering events
 
