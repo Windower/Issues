@@ -1,5 +1,14 @@
+2014-01-23
+----------
+LuaCore 1.4.4.2 - Arcon
+* Fixed stack corruption caused in outgoing text
+
 2014-01-22
 ----------
+
+LuaCore 1.4.4.1 - Iryoku
+* Added argument to outgoing text indicating whether or not the text was injected
+
 Spellcast 2.6.2.3 - Arcon
 * Fixed default group loading
 
