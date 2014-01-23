@@ -1,5 +1,8 @@
 2014-01-23
 ----------
+BlinkMeNot 3.0.7.1 - Arcon
+* Fixed character-specific settings loading on login
+
 LuaCore 1.4.4.2 - Arcon
 * Fixed stack corruption caused in outgoing text
 
