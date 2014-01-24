@@ -1,3 +1,10 @@
+2014-01-24
+----------
+
+FFXIDB 0.2.3.0 - Arcon
+* Fixed map display since update
+* Fixed crash on startup with no target
+
 2014-01-23
 ----------
 BlinkMeNot 3.0.7.1 - Arcon
