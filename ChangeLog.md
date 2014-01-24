@@ -1,6 +1,9 @@
 2014-01-24
 ----------
 
+Timers 1.1.1.5 - Arcon
+* Fixed stratagem display
+
 FFXIDB 0.2.3.0 - Arcon
 * Fixed map display since update
 * Fixed crash on startup with no target
