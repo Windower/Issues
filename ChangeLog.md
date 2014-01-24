@@ -1,6 +1,9 @@
 2014-01-24
 ----------
 
+Hook 4.1.2.3 - Arcon
+* Changed developer keys
+
 Timers 1.1.1.5 - Arcon
 * Fixed stratagem display
 
@@ -20,6 +23,9 @@ LuaCore 1.4.4.2 - Arcon
 ----------
 
 LuaCore 1.4.4.1 - Iryoku
+* Added argument to outgoing text indicating whether or not the text was injected
+
+Hook 4.1.2.2 - Iryoku
 * Added argument to outgoing text indicating whether or not the text was injected
 
 Spellcast 2.6.2.3 - Arcon
