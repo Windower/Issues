@@ -1,3 +1,14 @@
+2014-01-25
+----------
+
+LuaCore 1.4.4.5 - Arcon
+* Fixed `windower.ffxi.get_mjob_data().available_frames` for PUP
+  * `.available_attachments` is known to be bugged still
+
+LuaCore 1.4.4.4 - Arcon
+* Adjusted `windower.ffxi.get_mjob_data()` for PUP:
+  * `.available_heads`, `.available_frames` and `.available_attachments` will now return a list of IDs
+
 2014-01-24
 ----------
 
