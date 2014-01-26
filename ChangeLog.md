@@ -1,3 +1,10 @@
+2014-01-26
+----------
+
+FFXIDB 3.0.0.0 - Arcon
+* Settings slightly renamed
+* Will now save settings per character when the map is dragged/dropped and zoomed
+
 2014-01-25
 ----------
 
