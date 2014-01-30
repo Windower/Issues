@@ -1,3 +1,12 @@
+2014-01-29
+----------
+
+Timers 1.1.2.0 & 1.1.2.1 - Nitrous
+* Added Dynasty Gloves Checks
+* Added WHM Regen enhancement gear
+* Changed duration for barstatus/barelements to use the formula instead of static durations
+* Changed Settings to new api and added the defaults.
+
 2014-01-26
 ----------
 
