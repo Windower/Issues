@@ -1,11 +1,22 @@
+2014-01-30
+----------
+
+Timers 1.1.3.1 - Arcon
+* Fixed Barspell duration timers
+
+Timers 1.1.3.0 - Arcon
+* Fixed Timers display due to internal settings changes
+
 2014-01-29
 ----------
 
-Timers 1.1.2.0 & 1.1.2.1 - Nitrous
-* Added Dynasty Gloves Checks
-* Added WHM Regen enhancement gear
+Timers 1.1.2.1 - Nitrous
 * Changed duration for barstatus/barelements to use the formula instead of static durations
-* Changed Settings to new api and added the defaults.
+
+Timers 1.1.2.0 - Nitrous
+* Added Dynasty Gloves checks
+* Added WHM Regen enhancement gear
+* Changed settings to new API and added default values
 
 2014-01-26
 ----------
