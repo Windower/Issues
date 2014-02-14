@@ -1,3 +1,26 @@
+2014-02-14
+----------
+
+FFXIDB 0.3.1.1 - Arcon
+* Added `//ffxidb map save` option, which saves the current character's settings for all characters
+* Fixed opacity settings (both reading from settings file and setting it with `//ffxidb map opacity <x>`)
+* Internal signature fixes
+
+2013-02-13
+----------
+
+LuaCore 1.4.5.0 - Arcon
+* Fixed map-related commands (`windower.ffxi.get_position` and `windower.ffxi.get_map_data`)
+* Internal signature fixes
+
+2014-02-07
+----------
+
+FFXIDB 0.3.1.0 - Arcon
+* Adjusted settings parsing
+* Made all in-game commands save to the settings XML
+* Fixed range-settings
+
 2014-01-30
 ----------
 
