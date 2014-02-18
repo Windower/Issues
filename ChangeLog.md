@@ -1,6 +1,9 @@
 2015-02-18
 ----------
 
+JaZero 1.2.2.4 - Arcon, Cair
+* Adjusted for the update
+
 InfoBar 1.2.0.2 - Arcon, Cair
 * Adjusted for the update
 
