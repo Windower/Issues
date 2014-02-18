@@ -1,6 +1,9 @@
 2015-02-18
 ----------
 
+InfoBar 1.2.0.2 - Arcon, Cair
+* Adjusted for the update
+
 ConsoleBG 2.3.2.0 - Arcon
 * Adjusted settings parser
 
