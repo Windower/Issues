@@ -1,6 +1,9 @@
 2015-02-18
 ----------
 
+ConsoleBG 2.3.2.0 - Arcon
+* Adjusted settings parser
+
 LuaCore 1.4.6.1 - Cair
 * Fixed `is_valid` attribute of mob tables
 
@@ -8,7 +11,7 @@ Find 1.0.4.0 - Arcon, JoshK6656
 * Adjusted for the update
 * Adjusted settings parser
 
-2014-02-17 January FFXI update
+2014-02-17 February FFXI update
 ----------
 
 TParty 1.2.2.0 - Arcon
