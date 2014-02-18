@@ -1,3 +1,28 @@
+2015-02-18
+----------
+
+Find 1.0.4.0 - Arcon, JoshK6656
+* Adjusted for the update
+
+2014-02-17 January FFXI update
+----------
+
+TParty 1.2.2.0 - Arcon
+* Adjusted for the update
+
+Distance 1.3.3.0 - Arcon
+* Adjusted for the update
+
+GearCollector 1.0.4.0 - Arcon, JoshK6656
+* Adjusted for the update
+
+Spellcast 2.6.2.4 - Arcon, JoshK6656
+* Adjusted for the update
+* Fixed elements for day and weather
+
+LuaCore 1.4.6.0 - Arcon, JoshK6656
+* Adjusted for the update
+
 2014-02-14
 ----------
 
