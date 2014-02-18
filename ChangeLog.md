@@ -1,6 +1,10 @@
 2015-02-18
 ----------
 
+FFXIDB 0.3.1.2 - Arcon, Cair
+* Adjusted for the update
+* Adjusted settings parser
+
 JaZero 1.2.2.4 - Arcon, Cair
 * Adjusted for the update
 
