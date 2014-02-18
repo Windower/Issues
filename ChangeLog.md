@@ -1,8 +1,12 @@
 2015-02-18
 ----------
 
+LuaCore 1.4.6.1 - Cair
+* Fixed `is_valid` attribute of mob tables
+
 Find 1.0.4.0 - Arcon, JoshK6656
 * Adjusted for the update
+* Adjusted settings parser
 
 2014-02-17 January FFXI update
 ----------
@@ -12,15 +16,21 @@ TParty 1.2.2.0 - Arcon
 
 Distance 1.3.3.0 - Arcon
 * Adjusted for the update
+* Adjusted settings parser
 
 GearCollector 1.0.4.0 - Arcon, JoshK6656
 * Adjusted for the update
+* Adjusted settings parser
 
 Spellcast 2.6.2.4 - Arcon, JoshK6656
 * Adjusted for the update
 * Fixed elements for day and weather
 
 LuaCore 1.4.6.0 - Arcon, JoshK6656
+* Adjusted for the update
+* Adjusted settings parser
+
+Guildwork 1.4.1.4 - JoshK6656
 * Adjusted for the update
 
 2014-02-14
