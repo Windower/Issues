@@ -1,6 +1,10 @@
 2015-02-18
 ----------
 
+PetTP 2.2.0.2 - Arcon
+* Adjusted for the update
+* Adjusted settings parser
+
 FFXIDB 0.3.1.2 - Arcon, Cair
 * Adjusted for the update
 * Adjusted settings parser
