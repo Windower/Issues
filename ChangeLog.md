@@ -1,6 +1,25 @@
 2015-02-18
 ----------
 
+Timers 1.1.4.0 - Arcon
+* Adjusted for the update
+* Adjusted settings parser
+
+BlinkMeNot 3.1.0.0 - Arcon
+* Internal adjustments/cleanup
+* Adjusted for the update
+* Adjusted settings parser
+
+Spellcast 2.6.2.5 - Arcon
+* Updated to new struct
+
+LuaCore 1.4.6.2 - Arcon
+* Updated to new struct
+* Added dev function
+
+PetTP 2.2.0.3 - Arcon
+* Updated to new struct
+
 PetTP 2.2.0.2 - Arcon
 * Adjusted for the update
 * Adjusted settings parser
