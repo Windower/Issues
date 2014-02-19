@@ -1,3 +1,9 @@
+2015-02-19
+----------
+
+Attainment 2.2.6.4 - Arcon
+* Adjusted for the update
+
 2015-02-18
 ----------
 
