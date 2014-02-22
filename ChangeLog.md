@@ -1,3 +1,19 @@
+2015-02-22
+----------
+
+LuaCore 1.4.7.0 - Arcon
+* Added `menu_open` and `chat_open` to the `windower.ffxi.get_info` table
+* `pack` module:
+  * Changed `'b'` to `'c'` for unsigned char
+  * Added `'b'` for bit values (only for unsigned numeric types)
+
+2014-02-21
+----------
+
+LuaCore 1.4.6.3 - Arcon
+* `pack` module:
+  * Fixed fixed-size string unpacking
+
 2015-02-19
 ----------
 
