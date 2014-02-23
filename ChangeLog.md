@@ -1,4 +1,11 @@
-2015-02-22
+2014-02-23
+----------
+
+LuaCore 1.4.7.1 - Nitrous
+* Fixed available attachments and equipped frame.
+
+
+2014-02-22
 ----------
 
 LuaCore 1.4.7.0 - Arcon
