@@ -1,6 +1,15 @@
 2014-02-23
 ----------
 
+LuaCore 1.4.7.2 - Arcon
+* Changed the mob table returned by `windower.ffxi.get_mob_by_*`
+  * Added `spawn_type`
+  * Changed `model_size` to return `1` for regular sized models
+* Text objects can now have negative values and will not wrap around the screen
+
+AutoExec 2.8.1.1 - Arcon
+* Fixed `examined` and `invite` events
+
 LuaCore 1.4.7.1 - Nitrous
 * Fixed available attachments and equipped frame.
 
