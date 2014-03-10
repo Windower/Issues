@@ -1,3 +1,9 @@
+2014-03-09
+----------
+
+LuaCore 1.4.7.3 - Cair
+* Adjusted table returned by `windower.ffxi.get_spell_recasts` to start with index 0 to match spell IDs
+
 2014-02-23
 ----------
 
