@@ -1,8 +1,60 @@
+2014-03-16
+----------
+
+GearCollector 1.4.2.1 - Arcon
+* Adjusted to new Hook API
+
+ConsoleBG 2.3.2.1 - Arcon
+* Adjusted to new Hook API
+
+2014-03-15 - Windower 4.2 released
+----------
+
+LuaCore 1.5.0.2 - Arcon
+* Adjusted to new Hook API
+
+Hook 4.2.0.2 - Arcon
+* Fixed a crash when determining the size of a certain struct
+
+LuaCore 1.5.0.1 - Arcon
+* Adjusted to new Hook API
+* Fixed a crash on login with the new API, added safety-checks
+
+Hook 4.2.0.1 - Arcon
+* Changed the API slightly for a cleaner setup
+
+LuaCore 1.5.0.0 - Arcon
+* Adjusted to new Hook API
+* Fixed one possible crash on unloading an addon
+* Exposed current food, medicine and costume effect to the table returned by `windower.ffxi.get_player`
+* Removed `linkshell_rank` from that same table (wasn't working right and it's easily determined if needed)
+
+Hook 4.2.0.0 - Arcon
+* Added data extraction from packets to Hook
+* Consequences for plugins include:
+  * No more memory-reliance and hence less chance of plugins breaking during updates
+  * Items are no longer cleared when zoning, they are available to the API immediately after zoning
+    * Note that this does not affect the in-game item display, only the Lua API
+  * Allows us to reliably track stats that were impossible to accurately determine before (like food, medicine, weather, etc.)
+
+2014-03-12
+----------
+
+LuaCore 1.4.7.4 - Arcon
+* Fixed one source of crashing during event registration
+
 2014-03-09
 ----------
 
 LuaCore 1.4.7.3 - Cair
 * Adjusted table returned by `windower.ffxi.get_spell_recasts` to start with index 0 to match spell IDs
+
+2014-03-08
+----------
+
+Guildwork 1.4.2.0 - Arcon
+* Fixed crafting-related data collection
+* Safe-guarded data-collection against injected and modified packets
 
 2014-02-23
 ----------
