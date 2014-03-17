@@ -1,6 +1,9 @@
 2014-03-17
 ----------
 
+Spellcast 2.6.2.9 - Arcon
+* Fixed status values on autoset
+
 FFOChat 1.0.2.7 - Arcon
 * Fixed settings loading and chat output
 
