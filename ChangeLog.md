@@ -1,5 +1,23 @@
+2014-03-17
+----------
+
+AutoExec 2.8.1.2 - Arcon
+* Adjusted to new Hook API
+
+Itemizer 1.2.2.2 - Arcon
+* Adjusted to new Hook API
+
 2014-03-16
 ----------
+
+Spellcast 2.6.2.6 - Arcon
+* Adjusted to new Hook API
+
+DrawDistance 2.2.1.3 - Arcon
+* Adjusted to new Hook API
+
+Bidder 1.4.1.6 - Arcon
+* Adjusted to new Hook API
 
 GearCollector 1.4.2.1 - Arcon
 * Adjusted to new Hook API
