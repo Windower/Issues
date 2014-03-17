@@ -1,6 +1,12 @@
 2014-03-17
 ----------
 
+Spellcast 2.6.2.7 - Arcon
+* Fixed a crash when performing certain actions if the plugin was loaded before logging in
+
+LuaCore 1.5.0.4 - Arcon
+* Populated target information correctly
+
 LuaCore 1.5.0.3 - Arcon
 * Fixed a crash on login when using `windower.ffxi.get_player()` too quickly after login
 
