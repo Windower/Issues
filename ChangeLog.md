@@ -1,6 +1,12 @@
 2014-03-17
 ----------
 
+FFOChat 1.0.2.7 - Arcon
+* Fixed settings loading and chat output
+
+Spellcast 2.6.2.8 - Cair
+* Fixed gear swapping
+
 AutoExec 2.8.1.3 - Arcon
 * Fixed login event not executing
 
