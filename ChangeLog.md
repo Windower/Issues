@@ -1,6 +1,12 @@
 2014-03-17
 ----------
 
+AutoExec 2.8.1.3 - Arcon
+* Fixed login event not executing
+
+TParty 1.2.2.2 - Arcon
+* Fixed target and party loading
+
 Spellcast 2.6.2.7 - Arcon
 * Fixed a crash when performing certain actions if the plugin was loaded before logging in
 
