@@ -1,6 +1,9 @@
 2014-03-17
 ----------
 
+FFOChat 1.0.2.8 - Arcon
+* Fixed not initializing properly on login
+
 StatusTimer 1.2.2.6 - Arcon
 * Adjusted to new Hook API
 
