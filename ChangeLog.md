@@ -1,6 +1,34 @@
 2014-03-17
 ----------
 
+StatusTimer 1.2.2.6 - Arcon
+* Adjusted to new Hook API
+
+Find 1.0.4.2 - Arcon
+* Adjusted to new Hook API
+
+Itemizer 1.2.2.3 - Arcon
+* Adjusted to new Hook API
+
+Guildwork 1.4.2.2 - Arcon
+* Adjusted to new Hook API
+
+GearCollector 1.0.4.2 - Arcon
+* Adjusted to new Hook API
+
+Timers 1.1.4.3 - Arcon
+* Adjusted to new Hook API
+
+Spellcast 2.6.2.10 - Arcon
+* Adjusted to new Hook API
+
+LuaCore 1.5.0.5 - Arcon
+* Adjusted to new Hook API
+
+Hook 4.2.0.3 - Arcon
+* Re-added item status to the item struct
+* Fixed item slot calculation
+
 Spellcast 2.6.2.9 - Arcon
 * Fixed status values on autoset
 
