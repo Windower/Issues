@@ -1,6 +1,60 @@
 2014-03-17
 ----------
 
+ZoneTimer 1.2.1.4 - Arcon
+* Adjusted to new Hook API
+
+WinControl 1.6.1.4 - Arcon
+* Adjusted to new Hook API
+
+WeatherMon 1.0.1.3 - Arcon
+* Adjusted to new Hook API
+
+UpdateResources 1.0.1.4 - Arcon
+* Adjusted to new Hook API
+
+TParty 1.2.2.1 - Arcon
+* Adjusted to new Hook API
+
+Timestamp 2.2.1.3 - Arcon
+* Adjusted to new Hook API
+
+Timers 1.1.4.2 - Arcon
+* Adjusted to new Hook API
+
+Tickle 1.1.2.3 - Arcon
+* Adjusted to new Hook API
+
+Text 1.1.1.3 - Arcon
+* Adjusted to new Hook API
+
+StatusTimer 1.2.2.4 - Arcon
+* Adjusted to new Hook API
+
+SSOrganizer 1.5.1.3 - Arcon
+* Adjusted to new Hook API
+
+Silence 1.7.2.3 - Arcon
+* Adjusted to new Hook API
+
+Sandbox 1.0.1.2 - Arcon
+* Adjusted to new Hook API
+
+Run 1.3.1.3 - Arcon
+* Adjusted to new Hook API
+
+PlasticSurgeon 1.1.1.3 - Arcon
+* Adjusted to new Hook API
+
+PetTP 2.2.0.4 - Arcon
+* Adjusted to new Hook API
+
+Logger 1.5.1.4 - Arcon
+* Adjusted to new Hook API
+
+LightLuggage 3.3.2.3 - Arcon
+* Adjusted to new Hook API
+
 JaZero 1.2.2.5 - Arcon
 * Adjusted to new Hook API
 
@@ -96,6 +150,7 @@ Hook 4.2.0.0 - Arcon
   * Items are no longer cleared when zoning, they are available to the API immediately after zoning
     * Note that this does not affect the in-game item display, only the Lua API
   * Allows us to reliably track stats that were impossible to accurately determine before (like food, medicine, weather, etc.)
+  * Minor efficiency improvements as a lot of safety-checks could be removed
 
 2014-03-12
 ----------
