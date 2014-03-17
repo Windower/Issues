@@ -1,6 +1,48 @@
 2014-03-17
 ----------
 
+JaZero 1.2.2.5 - Arcon
+* Adjusted to new Hook API
+
+InfoBar 1.2.0.3 - Arcon
+* Adjusted to new Hook API
+
+IME 1.2.1.3 - Arcon
+* Adjusted to new Hook API
+
+Find 1.0.4.1 - Arcon
+* Adjusted to new Hook API
+
+FFOChat 1.0.2.6 - Arcon
+* Fixed auto-joined channels not loading
+
+FFOChat 1.0.2.5 - Arcon
+* Adjusted to new Hook API
+
+Distance 1.3.3.1 - Arcon
+* Adjusted to new Hook API
+
+Clock 2.4.1.3 - Arcon
+* Adjusted to new Hook API
+
+ChatMon 1.10.0.2 - Arcon
+* Adjusted to new Hook API
+
+ChatLink 1.0.1.3 - Arcon
+* Adjusted to new Hook API
+
+Cancel 1.0.1.4 - Arcon
+* Adjusted to new Hook API
+
+BoxHelper 1.3.1.4 - Arcon
+* Adjusted to new Hook API
+
+BlinkMeNot 3.1.0.1 - Arcon
+* Adjusted to new Hook API
+
+Binder 1.4.1.1 - Arcon
+* Adjusted to new Hook API
+
 AutoExec 2.8.1.2 - Arcon
 * Adjusted to new Hook API
 
