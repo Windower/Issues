@@ -1,6 +1,9 @@
 2014-03-17
 ----------
 
+Spellcast 2.6.2.11 - Arcon
+* Fixed earring/ring equipping and crashing issues
+
 FFOChat 1.0.2.8 - Arcon
 * Fixed not initializing properly on login
 
