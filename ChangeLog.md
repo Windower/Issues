@@ -1,6 +1,12 @@
 2014-03-17
 ----------
 
+Attainment 2.2.6.5 - Arcon
+* Adjusted to new Hook API
+
+InfoBar 1.2.0.4 - Arcon
+* Fixed crash on load
+
 Spellcast 2.6.2.11 - Arcon
 * Fixed earring/ring equipping and crashing issues
 
