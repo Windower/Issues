@@ -1,3 +1,39 @@
+2014-03-18
+----------
+
+Spellcast 2.6.2.13 - Arcon
+* Fixed status-based gear handling
+
+Guildwork 1.4.2.3 - Arcon
+* Fixed command handler
+
+TParty 1.2.2.3 - Cair
+* Fixed logout event and related issues
+
+Timers 1.1.4.4 - Cair
+* Fixed logout event and related issues
+
+StatusTimer 1.2.2.7 - Cair
+* Fixed logout event and related issues
+
+Spellcast 2.6.2.12 - Cair
+* Fixed logout event and related issues
+
+Sandbox 1.0.1.4 - Cair
+* Fixed logout event and related issues
+
+LuaCore 1.5.0.6 - Cair
+* Fixed logout event and related issues
+
+GearCollector 1.0.4.3 - Cair
+* Fixed logout event and related issues
+
+InfoBar 1.2.0.5 - Cair
+* Fixed logout event and related issues
+
+Find 1.0.4.3 - Cair
+* Fixed logout event and related issues
+
 2014-03-17
 ----------
 
