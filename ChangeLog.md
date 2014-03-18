@@ -1,6 +1,9 @@
 2014-03-18
 ----------
 
+BlinkMeNot 3.1.0.2 - Arcon
+* Fixed not loading correctly on initial login
+
 Itemizer 1.2.2.4 - Arcon
 * Fixed command handler
 
