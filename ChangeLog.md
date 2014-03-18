@@ -1,6 +1,13 @@
 2014-03-18
 ----------
 
+WeatherMon 1.0.1.4 - Arcon
+* Fixed crashing on load
+
+Hook 4.2.0.4 - Arcon
+* Fixed time-related structures
+  * This update will immediately fix related issues in other plugins such as AutoExec and LuaCore
+
 BlinkMeNot 3.1.0.2 - Arcon
 * Fixed not loading correctly on initial login
 
