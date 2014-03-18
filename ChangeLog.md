@@ -1,6 +1,9 @@
 2014-03-18
 ----------
 
+Itemizer 1.2.2.4 - Arcon
+* Fixed command handler
+
 Spellcast 2.6.2.13 - Arcon
 * Fixed status-based gear handling
 
