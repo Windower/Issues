@@ -1,6 +1,9 @@
 2014-03-19
 ----------
 
+BlinkMeNot 3.1.0.3 - Cair
+* Fixed unintended behavior during monstrosity and related activities.
+
 PlasticSurgeon 1.1.1.4 - Cair
 * Fixed unintended behavior during monstrosity and related activities.
 
