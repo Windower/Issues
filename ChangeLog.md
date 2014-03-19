@@ -1,6 +1,10 @@
 2014-03-18
 ----------
 
+Hook 4.2.0.5 - Arcon
+* Adjusted inventory to backup from memory-based struct
+  * This update will immediately fix related issues in other plugins such as Timers, Spellcast and LuaCore
+
 WeatherMon 1.0.1.4 - Arcon
 * Fixed crashing on load
 
