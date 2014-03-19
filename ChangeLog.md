@@ -1,3 +1,10 @@
+2014-03-19
+----------
+
+PlasticSurgeon 1.1.1.4 - Cair
+* Fixed unintended behavior during monstrosity and related activities.
+
+
 2014-03-18
 ----------
 
