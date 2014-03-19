@@ -1,6 +1,12 @@
 2014-03-18
 ----------
 
+AutoExec 2.8.1.4 - Arcon
+* Fixed buff events
+
+LuaCore 1.5.0.7 - Arcon
+* Fixed buff events
+
 Hook 4.2.0.5 - Arcon
 * Adjusted inventory to backup from memory-based struct
   * This update will immediately fix related issues in other plugins such as Timers, Spellcast and LuaCore
