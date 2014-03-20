@@ -1,15 +1,14 @@
 2014-03-19
 ----------
 
+PlasticSurgeon 1.1.1.5 - Arcon
+* Fixed command handler
+
 BlinkMeNot 3.1.0.3 - Cair
 * Fixed unintended behavior during monstrosity and related activities.
 
 PlasticSurgeon 1.1.1.4 - Cair
 * Fixed unintended behavior during monstrosity and related activities.
-
-
-2014-03-18
-----------
 
 AutoExec 2.8.1.4 - Arcon
 * Fixed buff events
@@ -20,6 +19,9 @@ LuaCore 1.5.0.7 - Arcon
 Hook 4.2.0.5 - Arcon
 * Adjusted inventory to backup from memory-based struct
   * This update will immediately fix related issues in other plugins such as Timers, Spellcast and LuaCore
+
+2014-03-18
+----------
 
 WeatherMon 1.0.1.4 - Arcon
 * Fixed crashing on load
