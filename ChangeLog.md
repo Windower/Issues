@@ -1,5 +1,15 @@
+2014-03-20
+----------
+
+LuaCore 1.5.0.9 - Arcon
+* Added `count_<bag>` for all item bags in `windower.ffxi.get_items`
+  * Returns the currently used amount of the respective inventory bag
+
 2014-03-19
 ----------
+
+LuaCore 1.5.0.8 - Arcon
+* Fixed `windower.get_camera`
 
 PlasticSurgeon 1.1.1.5 - Arcon
 * Fixed command handler
