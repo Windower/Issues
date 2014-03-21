@@ -1,3 +1,9 @@
+2014-03-21
+----------
+
+ChatMon 1.10.0.3 - Arcon
+* Fixed party invite, emote and examined events
+
 2014-03-20
 ----------
 
