@@ -1,3 +1,18 @@
+2014-03-23
+----------
+
+PetTP 2.2.0.5 - Arcon
+* Fixed not displaying correctly
+
+Hook 4.2.1.2 - Arcon
+* Fixed item `extdata` field not populating correctly
+
+2014-03-22
+----------
+
+Hook 4.2.1.1 - Arcon
+* Moved job info to the packet-based extractor
+
 2014-03-21
 ----------
 
@@ -13,6 +28,9 @@ LuaCore 1.5.0.9 - Arcon
 
 2014-03-19
 ----------
+
+Hook 4.2.1.0 - Arcon
+* Fixed packet-based item data extraction
 
 LuaCore 1.5.0.8 - Arcon
 * Fixed `windower.get_camera`
