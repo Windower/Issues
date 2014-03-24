@@ -1,3 +1,12 @@
+2014-03-24
+----------
+
+WeatherMon 1.0.1.6 - Arcon
+* Fixed correct sound playing
+
+WeatherMon 1.0.1.5 - Arcon
+* Fixed icon display
+
 2014-03-23
 ----------
 
