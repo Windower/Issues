@@ -1,8 +1,15 @@
+2014-03-29
+----------
+
+Find 1.0.5.0 - Arcon
+* Adjusted to new Hook API
+* Minor recode, efficiency and stability improvements
+
 2014-03-28
 ----------
 
 LuaCore 1.5.1.0 - Arcon
-* Adjusted to Hook API
+* Adjusted to new Hook API
 
 FFOChat 1.1.0.0 - Arcon
 * Recode, added further customization options
