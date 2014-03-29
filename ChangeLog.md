@@ -1,3 +1,16 @@
+2014-03-28
+----------
+
+LuaCore 1.5.1.0 - Arcon
+* Adjusted to Hook API
+
+FFOChat 1.1.0.0 - Arcon
+* Recode, added further customization options
+
+Hook 4.2.1.3 - Arcon
+* Amended packet-based data extraction
+* Fixed certain item-related data extraction
+
 2014-03-24
 ----------
 
@@ -18,6 +31,9 @@ Hook 4.2.1.2 - Arcon
 
 2014-03-22
 ----------
+
+LuaCore 1.5.0.10 - Arcon
+* Added boolean bit packing to the `pack` library (identifier `q`)
 
 Hook 4.2.1.1 - Arcon
 * Moved job info to the packet-based extractor
