@@ -1,6 +1,15 @@
 2014-03-29
 ----------
 
+LuaCore 1.5.1.1 - Arcon
+* Fixed crash when using map-related functions
+
+GearCollector 1.0.4.4 - Arcon
+* Adjusted to new Hook API, efficiency improvements
+
+Itemizer 1.2.2.4 - Arcon
+* Adjusted to new Hook API, efficiency improvements
+
 Find 1.0.5.0 - Arcon
 * Adjusted to new Hook API
 * Minor recode, efficiency and stability improvements
