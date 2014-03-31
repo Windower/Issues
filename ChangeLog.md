@@ -1,3 +1,9 @@
+2014-03-31
+----------
+
+Find 1.0.5.1 - Arcon
+* Added a `$USEDSPACE` token to Find
+
 2014-03-29
 ----------
 
