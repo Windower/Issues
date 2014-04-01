@@ -1,3 +1,12 @@
+2014-04-01
+----------
+
+Hook 4.2.1.5 - Arcon
+* Fixed temporary items not resetting on zone
+
+Hook 4.2.1.4 - Arcon
+* Fixed logging facilities
+
 2014-03-31
 ----------
 
