@@ -1,3 +1,9 @@
+2014-04-05
+----------
+
+LuaCore 1.5.1.2 - Arcon
+* Fixed follow/autorun-related values and functions
+
 2014-04-01
 ----------
 
