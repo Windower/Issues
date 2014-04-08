@@ -1,8 +1,29 @@
+2014-04-08
+----------
+
+Itemizer 1.2.3.1 - Arcon
+* Fixed storing/retrieving items to/from Mog Safe
+
+Timers 1.1.4.5 - Arcon
+* Fixed gear-augmented buffs
+
+2014-04-07
+----------
+
+Hook 4.2.1.7 - Arcon
+* Fixed crash on zoning
+
 2014-04-05
 ----------
 
 LuaCore 1.5.1.2 - Arcon
 * Fixed follow/autorun-related values and functions
+
+2014-04-02
+----------
+
+Hook 4.2.1.6 - Arcon
+* Cleared temporary items on zoning
 
 2014-04-01
 ----------
