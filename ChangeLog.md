@@ -1,6 +1,12 @@
 2014-04-08
 ----------
 
+LuaCore 1.5.2.0 - Arcon
+* Added the following functions to `windower.ffxi`
+  * [`windower.ffxi.run`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxirun)
+  * [`windower.ffxi.toggle_walk`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxitoggle_walk_walk)
+  * [`windower.ffxi.turn`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiturn_dir)
+
 Itemizer 1.2.3.1 - Arcon
 * Fixed storing/retrieving items to/from Mog Safe
 
