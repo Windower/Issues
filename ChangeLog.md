@@ -1,6 +1,9 @@
 2014-04-08
 ----------
 
+JaZero 1.2.2.6 - Arcon
+* Fixed unlocking character movement on engage/disengage
+
 LuaCore 1.5.2.0 - Arcon
 * Added the following functions to `windower.ffxi`
   * [`windower.ffxi.run`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxirun)
