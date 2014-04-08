@@ -1,6 +1,9 @@
 2014-04-08
 ----------
 
+Spellcast 2.6.2.14 - Arcon
+* Fixed equipment related rules and variables
+
 JaZero 1.2.2.6 - Arcon
 * Fixed unlocking character movement on engage/disengage
 
