@@ -1,6 +1,9 @@
 2014-04-10
 ----------
 
+LuaCore 1.5.2.2 - Arcon
+* Fixed the `TellHistory` signature
+
 LuaCore 1.5.2.1 - Arcon
 * Fixed `windower.ffxi.get_info().chat_open`
 
