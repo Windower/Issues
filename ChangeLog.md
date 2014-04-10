@@ -1,3 +1,10 @@
+2014-04-10
+----------
+
+LuaCore 1.5.2.1 - Arcon
+* Fixed `windower.ffxi.get_info().chat_open`
+
+
 2014-04-08
 ----------
 
