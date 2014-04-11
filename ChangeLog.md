@@ -1,6 +1,9 @@
 2014-04-11
 ----------
 
+Timers 1.1.4.6 - Arcon
+* Fixed Embolden bug and Stratagem display
+
 LuaCore 1.5.2.4 - Arcon
 * Yes, you did, but no one to blame but myself :<
 
