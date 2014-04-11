@@ -1,6 +1,9 @@
 2014-04-11
 ----------
 
+Hook 4.2.1.8 - Arcon
+* Possible fix for the random crashes to login screen
+
 Timers 1.1.4.6 - Arcon
 * Fixed Embolden bug and Stratagem display
 
