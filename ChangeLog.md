@@ -1,5 +1,7 @@
 2014-04-10
 ----------
+LuaCore 1.5.2.3 - Nitrous
+* Fixed the autorun/follow spam. And hopefully didn't break 1.5.2.2 fix because it wasn't committed >.>
 
 LuaCore 1.5.2.2 - Arcon
 * Fixed the `TellHistory` signature
