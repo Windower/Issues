@@ -1,3 +1,9 @@
+2014-04-11
+----------
+
+LuaCore 1.5.2.4 - Arcon
+* Yes, you did, but no one to blame but myself :<
+
 2014-04-10
 ----------
 LuaCore 1.5.2.3 - Nitrous
