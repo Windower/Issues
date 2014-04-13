@@ -1,3 +1,9 @@
+2014-04-13
+----------
+
+LuaCore 1.5.2.5 - Arcon
+* Fixed not recognizing the `keyboard` event on autoload
+
 2014-04-11
 ----------
 
