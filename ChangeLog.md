@@ -1,6 +1,9 @@
 2014-04-13
 ----------
 
+Itemizer 1.2.3.2 - Arcon
+* Fixed issue where only lower case commands were recognized by the plugin
+
 LuaCore 1.5.2.5 - Arcon
 * Fixed not recognizing the `keyboard` event on autoload
 
