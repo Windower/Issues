@@ -1,3 +1,11 @@
+2014-04-14
+----------
+
+LuaCore 1.5.3.0 - Arcon
+* Added an escape character (`\`) to command handling
+  * This allows to input double quotes into commands by prepending a `\`
+  * Example: `//send mulename /item \"Stalwart's Tonic\" <me>`
+
 2014-04-13
 ----------
 
