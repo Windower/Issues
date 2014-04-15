@@ -1,6 +1,12 @@
 2014-04-15
 ----------
 
+WeatherMon 1.0.1.7 - Arcon
+* Fixed lightning not being recognized correctly (both day and weather)
+
+Hook 4.2.1.9 - Arcon
+* Added weather change packet to data extraction
+
 Spellcast 2.6.2.15 - Arcon
 * Fixed debugging
 
@@ -14,6 +20,7 @@ LuaCore 1.5.3.0 - Arcon
 * Added an escape character (`\`) to command handling
   * This allows to input double quotes into commands by prepending a `\`
   * Example: `//send mulename /item \"Stalwart's Tonic\" <me>`
+  * Currently `"` and ` ` are the only escapeable characters, more may be added
 
 2014-04-13
 ----------
