@@ -1,3 +1,12 @@
+2014-04-15
+----------
+
+Spellcast 2.6.2.15 - Arcon
+* Fixed debugging
+
+LuaCore 1.5.3.1 - Arcon
+* Fixed debugging
+
 2014-04-14
 ----------
 
