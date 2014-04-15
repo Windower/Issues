@@ -1,6 +1,9 @@
 2014-04-15
 ----------
 
+LuaCore 1.5.3.3 - Arcon
+* Fixed a crash source when using `windower.ffxi.turn`
+
 LuaCore 1.5.3.2 - Arcon
 * Fixed the `unhandled command` event providing the first argument twice
 
