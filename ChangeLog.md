@@ -1,6 +1,9 @@
 2014-04-15
 ----------
 
+WeatherMon 1.0.1.8 - JoshK6656
+* Fixed the weather tracking
+
 LuaCore 1.5.3.3 - Arcon
 * Fixed a crash source when using `windower.ffxi.turn`
 
