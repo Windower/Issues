@@ -1,6 +1,9 @@
 2014-04-15
 ----------
 
+LuaCore 1.5.3.2 - Arcon
+* Fixed the `unhandled command` event providing the first argument twice
+
 WeatherMon 1.0.1.7 - Arcon
 * Fixed lightning not being recognized correctly (both day and weather)
 
