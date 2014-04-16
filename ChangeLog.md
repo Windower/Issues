@@ -1,3 +1,9 @@
+2014-04-16
+----------
+
+Timers 1.1.4.7 - Arcon
+* Fixed stratagem display (again)
+
 2014-04-15
 ----------
 
