@@ -1,3 +1,9 @@
+2014-04-17
+----------
+
+Timers 1.1.4.8 - Arcon
+* Added `Shabti Cuirass` and `Shabti Cuirass +1` to the calculations
+
 2014-04-16
 ----------
 
