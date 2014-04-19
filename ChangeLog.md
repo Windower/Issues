@@ -1,6 +1,9 @@
 2014-04-19
 ----------
 
+Spellcast 2.6.2.16 - Arcon
+* Fixed issue with `sc var set` where it wouldn't parse the entire line
+
 LuaCore 1.5.4.1 - Arcon
 * Fixed addon load text display
 
