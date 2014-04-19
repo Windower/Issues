@@ -1,3 +1,9 @@
+2014-04-19
+----------
+
+Find 1.0.5.2 - Arcon
+* Fixed issue where tracking certain items would display the number of used slots in the inventory instead of the actual item count
+
 2014-04-17
 ----------
 
