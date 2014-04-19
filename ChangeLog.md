@@ -1,6 +1,9 @@
 2014-04-19
 ----------
 
+LuaCore 1.5.4.1 - Arcon
+* Fixed addon load text display
+
 LuaCore 1.5.4.0 - Arcon
 * Fixed incorrect triggering of the `status change` event immediately after logging in
 * Added fishing (`50`) and event (`4`) to the list of events which status change will trigger on
