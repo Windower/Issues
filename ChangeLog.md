@@ -1,6 +1,15 @@
 2014-04-19
 ----------
 
+LuaCore 1.5.4.0 - Arcon
+* Fixed incorrect triggering of the `status change` event immediately after logging in
+* Added fishing (`50`) and event (`4`) to the list of events which status change will trigger on
+
+LuaCore 1.5.3.3 - Arcon
+* Fixed unload crash
+* Prettied up loading text for addons
+  * Author and version will now only be displayed if set
+
 Find 1.0.5.2 - Arcon
 * Fixed issue where tracking certain items would display the number of used slots in the inventory instead of the actual item count
 
