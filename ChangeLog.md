@@ -1,3 +1,9 @@
+2014-04-20
+----------
+
+Spellcast 2.6.2.17 - Arcon
+* Fixed another issue with `sc var set` where it would omit spaces under certain conditions
+
 2014-04-19
 ----------
 
