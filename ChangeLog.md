@@ -1,6 +1,9 @@
 2014-04-19
 ----------
 
+Find 1.0.5.3 - Arcon
+* Fixed gil slot being ignored for item tracking
+
 Spellcast 2.6.2.16 - Arcon
 * Fixed issue with `sc var set` where it wouldn't parse the entire line
 
