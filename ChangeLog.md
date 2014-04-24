@@ -1,3 +1,10 @@
+2014-04-24
+----------
+
+LuaCore 1.5.4.2 - Arcon
+* Adjusted shortened error display
+* Fixed shortened errors on loading plugins
+
 2014-04-20
 ----------
 
