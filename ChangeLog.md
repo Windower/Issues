@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+LuaCore 1.6.0.0 - Arcon
+* Added the `LuaSocket` library
+
 Attainment 2.2.6.6 - Arcon
 * Fixed various bugs to tracking merits
 
