@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+Attainment 2.2.6.7 - Arcon
+* Fixed crash on load bug
+
 LuaCore 1.6.0.0 - Arcon
 * Added the `LuaSocket` library
 
