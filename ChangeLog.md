@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+Spellcast 2.6.2.18 - Arcon
+* Fixed crash on using the `sc group` command
+
 Hook 4.2.1.12 - Arcon
 * Added console logging
   * Off by default, toggle with `console_log [0|1]`
