@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+Hook 4.2.1.11 - Arcon
+* Fixed video recording
+
 Hook 4.2.1.10 - Arcon
 * Fixed mouse coordinates when playing windowed
 
