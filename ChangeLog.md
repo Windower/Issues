@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+LuaCore 1.6.1.0 - Arcon
+* Added [`get_mob_name`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_mob_name_index) function to `windower.ffxi`
+
 Spellcast 2.6.2.18 - Arcon
 * Fixed crash on using the `sc group` command
 
