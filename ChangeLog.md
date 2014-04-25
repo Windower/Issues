@@ -1,3 +1,9 @@
+2014-04-25
+----------
+
+Hook 4.2.1.10 - Arcon
+* Fixed mouse coordinates when playing windowed
+
 2014-04-24
 ----------
 
