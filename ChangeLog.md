@@ -1,10 +1,14 @@
 2014-04-25
 ----------
 
+Hook 4.2.1.12 - Arcon
+* Added console logging
+  * Off by default, toggle with `console_log [0|1]`
+
 Attainment 2.2.6.7 - Arcon
 * Fixed crash on load bug
 
-LuaCore 1.6.0.0 - Arcon
+LuaCore 1.6.0.0 - Suji, Iryoku
 * Added the `LuaSocket` library
 
 Attainment 2.2.6.6 - Arcon
