@@ -1,6 +1,9 @@
 2014-04-25
 ----------
 
+Attainment 2.2.6.6 - Arcon
+* Fixed various bugs to tracking merits
+
 LuaCore 1.5.4.3 - Arcon
 * Added `species` and `instincts` to `windower.ffxi.get_mjob_data` and `windower.ffxi.get_sjob_data` when on Monipulator
 
