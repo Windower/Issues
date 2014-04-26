@@ -1,3 +1,10 @@
+2014-04-26
+----------
+
+LuaCore 1.6.1.1 - Arcon
+* Adjusted [`windower.ffxiget_mob_name`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_mob_name_index) function to work with an ID instead of index
+* Reduced file size and load speed by removing unsued dependencies and functions
+
 2014-04-25
 ----------
 
