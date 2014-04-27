@@ -1,5 +1,23 @@
+2014-04-27
+----------
+
+Launcher 4.2.5230.11240 - Arcon
+* Added all missing Lua resources to the Launcher
+* Changed the format of the server manifest to disambiguate resources of different types
+
 2014-04-26
 ----------
+
+UpdateResources *discontinued* - Arcon
+* Resources will now be downloaded through the Windower Launcher
+* The plugin is still functional and will not be removed from the plugins folder
+* It will, however, no longer be downloaded through the Launcher
+
+Launcher 4.2.5229.33144 - Arcon
+* Included plugin resources into the resource downloader
+
+Launcher 4.2.5229.33144 - Arcon, Iryoku
+* Added resource downloader
 
 LuaCore 1.6.1.2 - Arcon
 * Added [`windower.windower_path`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start) variable
