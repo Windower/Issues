@@ -1,6 +1,10 @@
 2014-04-27
 ----------
 
+Launcher 4.2.5230.31708 - Arcon
+* Adjusted to download resources before plugins
+  * Otherwise running instances may reload plugins before new resources have been downloaded
+
 Launcher 4.2.5230.11240 - Arcon
 * Added all missing Lua resources to the Launcher
 * Changed the format of the server manifest to disambiguate resources of different types
