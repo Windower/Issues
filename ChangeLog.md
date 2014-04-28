@@ -1,3 +1,9 @@
+2014-04-28
+----------
+LuaCore 1.6.1.3 - Cair
+* Added `target_index` to the mob array structure. This is always 0 for NPCs.
+
+
 2014-04-27
 ----------
 
