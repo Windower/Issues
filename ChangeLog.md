@@ -1,3 +1,12 @@
+2014-05-01
+----------
+
+Launcher 4.2.5234.31468 - Arcon
+* Adjusted resources
+  * Moved hardcoded resources into the [ResourceExtractor](https://github.com/Windower/ResourceExtractor) repository
+  * Fixed resources bug
+* Added separate resource directory for the Windower development build
+
 2014-04-28
 ----------
 LuaCore 1.6.1.3 - Cair
