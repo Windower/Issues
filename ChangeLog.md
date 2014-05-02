@@ -1,8 +1,13 @@
 2014-05-02
 ----------
 
+LuaCore 1.6.1.6 - Arcon
+* Added the following skills to the `skills` table
+  * `geomancy`
+  * `handbell`
+
 LuaCore 1.6.1.5 - Arcon
-* Renamed the following skill names in the `status` table to match the in-game names better
+* Renamed the following skill names in the `skills` table to match the in-game names better
   * `divine` to `divine_magic`
   * `enhancing` to `enhancing_magic`
   * `elemental` to `elemental_magic`
@@ -13,7 +18,7 @@ LuaCore 1.6.1.5 - Arcon
   * `wind` to `wind_instrument`
 
 LuaCore 1.6.1.4 - Arcon
-* Renamed `ninjitsu` to `ninjutsu` in the `status` table, as it is in-game
+* Renamed `ninjitsu` to `ninjutsu` in the `skills` table, as it is in-game
 
 FFOChat 1.1.0.3 - Arcon
 * Fixed name display when receiving PMs
