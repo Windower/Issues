@@ -1,6 +1,14 @@
 2014-05-02
 ----------
 
+JaZero 1.2.2.7 - Arcon
+* Fixed crash during home point set dialogue after a job change
+
+LuaCore 1.6.1.8 - Arcon
+* Adjusted mob table
+  * Changed `model_size` to `model_scale`
+  * Added `model_scale`
+
 LuaCore 1.6.1.7 - Arcon
 * Added [`windower.ffxi.drop_item`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxidrop_item_index_count) function
 
