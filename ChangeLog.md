@@ -1,3 +1,13 @@
+2014-05-02
+----------
+
+FFOChat 1.1.0.3 - Arcon
+* Fixed name display when receiving PMs
+
+FFOChat 1.1.0.2 - Arcon
+* Fixed crash on receiving PMs
+* Fixed crash when failing to connect to a server
+
 2014-05-01
 ----------
 
