@@ -1,6 +1,9 @@
 2014-05-02
 ----------
 
+LuaCore 1.6.1.7 - Arcon
+* Added [`windower.ffxi.drop_item`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxidrop_item_index_count) function
+
 LuaCore 1.6.1.6 - Arcon
 * Added the following skills to the `skills` table
   * `geomancy`
