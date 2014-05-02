@@ -1,6 +1,9 @@
 2014-05-02
 ----------
 
+LuaCore 1.6.1.4 - Arcon
+* Renamed `ninjitsu` to `ninjutsu` in the status table, as it is in-game
+
 FFOChat 1.1.0.3 - Arcon
 * Fixed name display when receiving PMs
 
