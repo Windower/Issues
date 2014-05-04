@@ -1,3 +1,9 @@
+2014-05-04
+----------
+
+Hook 4.2.1.13 - Arcon
+* Video encoding will now upscale resolution to the next multiple of `4` instead of failing
+
 2014-05-02
 ----------
 
