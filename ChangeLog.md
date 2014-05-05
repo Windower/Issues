@@ -1,3 +1,10 @@
+2014-05-05
+----------
+
+LuaCore 1.6.1.9 - Arcon
+* Fixed crafting skills being returned incorrectly
+* Changed `guarding` to `guard`
+
 2014-05-04
 ----------
 
