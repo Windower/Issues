@@ -1,3 +1,16 @@
+2014-05-10
+----------
+
+LuaCore 1.6.1.11 - Arcon
+* Removed debug message
+
+LuaCore 1.6.1.10 - Arcon
+* Adjusted all screen coordinates for UI scaling
+* Fixed the job change event from triggering on login
+* Changed the `status` value of the player table to contain the status ID instead of the name
+* Changed the `action message` event signature
+  * Parameters 2 and 3 are now merged into one
+
 2014-05-05
 ----------
 
@@ -20,7 +33,7 @@ JaZero 1.2.2.7 - Arcon
 LuaCore 1.6.1.8 - Arcon
 * Adjusted mob table
   * Changed `model_size` to `model_scale`
-  * Added `model_scale`
+  * Added actual `model_size`
 
 LuaCore 1.6.1.7 - Arcon
 * Added [`windower.ffxi.drop_item`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxidrop_item_index_count) function
