@@ -1,3 +1,36 @@
+2014-05-13
+----------
+
+LuaCore 1.6.2.0 - Arcon
+* Fixed typo (`entity_type` in the mob table was mistakenly named `Entity_type`)
+* Added `models` to the mob table
+  * It's an array starting at 1 and going until the models for a mob run out
+  * PCs have the following models:
+    * 1: Face
+    * 2: Head
+    * 3: Body
+    * 4: Hands
+    * 5: Legs
+    * 6: Feet
+    * 7: Main
+    * 8: Sub
+    * 9: Ranged
+  * Most mobs only have one value, some NPCs have multiple values
+
+2014-05-12
+----------
+
+LuaCore 1.6.1.13 - Arcon
+* Fixed error messages cutting off too much of the path
+  * Only happened when the `CondenseError` LuaCore option was set to `true`
+
+2014-05-11
+----------
+
+LuaCore 1.6.1.12 - Arcon
+* Fixed an error where the level-up event would trigger on login or job change
+  * Another such error persists and will be adjusted shortly
+
 2014-05-10
 ----------
 
