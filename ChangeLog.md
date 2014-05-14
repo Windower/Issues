@@ -1,3 +1,9 @@
+2014-05-14
+----------
+
+Hook 4.2.1.14 - Arcon
+* Preliminary adjustment for inventory expansion
+
 2014-05-13
 ----------
 
