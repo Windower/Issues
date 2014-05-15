@@ -1,6 +1,9 @@
 2014-05-15
 ----------
 
+Timers 1.1.5.0 - Arcon
+* Adjusted to read equipment data from *Wardrobe*
+
 GearCollector 1.0.4.5 - Arcon
 * Adjusted to new inventory structure
 
