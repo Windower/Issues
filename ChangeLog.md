@@ -1,5 +1,32 @@
-2014-05-14
+2014-05-14 May FFXI update
 ----------
+
+LuaCore 1.6.3.2 - Arcon
+* Adjusted `windower.ffxi.get_abilities` due to a changed packet
+
+LuaCore 1.6.3.1 - Arcon
+* Fixed an error where `slot_bag` for the various slots wasn't populated correctly
+
+LuaCore 1.6.3.0 - Arcon
+* Fixed equipment struct, finalized wardrobe changes
+* Equipment now has two values for each slot (`main`, `sub`, `range`, etc.):
+  * `slot`: The inventory index of the item in that slot
+  * `slot_bag`: The inventory bag the item in that slot is in
+    * Only `0` and `8` valid for *Inventory* and *Wardrobe* respectively
+
+Hook 4.2.2.0 - Arcon
+* Added wardrobe-related equipment information
+
+LuaCore 1.6.2.2 - Arcon
+* Enabled `windower.ffxi.set_equip` with optional third argument for inventory bag
+* Added `wardrobe` for all categories in the `items` table:
+  * `wardrobe`
+  * `max_wardrobe`
+  * `count_wardrobe`
+
+LuaCore 1.6.2.1 - Arcon
+* Disabled `windower.ffxi.set_equip` to examine effects of update
+
 
 Hook 4.2.1.14 - Arcon
 * Preliminary adjustment for inventory expansion
