@@ -4,6 +4,9 @@
 LuaCore 1.6.3.2 - Arcon
 * Adjusted `windower.ffxi.get_abilities` due to a changed packet
 
+Find 1.0.5.4 - JoshK6656
+* Added *Wardrobe* support
+
 LuaCore 1.6.3.1 - Arcon
 * Fixed an error where `slot_bag` for the various slots wasn't populated correctly
 
@@ -13,6 +16,9 @@ LuaCore 1.6.3.0 - Arcon
   * `slot`: The inventory index of the item in that slot
   * `slot_bag`: The inventory bag the item in that slot is in
     * Only `0` and `8` valid for *Inventory* and *Wardrobe* respectively
+
+Itemizer 1.2.3.3 - JoshK6656
+* Added *Wardrobe* support
 
 Hook 4.2.2.0 - Arcon
 * Added wardrobe-related equipment information
