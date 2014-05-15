@@ -1,6 +1,9 @@
 2014-05-15
 ----------
 
+GearCollector 1.0.4.5 - Arcon
+* Adjusted to new inventory structure
+
 LuaCore 1.6.3.3 - Arcon
 * Fixed an error where [`windower.ffxi.set_equip`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiset_equip_inv_id_slot_bag) would not accept a third argument
 
