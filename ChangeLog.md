@@ -2,22 +2,25 @@
 ----------
 
 LuaCore 1.6.3.3 - Arcon
-* Fixed an error where `windower.ffxi.set_equip` would not accept a third argument
+* Fixed an error where [`windower.ffxi.set_equip`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiset_equip_inv_id_slot_bag) would not accept a third argument
 
 2014-05-14 May FFXI update
 ----------
 
 LuaCore 1.6.3.2 - Arcon
-* Adjusted `windower.ffxi.get_abilities` due to a changed packet
+* Adjusted [`windower.ffxi.get_abilities`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_abilities) due to a changed packet
 
 Find 1.0.5.4 - JoshK6656
 * Added *Wardrobe* support
+
+Itemizer 1.2.3.4 - JoshK6656
+* Disabled attempts to set/get non-equipment items from *Wardrobe*
 
 LuaCore 1.6.3.1 - Arcon
 * Fixed an error where `slot_bag` for the various slots wasn't populated correctly
 
 LuaCore 1.6.3.0 - Arcon
-* Fixed equipment struct, finalized wardrobe changes
+* Fixed [*Equipment*](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_items), finalized wardrobe changes
 * Equipment now has two values for each slot (`main`, `sub`, `range`, etc.):
   * `slot`: The inventory index of the item in that slot
   * `slot_bag`: The inventory bag the item in that slot is in
@@ -30,14 +33,14 @@ Hook 4.2.2.0 - Arcon
 * Added wardrobe-related equipment information
 
 LuaCore 1.6.2.2 - Arcon
-* Enabled `windower.ffxi.set_equip` with optional third argument for inventory bag
+* Enabled [`windower.ffxi.set_equip`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiset_equip_inv_id_slot_bag) with optional third argument for inventory bag
 * Added `wardrobe` for all categories in the `items` table:
   * `wardrobe`
   * `max_wardrobe`
   * `count_wardrobe`
 
 LuaCore 1.6.2.1 - Arcon
-* Disabled `windower.ffxi.set_equip` to examine effects of update
+* Disabled [`windower.ffxi.set_equip`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiset_equip_inv_id_slot_bag) to examine effects of update
 
 
 Hook 4.2.1.14 - Arcon
