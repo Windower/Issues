@@ -1,3 +1,9 @@
+2014-05-15
+----------
+
+LuaCore 1.6.3.3 - Arcon
+* Fixed an error where `windower.ffxi.set_equip` would not accept a third argument
+
 2014-05-14 May FFXI update
 ----------
 
