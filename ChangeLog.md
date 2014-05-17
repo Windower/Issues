@@ -1,6 +1,15 @@
 2014-05-17
 ----------
 
+LuaCore 1.6.5.0 - Arcon
+* Changed [`windower.ffxi.get_abilities`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_abilities)
+  * Now returns a table with 4 sub-tables:
+    * `job_abilities`
+    * `job_traits`
+    * `weapon_skills`
+    * `pet_commands`
+  * Each of the sub-tables is a list of IDs of the respective category that your current character has access to
+
 Launcher 4.2.5250.31346 - Arcon
 * Adjusted the launcher to clean up unneeded resource files
 
