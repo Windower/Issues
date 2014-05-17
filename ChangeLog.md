@@ -1,3 +1,12 @@
+2014-05-17
+----------
+
+Launcher 4.2.5250.31346 - Arcon
+* Adjusted the launcher to clean up unneeded resource files
+
+LuaCore 1.6.4.0 - Arcon
+* Improved [`windower.ffxi.get_items`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_items_bag_index) interface
+
 2014-05-15
 ----------
 
