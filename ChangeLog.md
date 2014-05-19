@@ -1,3 +1,9 @@
+2014-05-19
+----------
+
+Launcher 4.2.5252.16592 - Arcon
+* Fixed bug where resources would be downloaded even when they weren't updated
+
 2014-05-17
 ----------
 
