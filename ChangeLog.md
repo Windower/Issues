@@ -1,6 +1,9 @@
 2014-05-19
 ----------
 
+Launcher 4.2.5252.20750 - Arcon
+* Fixed bug where resources would be deleted upon download
+
 Launcher 4.2.5252.16592 - Arcon
 * Fixed bug where resources would be downloaded even when they weren't updated
 
