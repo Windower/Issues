@@ -1,6 +1,9 @@
 2014-05-20
 ----------
 
+Timers 1.1.5.2 - Arcon
+* Fixed JA buff names being displayed incorrectly
+
 LuaCore 1.6.5.1 - Arcon
 * Fixed text box dragging mechanics
 
