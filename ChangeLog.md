@@ -1,3 +1,9 @@
+2014-05-20
+----------
+
+Timers 1.1.5.1 - Arcon
+* Fixed Stratagem count (hopefully for real this time)
+
 2014-05-19
 ----------
 
