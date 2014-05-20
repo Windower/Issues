@@ -1,6 +1,9 @@
 2014-05-20
 ----------
 
+Launcher 4.2.5253.20271 - Arcon
+* Fixed bug where resources would be deleted upon download
+
 Timers 1.1.5.1 - Arcon
 * Fixed Stratagem count (hopefully for real this time)
 
