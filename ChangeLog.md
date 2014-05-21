@@ -1,3 +1,9 @@
+2014-05-21
+----------
+
+Timers 1.1.5.3 - Arcon
+* Fixed buff names with shared recasts being mixed up
+
 2014-05-20
 ----------
 
