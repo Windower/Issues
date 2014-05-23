@@ -1,3 +1,11 @@
+2014-05-23
+----------
+
+LuaCore 1.6.5.2 - Arcon
+* Added two functions to `windower`:
+  * [`to_shift_jis`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowersleep_time) Converts a UTF-8 string to Shift_JIS
+  * [`from_shift_jis`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowerfrom_shift_jis_str) Converts a Shift_JIS string to UTF-8
+
 2014-05-21
 ----------
 
