@@ -1,6 +1,9 @@
 2014-05-25
 ----------
 
+LuaCore 1.6.5.3 - Arcon
+* Fixed vertical distance in `windower.text.get_extents`
+
 FFOChat 1.1.0.4 - Arcon
 * Added Unicode support (in the scope of FFXI's native Shift_JIS)
 
