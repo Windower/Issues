@@ -1,3 +1,9 @@
+2014-05-25
+----------
+
+FFOChat 1.1.0.4 - Arcon
+* Added Unicode support (in the scope of FFXI's native Shift_JIS)
+
 2014-05-23
 ----------
 
