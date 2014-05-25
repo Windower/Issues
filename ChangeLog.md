@@ -1,6 +1,9 @@
 2014-05-25
 ----------
 
+LuaCore 1.6.5.4 - Arcon
+* Fixed deadlock on startup
+
 LuaCore 1.6.5.3 - Arcon
 * Fixed vertical distance in `windower.text.get_extents`
 
