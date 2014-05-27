@@ -1,3 +1,14 @@
+2014-05-27
+----------
+
+LuaCore 1.7.0.0 - Arcon
+* Removed `windower.sleep`
+* Added [`coroutine.sleep`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutinesleep_time)
+  * Sleeps the current evaluation for the given number of milliseconds
+  * It will never block the game and never block other calls/functions of the same addon
+* Added [`coroutine.schedule`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutineschedule_fn_time)
+ * Schedules a function to run in the given number of milliseconds
+
 2014-05-25
 ----------
 
