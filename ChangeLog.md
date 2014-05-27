@@ -6,8 +6,15 @@ LuaCore 1.7.0.0 - Arcon
 * Added [`coroutine.sleep`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutinesleep_time)
   * Sleeps the current evaluation for the given number of milliseconds
   * It will never block the game and never block other calls/functions of the same addon
+  * If called from inside an event, will function as a return
+    * Any return values after the sleep will be ignored
+    * `coroutine.yield` should be used to return values before a call to `coroutine.sleep`
 * Added [`coroutine.schedule`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutineschedule_fn_time)
- * Schedules a function to run in the given number of milliseconds
+  * Schedules a function to run in the given number of milliseconds
+* `coroutine.yield` when now called from inside an event will function similar to a return
+  * Allows the event call to continue to the next addon
+  * The provided arguments will be treated as return values
+  * The function will then be resumed on its own time afterwards without disrupting the event chain
 
 2014-05-25
 ----------
