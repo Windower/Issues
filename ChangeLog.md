@@ -1,6 +1,9 @@
 2014-05-27
 ----------
 
+FFXIDB 0.9.1.1 - Arcon
+* Removed debug message
+
 LuaCore 1.7.1.1 - Arcon
 * Fixed `windower.ffxi.get_map_data` and `windower.ffxi.get_position`
   * It was working fine most of the time but had issues in certain parts of certain zones
