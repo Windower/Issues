@@ -1,6 +1,16 @@
 2014-05-27
 ----------
 
+LuaCore 1.7.1.1 - Arcon
+* Fixed `windower.ffxi.get_map_data` and `windower.ffxi.get_position`
+  * It was working fine most of the time but had issues in certain parts of certain zones
+
+FFXIDB 0.9.1.0 - Arcon
+* Fixed map display in every zone
+
+2014-05-27
+----------
+
 LuaCore 1.7.1.0 - Arcon
 * Changed [`coroutine.sleep`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutinesleep_time) and [`coroutine.schedule`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutineschedule_fn_time) to use seconds instead of milliseconds
 * Fixed a bug that caused stack corruption when sleeping/yielding and possibly crashed POL
