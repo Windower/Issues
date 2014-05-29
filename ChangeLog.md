@@ -1,3 +1,14 @@
+2014-05-29
+----------
+
+LuaCore 1.7.2.0 - Arcon
+* Adjusted [`coroutine.schedule`](http://dev.windower.net/doku.php?id=lua:api:functions:start#coroutineschedule_fn_time)
+  * Will now also accept an existing coroutine instead of a function
+  * Will return the scheduled coroutine
+* Added [`coroutine.close`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#coroutineclose_co)
+  * Will close coroutines by LuaCore (as opposed to coroutines created from within a Lua file)
+  * Closed coroutines will never execute again and cannot be resumed
+
 2014-05-27
 ----------
 
