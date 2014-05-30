@@ -1,3 +1,9 @@
+2014-05-30
+----------
+
+Launcher 4.2.5263.39744 - Arcon
+* Will now create a settings folder for plugins, if plugins are downloaded
+
 2014-05-29
 ----------
 
