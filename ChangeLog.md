@@ -1,6 +1,12 @@
 2014-06-03
 ----------
 
+Hook 4.2.3.1 - Arcon
+* Fixed a bug where only the last key item packet would be considered
+
+LuaCore 1.7.3.0 - Arcon
+* Added [`windower.ffxi.get_key_items`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_key_items) which returns a list of available key items
+
 Hook 4.2.3.0 - Arcon
 * Added key item recording
 
