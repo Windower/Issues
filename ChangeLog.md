@@ -1,3 +1,9 @@
+2014-06-03
+----------
+
+Hook 4.2.3.0 - Arcon
+* Added key item recording
+
 2014-05-30
 ----------
 
