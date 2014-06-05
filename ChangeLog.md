@@ -1,3 +1,14 @@
+2014-06-05
+----------
+
+LuaCore 1.7.3.2 - Arcon
+* Added `heading` to the mob struct, identical to `facing`
+* Deprecated the `facing` field in the mob struct in favor of `heading`
+  * Support for `facing` will be dropped soon, so no new addons should be using it
+
+LuaCore 1.7.3.1 - Arcon
+* Fixed `gain buff` and `lose buff` events in case of multiple buffs with the same ID
+
 2014-06-03
 ----------
 
