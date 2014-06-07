@@ -1,3 +1,9 @@
+2014-06-07
+----------
+
+LuaCore 1.7.3.4 - Arcon
+* Fixed `gain buff` and `lose buff` events in case of multiple buffs with the same ID
+
 2014-06-05
 ----------
 
