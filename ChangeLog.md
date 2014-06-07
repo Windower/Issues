@@ -3,6 +3,7 @@
 
 LuaCore 1.7.4.0 - Arcon
 * Fixed major memory leak on reloading LuaCore
+* Fixed a bug where `unload` events would not always be called when unloading addons or reloading LuaCore
 
 LuaCore 1.7.3.4 - Arcon
 * Fixed `gain buff` and `lose buff` events in case of multiple buffs with the same ID
