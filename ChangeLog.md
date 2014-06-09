@@ -1,3 +1,9 @@
+2014-06-09
+----------
+
+FFXIDB 0.9.1.2 - Arcon
+* Fixed an issue where the map would stay hidden after zoning back out of a Mog House
+
 2014-06-07
 ----------
 
