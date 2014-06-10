@@ -1,3 +1,9 @@
+2014-06-10
+----------
+
+FFXIDB 0.9.1.3 - Arcon
+* Fixed a crash when trying to set custom ranges
+
 2014-06-09
 ----------
 
