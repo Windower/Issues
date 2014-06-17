@@ -4,6 +4,13 @@
 TParty 1.2.2.4 - Arcon
 * Adjusted TP coloring to correct for the new values
 
+2014-06-16
+----------
+
+LuaCore 1.4.5.0 - JoshK6656
+* Adjusted spawn type to incorporate Trust NPCs
+  * This affects the `in_party` and `in_alliance` fields for Trust NPCs, which displayed incorrect information before
+
 2014-06-10
 ----------
 
