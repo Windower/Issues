@@ -1,3 +1,9 @@
+2014-06-17 June FFXI Update
+----------
+
+TParty 1.2.2.4 - Arcon
+* Adjusted TP coloring to correct for the new values
+
 2014-06-10
 ----------
 
