@@ -1,6 +1,9 @@
 2014-06-17 June FFXI Update
 ----------
 
+FFXIDB 0.9.1.4 - Arcon
+* Fixed map display in Cirdas Caverns
+
 TParty 1.2.2.4 - Arcon
 * Adjusted TP coloring to correct for the new values
 
