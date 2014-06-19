@@ -1,3 +1,12 @@
+2014-06-19
+----------
+
+LuaCore 1.4.6.1 - Arcon
+* Added GEO and RUN merits
+
+LuaCore 1.4.6.0 - JoshK6656
+* Added `maximum_merit_points` to the merit struct
+
 2014-06-17 June FFXI Update
 ----------
 
