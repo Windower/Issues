@@ -1,6 +1,9 @@
 2014-06-19
 ----------
 
+LuaCore 1.4.6.2 - JoshK6656
+* Fixed AGI, INT and MND merits
+
 LuaCore 1.4.6.1 - Arcon
 * Added GEO and RUN merits
 
