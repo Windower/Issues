@@ -1,3 +1,9 @@
+2014-06-23
+----------
+
+Hook 4.2.4.0 - Arcon
+* Implemented explit text size setting
+
 2014-06-19
 ----------
 
