@@ -1,6 +1,9 @@
 2014-06-23
 ----------
 
+Timers 1.2.1.1 - Arcon
+* Adjusted it to only remove self-targeted buffs upon death
+
 Timers 1.2.1.0 - Arcon
 * Made all buffs clear upon death
 
