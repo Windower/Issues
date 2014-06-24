@@ -1,6 +1,17 @@
 2014-06-23
 ----------
 
+Timers 1.2.0.0 - Arcon
+* Implemented various new settings
+  * `textColoring`
+    * Will color text as it colors the bars in graphical mode
+    * Works in both graphical and text mode
+  * `flashDuration`
+    * Sets the duration (in seconds) of how long the bar should flash after the timer wears off
+  * `medPercent`/`lowPercent`
+    * Sets the percentage at which the plugin should switch into medium/low HP (used for coloring)
+* Will now cut off the text if it's too long as to not overlap with the displayed duration
+
 Hook 4.2.4.0 - Arcon
 * Implemented explit text size setting
 
