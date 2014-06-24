@@ -1,6 +1,9 @@
 2014-06-23
 ----------
 
+Timers 1.2.1.0 - Arcon
+* Made all buffs clear upon death
+
 Timers 1.2.0.0 - Arcon
 * Implemented various new settings
   * `textColoring`
