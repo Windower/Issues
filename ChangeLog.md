@@ -1,3 +1,12 @@
+2014-06-25
+----------
+
+FFXIDB 0.9.1.5 - Arcon
+* Fixed radar not displaying in *La Vaule [S]*
+
+Timers 1.2.2.0 - Arcon
+* Added *Clarion Call* job points for BRD songs
+
 2014-06-24
 ----------
 
