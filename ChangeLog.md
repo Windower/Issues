@@ -1,6 +1,9 @@
 2014-06-24
 ----------
 
+LuaCore 1.7.7.0 - Arcon
+* Added job points to the player table
+
 Hook 4.2.5.0 - Arcon
 * Added job point info to the *ExtData* interface
 
