@@ -1,3 +1,9 @@
+2014-06-24
+----------
+
+Hook 4.2.5.0 - Arcon
+* Added job point info to the *ExtData* interface
+
 2014-06-23
 ----------
 
