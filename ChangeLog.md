@@ -1,6 +1,12 @@
 2014-06-26
 ----------
 
+LuaCore 1.7.7.2 - Motenten, Arcon
+* Fixed various spelling issues in the job points table
+  * `jobp_oints` renamed to `job_points`
+  * `avatarspirit_accuracy_bonu` renamed to `avatar_spirit_accuracy_bonus`
+  * `avatarspirit_mag_acc_bonus` renamed to `avatar_spirit_magic_accuracy_bonus`
+
 Timers 1.2.2.1 - Arcon
 * Fixed an issue where the recast times would be cut off in text mode
 
