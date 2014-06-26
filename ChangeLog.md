@@ -1,6 +1,9 @@
 2014-06-26
 ----------
 
+Hook 4.2.5.2 - Arcon
+* Made job points populate correctly before opening the menu the first time
+
 LuaCore 1.7.7.1 - Arcon
 * Renamed `jobpoints` to `job_points` in the player table
 
