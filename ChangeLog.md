@@ -1,3 +1,12 @@
+2014-06-26
+----------
+
+LuaCore 1.7.7.1 - Arcon
+* Renamed `jobpoints` to `job_points` in the player table
+
+Hook 4.2.5.1 - Arcon
+* Fixed job point parsing
+
 2014-06-25
 ----------
 
@@ -10,7 +19,7 @@ Timers 1.2.2.0 - Arcon
 2014-06-24
 ----------
 
-LuaCore 1.7.7.0 - Arcon
+LuaCore 1.7.7.0 - JoshK6656, Arcon
 * Added job points to the player table
 
 Hook 4.2.5.0 - Arcon
