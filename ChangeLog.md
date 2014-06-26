@@ -1,6 +1,9 @@
 2014-06-26
 ----------
 
+Timers 1.2.2.1 - Arcon
+* Fixed an issue where the recast times would be cut off in text mode
+
 Hook 4.2.5.2 - Arcon
 * Made job points populate correctly before opening the menu the first time
 
