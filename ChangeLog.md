@@ -1,5 +1,20 @@
+2014-06-27
+----------
+
+Timers 1.2.2.2 - Arcon
+* Adjusted to new Hook API
+
+LuaCore 1.7.7.3 - Arcon
+* Adjusted to new Hook API, fixed equipment bags
+
+Hook 4.2.5.4 - Arcon
+* Fixed an issue in the plugin interface (equipment bags were mismatched)
+
 2014-06-26
 ----------
+
+Hook 4.2.5.3 - Iryoku
+* Fixed unhandled commands not being passed to the 3.x MMF console handler
 
 LuaCore 1.7.7.2 - Motenten, Arcon
 * Fixed various spelling issues in the job points table
