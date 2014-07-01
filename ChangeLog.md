@@ -1,3 +1,9 @@
+2014-07-01
+----------
+
+Guildwork 1.4.2.4 - JoshK6656
+* Rebuilt against new API to include job points
+
 2014-06-27
 ----------
 
