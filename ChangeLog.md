@@ -1,6 +1,9 @@
 2014-07-03
 ----------
 
+LuaCore 1.7.7.5 - Arcon
+* Improved error checking in the `pack` module to prevent accessing junk memory, specifically when working with custom bit boundaries
+
 LuaCore 1.7.7.4 - Arcon
 * Fixed an issue in the `pack` module
   * `q` will now only cover one bit
