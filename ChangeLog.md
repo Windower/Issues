@@ -1,3 +1,14 @@
+2014-07-03
+----------
+
+LuaCore 1.7.7.4 - Arcon
+* Fixed an issue in the `pack` module
+  * `q` will now only cover one bit
+    * If a numeric value is specified, it will return that number of values of sequential boolean bits
+    * Defaults to 1
+  * `string.unpack` now takes an optional fourth value which indicates which bit to start from
+    * Only works for `b` and `q`, otherwise it will round up to the next multiple of 8
+
 2014-07-01
 ----------
 
