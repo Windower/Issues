@@ -1,3 +1,9 @@
+2014-07-04
+----------
+
+TParty 1.2.2.5 - Cair
+* Removed text objects that display alliance MP amounts.
+
 2014-07-03
 ----------
 
