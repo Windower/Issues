@@ -1,3 +1,14 @@
+2014-07-05
+----------
+
+Hook 4.2.5.5 - Arcon
+* Added a `console_fadespeed` command
+  * Sets the time it takes for the console to fade out (unlike `console_fadedelay`, which sets the time at which it *starts* fading out)
+  * Takes the number of frames it should last, default being 25
+
+LuaCore 1.7.7.6 - Arcon
+* Added some debugging options to the dev version
+
 2014-07-04
 ----------
 
