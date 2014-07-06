@@ -1,3 +1,10 @@
+2014-07-06
+----------
+
+LuaCore 1.7.7.7 - Arcon
+* Fixed a potential crash in `cancel_buff`
+* Fixed incorrect buff-related checks when 32 buffs were active
+
 2014-07-05
 ----------
 
