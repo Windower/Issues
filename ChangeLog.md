@@ -1,6 +1,9 @@
 2014-07-08 July FFXI Update
 ----------
 
+LuaCore 1.7.7.8 - Arcon
+* Fixed party table from `windower.ffxi.get_party`
+
 TParty 1.2.2.6 - Arcon
 * Fixed after update
 
