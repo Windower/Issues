@@ -1,3 +1,9 @@
+2014-07-08 July FFXI Update
+----------
+
+TParty 1.2.2.6 - Arcon
+* Fixed after update
+
 2014-07-06
 ----------
 
