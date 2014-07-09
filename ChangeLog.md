@@ -1,3 +1,10 @@
+2014-07-09
+----------
+
+FFXIDB 0.9.1.6 - Arcon
+* Fixed missing map display in *Ordelle's Caves*
+* Fixed displaying the wrong map (of *Ordelle's Caves*) in *Outer Horutoto Ruins*
+
 2014-07-08 July FFXI Update
 ----------
 
