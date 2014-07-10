@@ -1,3 +1,9 @@
+2014-07-10
+----------
+
+Hook 4.2.5.6 - Arcon
+* Fixed an issue where weather would occasionally be overwritten by an incorrect value
+
 2014-07-09
 ----------
 
