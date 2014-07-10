@@ -1,6 +1,9 @@
 2014-07-10
 ----------
 
+Launcher 4.2.5304.40974 - Iryoku
+* Fixed an issue where an outdated `addons.json` file would be retrieved, preventing addon updates
+
 LuaCore 1.7.7.9 - Arcon
 * Fixed an issue with the `pack` library
   * The `A` code didn't behave correctly when trying to pack a string. The numeric modifier acted as an array indicator instead of a string length indicator
