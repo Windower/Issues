@@ -1,6 +1,11 @@
 2014-07-10
 ----------
 
+LuaCore 1.7.7.9 - Arcon
+* Fixed an issue with the `pack` library
+  * The `A` code didn't behave correctly when trying to pack a string. The numeric modifier acted as an array indicator instead of a string length indicator
+* Fixed a possible crash when having too many buffs
+
 Hook 4.2.5.6 - Arcon
 * Fixed an issue where weather would occasionally be overwritten by an incorrect value
 
