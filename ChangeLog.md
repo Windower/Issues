@@ -1,6 +1,18 @@
 2014-07-10
 ----------
 
+Guildwork 1.4.2.5 - Arcon
+* Rebuilt against new API
+
+FFXIDB 0.9.1.7 - Arcon
+* Rebuilt against new API
+
+TParty 1.2.2.7 - Arcon
+* Rebuilt against new API
+
+Timers 1.2.2.3 - Arcon
+* Rebuilt against new API
+
 Launcher 4.2.5304.40974 - Iryoku
 * Fixed an issue where an outdated `addons.json` file would be retrieved, preventing addon updates
 
