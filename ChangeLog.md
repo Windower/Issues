@@ -1,10 +1,16 @@
 2014-07-12
 ----------
 
+Bidder 1.4.1.7 - Arcon
+* Fixed for new resources
+
+SSOrganizer 1.5.1.5 - Arcon
+* Fixed for new resources
+
 Spellcast 2.6.2.19 - Arcon
 * Fixed for new resources
 
-1.0.4.6 - Arcon
+GearCollector 1.0.4.6 - Arcon
 * Fixed for new resources
 
 Itemizer 1.2.3.5 - Arcon
