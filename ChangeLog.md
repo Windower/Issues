@@ -1,6 +1,12 @@
 2014-07-12
 ----------
 
+AutoExec 2.8.1.5 - Arcon
+* Fixed for new resources
+
+StatusTimer 1.2.2.8 - Arcon
+* Fixed for new resources
+
 Bidder 1.4.1.7 - Arcon
 * Fixed for new resources
 
