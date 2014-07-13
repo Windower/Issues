@@ -4,6 +4,9 @@
 Guildwork 1.4.2.6 - SnickySnacks
 * Fixed a crash source on logout
 
+Hook 4.2.5.7 - Arcon
+* Adjusted developer keys
+
 2014-07-12
 ----------
 
