@@ -1,3 +1,9 @@
+2014-07-13
+----------
+
+Guildwork 1.4.2.6 - SnickySnacks
+* Fixed a crash source on logout
+
 2014-07-12
 ----------
 
