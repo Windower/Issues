@@ -1,3 +1,10 @@
+2014-07-15
+----------
+
+LuaCore 1.7.8.0 - Arcon
+* Added [`windower.packets.parse_action`](http://dev.windower.net/doku.php?id=lua:api:functions:packets:start&#windowerpacketsparse_action_payload) function
+* Deprecated the `action` event
+
 2014-07-13
 ----------
 
