@@ -1,3 +1,16 @@
+2014-07-16
+----------
+
+Timers 2.0.0.1 - Arcon
+* Fixed a buff where certain JA buffs would not show up correctly
+
+Timers 2.0.0.0 - Arcon
+* Full recode
+  * Fixed a few remaining graphical issues, like colors being inverted and mid and final color being reversed
+  * Adjusted buff duration format to be more flexible and allow for further adjustments
+    * The old format was not able to implement all buff effects correctly
+    * Buffs with multiple multipliers and additions could not be modeled
+
 2014-07-15
 ----------
 
