@@ -1,6 +1,10 @@
 2014-07-18
 ----------
 
+Timers 2.0.1.0 - Arcon
+* Fixed bar direction for the `lowToHigh` setting `true`
+* Minor efficiency improvements, code cleanup
+
 Hook 4.2.5.8 - Arcon
 * Adjusted developer keys
 
