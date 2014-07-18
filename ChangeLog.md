@@ -1,6 +1,9 @@
 2014-07-18
 ----------
 
+Timers 2.0.1.1 - Arcon
+* Added *Gekka: Ichi*,  *Yain: Ichi* and *Crusade*
+
 Timers 2.0.1.0 - Arcon
 * Fixed bar direction for the `lowToHigh` setting `true`
 * Minor efficiency improvements, code cleanup
