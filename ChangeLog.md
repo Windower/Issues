@@ -1,6 +1,9 @@
 2014-07-18
 ----------
 
+Timers 2.0.1.2 - Arcon
+* Added *RUN* job abilities
+
 Timers 2.0.1.1 - Arcon
 * Added *Gekka: Ichi*,  *Yain: Ichi* and *Crusade*
 
