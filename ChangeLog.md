@@ -1,6 +1,9 @@
 2014-07-18
 ----------
 
+Timers 2.0.1.4 - Arcon
+* Added missing adjustments to *Regen*
+
 Timers 2.0.1.3 - Arcon
 * Added jigs
 
