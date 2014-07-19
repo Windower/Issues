@@ -1,6 +1,9 @@
 2014-07-18
 ----------
 
+Timers 2.0.2.1 - Arcon
+* Fixed text position in slim mode
+
 Timers 2.0.2.0 - Arcon
 * Adjusted to work from new resources
   * Moved buff duration in resources from `status.xml` to `abils.xml` and `spells.xml`
