@@ -1,6 +1,10 @@
 2014-07-18
 ----------
 
+Timers 2.0.2.0 - Arcon
+* Adjusted to work from new resources
+  * Moved buff duration in resources from `status.xml` to `abils.xml` and `spells.xml`
+
 Timers 2.0.1.4 - Arcon
 * Added missing adjustments to *Regen*
 
