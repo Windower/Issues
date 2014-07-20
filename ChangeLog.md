@@ -1,8 +1,11 @@
 2014-07-20
 ----------
 
+Timers 2.0.4.0 - Arcon
+* Made buff timers wear off a buff disappears
+
 Timers 2.0.3.0 - Arcon
-* Made recasts wear off they suddenly disappear (like when changing jobs)
+* Made recast timers wear off they suddenly disappear (like when changing jobs)
 
 Timers 2.0.2.3 - Motenten
 * Added reforged relic items to buff duration calculations
