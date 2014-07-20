@@ -1,3 +1,12 @@
+2014-07-20
+----------
+
+Timers 2.0.2.2 - Arcon
+* Added *Diffusion* effect to blue magic calculations
+
+LuaCore 1.7.8.2 - SnickySnacks
+* Fixed crashes when the stack grow too high
+
 2014-07-18
 ----------
 
