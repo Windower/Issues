@@ -1,6 +1,9 @@
 2014-07-20
 ----------
 
+Timers 2.0.4.1 - Arcon
+* Reverted the *2.0.3.0* change because a new bug appeared where incorrect timers would show up
+
 Timers 2.0.4.0 - Arcon
 * Made buff timers wear off when a buff disappears
 
