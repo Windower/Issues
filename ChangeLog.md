@@ -1,6 +1,9 @@
 2014-07-20
 ----------
 
+Timers 2.0.4.3 - Arcon
+* Fixed Timers disappearing issue from *2.0.3.0*, re-enabled recasts clearing when they disappear
+
 Timers 2.0.4.2 - Arcon
 * Fixed a freezing issue and buffs wear off, as well a possible crash source
 
