@@ -1,6 +1,10 @@
 2014-07-20
 ----------
 
+Timers 2.0.2.3 - Motenten
+* Added reforged relic items to buff duration calculations
+* Various fixes
+
 Timers 2.0.2.2 - Arcon
 * Added *Diffusion* effect to blue magic calculations
 
