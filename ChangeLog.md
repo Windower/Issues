@@ -1,3 +1,11 @@
+2014-07-22
+----------
+
+Hook 4.2.6.0 - Arcon
+* Fixed minor primitive bug
+* Refactored the primitive handler, made efficiency improvements and added safeguards
+* Implemented text and primitive deletion by object in addition to deletion by string
+
 2014-07-20
 ----------
 
