@@ -1,6 +1,16 @@
 2014-07-23
 ----------
 
+Timers 3.0.0.0 - Arcon
+* Massive recode
+  * Changed how timers work internally to avoid several bugs in the previous version
+  * Fixed some display issues
+    * Timers not moving up when space previous timers disappear
+    * Timers displaying incorrect or inverted colors
+    * Timers not flashing correctly when expiring
+  * Added various new settings
+* Note this is still only a test version and some things are known not to work (like *Stratagem* count) which is why this is a dev-release only and will not go live until it has been further tested and the missing features implemented
+
 Hook 4.2.6.2 - Arcon
 * Fixed a possible crash source when deleting primitives
 
