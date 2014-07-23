@@ -1,8 +1,11 @@
 2014-07-23
 ----------
 
+Hook 4.2.6.2 - Arcon
+* Fixed a possible crash source when deleting primitives
+
 Hook 4.2.6.1 - Arcon
-* Fixed the order in which prims are rendered
+* Fixed the order in which primitives are rendered
   * It is now, as it used to be before *4.2.6.x*, the order in which they are created in
 
 2014-07-22
