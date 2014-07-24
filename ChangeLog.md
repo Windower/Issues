@@ -1,6 +1,11 @@
 2014-07-24
 ----------
 
+Timers 3.2.0.0 - Arcon
+* Made the plugin parse the Lua resources
+  * This means we only have to maintain the buff durations in one resource branch
+  * *Timers* will now work immediately after the first resource fix after a FFXI update, since we always update Lua resources first
+
 LuaCore 1.7.8.3 - Arcon
 * Fixed `windower.regex.match` only returning the first match instead of all
 * Minor efficiency improvements of `windower.regex` functions
