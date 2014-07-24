@@ -1,3 +1,22 @@
+2014-07-24
+----------
+
+Timers 3.1.0.0 - Arcon
+* Fixed recast icons being displayed
+  * Added different icons for SP abilities depending on the job
+* Fixed Stratagem count
+* Fixed flashing issues
+  * The entire bar instead of just the border would flash
+  * Any suffix the name had would be lost (such as `[Self]` on self-targeted buffs)
+* Losing a buff will now cancel the lowest timer for that particular buff
+* Fixed a deadlocking issue and improved performance a bit
+* Fixed timers not always moving up when space was available
+  * They would move up when they were canceled but not when they expired naturally
+* Fixed some calculations:
+  * Made *Protect*/*Shell* not be affected by *Composure*
+  * Fixed the *Grapevine Cape*'s effect to only work on self-targeted buffs
+  * Fixed multipliers for song durations
+
 2014-07-23
 ----------
 
