@@ -1,6 +1,10 @@
 2014-07-24
 ----------
 
+Timers 3.1.1.0 - Arcon
+* Fixed buffs not overwriting the same buff
+* Made exceptions for BRD songs, they will now update if cast again with a higher duration
+
 Timers 3.1.0.0 - Arcon
 * Fixed recast icons being displayed
   * Added different icons for SP abilities depending on the job
