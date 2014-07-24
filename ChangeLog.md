@@ -1,11 +1,17 @@
 2014-07-24
 ----------
 
+Timers 3.1.2.1 - Arcon
+* Fixed certain buffs not being refreshed correctly
+
+Timers 3.1.2.0 - Arcon
+* Enabled custom timer commands
+
 Timers 3.1.1.0 - Arcon
 * Fixed buffs not overwriting the same buff
 * Made exceptions for BRD songs, they will now update if cast again with a higher duration
 
-Timers 3.1.0.0 - Arcon
+Timers 3.1.0.0 - Arcon, Motenten
 * Fixed recast icons being displayed
   * Added different icons for SP abilities depending on the job
 * Fixed Stratagem count
