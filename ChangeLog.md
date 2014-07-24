@@ -1,6 +1,10 @@
 2014-07-24
 ----------
 
+Timers 3.2.0.1 - Arcon
+* Fixed an issue where *Timers* would crash with `graphicalMode` set to `false`
+* Fixed the text offset so the text doesn't overlap with `graphicalMode` set to `false`
+
 Timers 3.2.0.0 - Arcon
 * Made the plugin parse the Lua resources
   * This means we only have to maintain the buff durations in one resource branch
