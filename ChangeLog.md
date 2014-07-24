@@ -1,6 +1,10 @@
 2014-07-24
 ----------
 
+LuaCore 1.7.8.3 - Arcon
+* Fixed `windower.regex.match` only returning the first match instead of all
+* Minor efficiency improvements of `windower.regex` functions
+
 Timers 3.1.2.2 - Motenten
 * Fixed custom timers overwriting different custom timers
 
