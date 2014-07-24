@@ -1,6 +1,9 @@
 2014-07-24
 ----------
 
+Timers 3.1.2.2 - Motenten
+* Fixed custom timers overwriting different custom timers
+
 Timers 3.1.2.1 - Arcon
 * Fixed certain buffs not being refreshed correctly
 
