@@ -1,3 +1,9 @@
+2014-07-25
+----------
+
+Hook 4.2.6.3 - Arcon
+* Removed some packets from the deduplication mechanism to potentially fix a bug
+
 2014-07-24
 ----------
 
