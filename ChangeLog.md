@@ -1,3 +1,11 @@
+2014-07-27
+----------
+
+Attainment 2.2.6.8 - Snicky
+* Fix Dynamis and Abyssea offsets. 
+* Fix zoning not clearing Abyssea/Dynamis info. 
+* Added tracking of Dynamis KIs upon login.
+
 2014-07-25
 ----------
 
