@@ -1,3 +1,9 @@
+2014-07-28
+----------
+
+Hook 4.2.6.4 - Arcon
+* Minor internal cleanup to help with debugging
+
 2014-07-27
 ----------
 
