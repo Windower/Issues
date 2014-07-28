@@ -1,6 +1,9 @@
 2014-07-28
 ----------
 
+LuaCore 1.7.9.2 - Arcon
+* Fixed `tonumber` to work with negative numbers in bases other than `10`
+
 LuaCore 1.7.9.1 - Arcon
 * Added a `mog_house` `bool` to the `windower.ffxi.get_info` table
   * Requires *Hook 4.2.7.0*
