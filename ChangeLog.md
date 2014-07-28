@@ -1,6 +1,18 @@
 2014-07-28
 ----------
 
+LuaCore 1.7.9.1 - Arcon
+* Added a `mog_house` `bool` to the `windower.ffxi.get_info` table
+  * Requires *Hook 4.2.7.0*
+
+LuaCore 1.7.9.0 - SnickySnacks
+* Added [`windower.ffxi.get_bag_info`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_bag_info_bag)
+  * Requires *Hook 4.2.7.0*
+
+Hook 4.2.7.0 - SnickySnacks
+* Added mog house tracking
+* Added inventory enabling tracking
+
 Hook 4.2.6.4 - Arcon
 * Minor internal cleanup to help with debugging
 
