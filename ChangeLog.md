@@ -1,6 +1,10 @@
 2014-07-31
 ----------
 
+Hook 4.2.7.2 - Arcon
+* Fixed an issue where the incorrect plugin name would be displayed if a crash occurred on plugin load
+* Some internal refactoring for primitive deletion 
+
 Hook 4.2.7.1 - Arcon
 * Fixed an issue where primitives would crash when being destroyed
 
