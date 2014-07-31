@@ -1,8 +1,14 @@
+2014-07-31
+----------
+
+Hook 4.2.7.1 - Arcon
+* Fixed an issue where primitives would crash when being destroyed
+
 2014-07-28
 ----------
 
 Sandbox 1.0.1.5 - JoshK6656
-* Fixed hook to work on Windows 8 along with Windows 7.
+* Fixed hook to work on Windows 8 along with Windows 7
 
 LuaCore 1.7.9.2 - Arcon
 * Fixed `tonumber` to work with negative numbers in bases other than `10`
