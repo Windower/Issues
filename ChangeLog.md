@@ -1,6 +1,10 @@
 2014-08-01
 ----------
 
+Timers 3.3.0.2 - Arcon
+* Fixed `orderAlphabetically` setting
+  * It would display timers in reverse alphabetical order
+
 Timers 3.3.0.1 - Arcon
 * Fixed an issue where overwriting buffs would immediately be removed
 
