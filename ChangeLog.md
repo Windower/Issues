@@ -1,6 +1,9 @@
 2014-08-01
 ----------
 
+Timers 3.3.0.1 - Arcon
+* Fixed an issue where overwriting buffs would immediately be removed
+
 Timers 3.3.0.0 - Arcon
 * Recoded the target aspect of the plugin
   * Targets will now display more accurately
