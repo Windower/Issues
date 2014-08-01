@@ -1,6 +1,14 @@
 2014-08-01
 ----------
 
+Timers 3.3.0.0 - Arcon
+* Recoded the target aspect of the plugin
+  * Targets will now display more accurately
+  * Buffs will only refresh if the same people are hit with it
+    * Otherwise a new timer will pop up with the new people and the old timer will show less people on it
+* Fixed an issue in text mode where the targets would not be displayed
+* Further internal efficiency changes
+
 Hook 4.2.7.3 - Arcon
 * Fixed an issue where text objects would crash when being destroyed
 
