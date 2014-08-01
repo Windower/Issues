@@ -1,3 +1,9 @@
+2014-08-01
+----------
+
+Hook 4.2.7.3 - Arcon
+* Fixed an issue where text objects would crash when being destroyed
+
 2014-07-31
 ----------
 
