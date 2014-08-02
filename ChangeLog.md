@@ -1,5 +1,16 @@
+2014-08-02
+----------
+
+DelayMeNot 1.0.0.1 - Arcon
+* Fixed a crash on unload
+
 2014-08-01
 ----------
+
+**New plugin**
+
+DelayMeNot 1.0.0.0 - Iryoku
+* Removes the macro bar delay when using keyboard controls
 
 Timers 3.3.0.2 - Arcon
 * Fixed `orderAlphabetically` setting
