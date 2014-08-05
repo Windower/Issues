@@ -1,3 +1,38 @@
+2014-08-05
+----------
+Timers 3.3.0.9 - Motenten
+* Add Nightingale/Troubadour buff duration gear
+* Fix Circle buff duration gear for pld/drk
+* Refactor pref naming scheme to PascalCase
+
+
+2014-08-04
+----------
+
+Timers 3.3.0.8 - Motenten
+* Fix bad pointer referencing that caused a crash
+
+Timers 3.3.0.7 - Motenten
+* When buffs wear off the player, remove them from the timer target list rather than deleting the timer itself
+
+Timers 3.3.0.6 - Motenten
+* Do not use existing bar durations when reusing an existing timer, as that leads to timer overlap
+* When searching for existing buffs to replace, do not stop after the first one found
+* Allow targets to be added to a timer (used when updating an existing timer)
+* Do not create a timer that's going to be discarded when we just reuse an existing one
+
+Timers 3.3.0.5 - Motenten
+* Add new pref for sorting order (Creation, Duration, Alphabetical)
+* Remove orderAlphabetically pref
+* Fix pref names that were out of sync between load and save
+* Fix pref names with buff/buffs prefix to all be buffs
+* Prevent buff timers from being created for actions that target mobs
+* Fix timer bar counter to increment, so that user limit prefs are adhered to
+
+Timers 3.3.0.3 - Motenten
+* Fix crash from accessing potentially null pointer
+
+
 2014-08-02
 ----------
 
