@@ -1,5 +1,10 @@
 2014-08-05
 ----------
+
+Timers 3.4.0.1 - Motenten
+* Fix pointer reference which generated target name gibberish
+* Fix check for whether an action target is a mob
+
 Timers 3.4.0.0 - Motenten
 * Add Nightingale/Troubadour buff duration gear
 * Fix Circle buff duration gear for pld/drk
