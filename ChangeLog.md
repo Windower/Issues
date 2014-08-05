@@ -1,9 +1,10 @@
 2014-08-05
 ----------
-Timers 3.3.0.9 - Motenten
+Timers 3.4.0.0 - Motenten
 * Add Nightingale/Troubadour buff duration gear
 * Fix Circle buff duration gear for pld/drk
 * Refactor pref naming scheme to PascalCase
+* Prevent Vivacious Pulse from generating spurious timers
 
 
 2014-08-04
