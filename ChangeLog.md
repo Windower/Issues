@@ -8,9 +8,7 @@ Timers 3.4.0.1 - Motenten
 Timers 3.4.0.0 - Motenten
 * Add Nightingale/Troubadour buff duration gear
 * Fix Circle buff duration gear for pld/drk
-* Refactor pref naming scheme to PascalCase
 * Prevent Vivacious Pulse from generating spurious timers
-
 
 2014-08-04
 ----------
@@ -35,9 +33,11 @@ Timers 3.3.0.5 - Motenten
 * Prevent buff timers from being created for actions that target mobs
 * Fix timer bar counter to increment, so that user limit prefs are adhered to
 
+Timers 3.3.0.4 - Motenten
+* Counting is hard
+
 Timers 3.3.0.3 - Motenten
 * Fix crash from accessing potentially null pointer
-
 
 2014-08-02
 ----------
