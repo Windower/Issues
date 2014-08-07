@@ -1,3 +1,11 @@
+2014-08-06
+----------
+
+Timers 3.4.0.2 - Motenten
+* Extra null check when checking target mob array for mob enemy type
+* Override default buff ID of 0 for Boost
+
+
 2014-08-05
 ----------
 
