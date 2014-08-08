@@ -1,3 +1,13 @@
+2014-08-07
+----------
+
+Timers 3.4.0.3 - Motenten
+* Reset TargetMap tracking list when zoning.  Fixes issue of corrupted targets.
+* Clear correct timers list when dead.
+* Clean up and refactor packet inspection code.
+* Use recast ID for selecting JA icons.
+
+
 2014-08-06
 ----------
 
