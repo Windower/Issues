@@ -13,6 +13,10 @@ LuaCore 1.7.9.3 - JoshK6656
 TParty 1.2.2.8 - JoshK6656
 * Built against party sig changing.
 
+Timers 3.4.0.4 - Motenten
+* Add Fealty adjustments
+* Add Souleater adjustments
+
 
 2014-08-07
 ----------
