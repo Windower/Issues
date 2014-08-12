@@ -1,6 +1,9 @@
 2014-08-12
 ----------
 
+SSOrganizer 1.5.1.6 - JoshK6656
+* Removed random print (https://github.com/Windower/Issues/issues/586)
+
 LuaCore 1.7.9.4 - JoshK6656
 * Add new job points
 
