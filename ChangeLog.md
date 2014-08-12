@@ -1,8 +1,8 @@
 2014-08-12
 ----------
 
-Plugin-API - JoshK6656
-* Fix party signature offset
+LuaCore 1.7.9.4 - JoshK6656
+* Add new job points
 
 Guildwork 1.4.2.7 - JoshK6656
 * Built against party sig changing.
