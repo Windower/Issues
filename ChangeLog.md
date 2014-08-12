@@ -1,3 +1,19 @@
+2014-08-12
+----------
+
+Plugin-API - JoshK6656
+* Fix party signature offset
+
+Guildwork 1.4.2.7 - JoshK6656
+* Built against party sig changing.
+
+LuaCore 1.7.9.3 - JoshK6656
+* Built against party sig changing.
+
+TParty 1.2.2.8 - JoshK6656
+* Built against party sig changing.
+
+
 2014-08-07
 ----------
 
