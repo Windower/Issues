@@ -1,6 +1,9 @@
 2014-08-12
 ----------
 
+BlinkMeNot 3.1.0.4 - JoshK6656
+* Built against party sig changing.
+
 InfoBar 1.2.0.6 - JoshK6656
 * Adjusted for party signature offset
 
