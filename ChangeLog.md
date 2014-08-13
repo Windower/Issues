@@ -1,6 +1,9 @@
 2014-08-12
 ----------
 
+InfoBar 1.2.0.6 - JoshK6656
+* Adjusted for party signature offset
+
 SSOrganizer 1.5.1.6 - JoshK6656
 * Removed random print (https://github.com/Windower/Issues/issues/586)
 
