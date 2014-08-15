@@ -1,3 +1,10 @@
+2014-08-15
+----------
+
+Timers 3.4.0.5 - Motenten
+* Fix 0 recast crash issue
+
+
 2014-08-12
 ----------
 
