@@ -1,3 +1,12 @@
+2014-08-18
+----------
+
+Timers 3.4.0.6 - Motenten
+* Set barspells to have a max duration of 30 minutes
+* Allow gear enhancements to affect protect/shell spells
+* Allow Composure to affect Klimaform
+
+
 2014-08-15
 ----------
 
