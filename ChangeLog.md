@@ -1,3 +1,9 @@
+2014-08-20
+----------
+
+LuaCore 1.7.9.5 - Arcon
+* Fixed an issue which caused `windower.ffxi.get_mob_by_target('st')` to return nil despite a sub-target being active
+
 2014-08-18
 ----------
 
