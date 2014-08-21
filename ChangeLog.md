@@ -1,3 +1,10 @@
+2014-08-21
+----------
+
+Timers 3.4.0.7 - Motenten
+* Add Eminent Flute and Linos (plus augments) for song duration calculations.
+
+
 2014-08-20
 ----------
 
