@@ -1,3 +1,26 @@
+2014-08-24
+----------
+
+Hook 4.2.8.1 - Arcon
+* Fixed a crash on zoning introduced in *Hook 4.2.8.0*
+
+2014-08-23
+----------
+
+LuaCore 1.7.10.0 - Arcon
+* Fixed a bug which caused `windower.ffxi.get_mob_by_target('st')` to return `nil` despite a sub-target being active
+* Fixed a bug which caused `windower.ffxi.get_mob_by_target('t')` to return the sub-target when no main target was active
+* Added `'stpt'` and `'stal'` as options for `windower.ffxi.get_mob_by_target`
+  * Will only work if `<stpt>` and `<stal>` were used respectively
+  * `'st'` will return `nil` if `<stpt>` or `<stal>` are active
+
+Hook 4.2.8.0 - Arcon
+* Fixed a possible text-related crash
+* Adjusted packet deduplication
+  * Removed some more packets from the deduplicator
+  * Made the queued packet list clear on zone
+* Added *Banggugyangu*'s developer key
+
 2014-08-21
 ----------
 
