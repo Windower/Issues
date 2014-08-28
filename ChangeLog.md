@@ -1,3 +1,10 @@
+2014-08-28
+----------
+
+LuaCore 1.7.11.0 - Arcon
+* Internal restructuring of the event handler
+  * Avoids some crashes that occurred when an event was unregistered while the same event has been processing
+
 2014-08-24
 ----------
 
