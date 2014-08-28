@@ -1,9 +1,19 @@
 2014-08-28
 ----------
 
+Timers 3.4.0.9 - Motenten
+* Removed debug changes introduced in *3.4.0.9*
+* Internal changes to prevent possible crashes when creating/deleting timers
+
 LuaCore 1.7.11.0 - Arcon
 * Internal restructuring of the event handler
   * Avoids some crashes that occurred when an event was unregistered while the same event has been processing
+
+2014-08-27
+----------
+
+Timers 3.4.0.8 - Motenten
+* Added debug changes
 
 2014-08-24
 ----------
