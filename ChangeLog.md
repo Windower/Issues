@@ -2,7 +2,7 @@
 ----------
 
 Timers 3.4.0.9 - Motenten
-* Removed debug changes introduced in *3.4.0.9*
+* Removed debug changes introduced in *3.4.0.8*
 * Internal changes to prevent possible crashes when creating/deleting timers
 
 LuaCore 1.7.11.0 - Arcon
