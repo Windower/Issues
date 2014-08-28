@@ -1,6 +1,9 @@
 2014-08-28
 ----------
 
+Unlimited 1.0.0.0 - Arcon - ***New plugin***
+* Removes the game's native 30 FPS cap
+
 Timers 3.4.0.9 - Motenten
 * Removed debug changes introduced in *3.4.0.8*
 * Internal changes to prevent possible crashes when creating/deleting timers
@@ -164,9 +167,7 @@ DelayMeNot 1.0.0.1 - Arcon
 2014-08-01
 ----------
 
-**New plugin**
-
-DelayMeNot 1.0.0.0 - Iryoku
+DelayMeNot 1.0.0.0 - Iryoku - ***New plugin***
 * Removes the macro bar delay when using keyboard controls
 
 Timers 3.3.0.2 - Arcon
