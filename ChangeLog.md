@@ -1,3 +1,10 @@
+2014-08-30
+----------
+
+Unlimited 1.0.1.0 - Arcon
+* Defaulted to 60 FPS cap
+* Added settings file with option to uncap the framerate completely
+
 2014-08-28
 ----------
 
