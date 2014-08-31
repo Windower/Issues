@@ -1,6 +1,10 @@
 2014-08-31
 ----------
 
+LuaCore 1.7.12.1 - Arcon
+* Reverted to *1.7.11.0*
+  * Addons need to be changed first to be compatible to *1.7.12.0*
+
 LuaCore 1.7.12.0 - Arcon
 * Adjusted the party table
   * Added `party1_leader`, `party2_leader` and `party3_leader` as well as `alliance_leader`
