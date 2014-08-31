@@ -1,6 +1,9 @@
 2014-08-31
 ----------
 
+LuaCore 1.7.12.2 - Arcon
+* Fixed a crash when calling `windower.ffxi.get_party()` before being logged in
+
 LuaCore 1.7.12.1 - Arcon
 * Reverted to *1.7.11.0*
   * Addons need to be changed first to be compatible to *1.7.12.0*
