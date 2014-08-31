@@ -1,3 +1,11 @@
+2014-08-31
+----------
+
+LuaCore 1.7.12.0 - Arcon
+* Adjusted the party table
+  * Added `party1_leader`, `party2_leader` and `party3_leader` as well as `alliance_leader`
+    * Will all be `nil` if not applicable
+
 2014-08-30
 ----------
 
