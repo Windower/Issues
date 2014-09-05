@@ -1,3 +1,9 @@
+2014-08-05
+----------
+
+LuaCore 1.7.12.4 - Arcon
+* Fixed a bug where addons that don't exist could erroneously be loaded
+
 2014-08-31
 ----------
 
