@@ -1,3 +1,9 @@
+2014-08-06
+----------
+
+LuaCore 1.7.12.5 - Arcon
+* Fixed a bug that caused registered events to execute after the unload event
+
 2014-08-05
 ----------
 
