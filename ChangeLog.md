@@ -1,6 +1,9 @@
 2014-08-06
 ----------
 
+Hook 4.2.8.2 - Arcon
+* Fixed a bug that would cause the primitve and text object storage to become corrupted
+
 LuaCore 1.7.12.5 - Arcon
 * Fixed a bug that caused registered events to execute after the unload event
 
