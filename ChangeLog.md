@@ -1,3 +1,9 @@
+2014-08-07
+----------
+
+Bidder 1.4.1.8 - Arcon
+* Fixed a crash when typing malformed commands
+
 2014-08-06
 ----------
 
