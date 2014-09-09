@@ -1,6 +1,9 @@
 2014-08-09 September FFXI Update
 ----------
 
+FFXIDB 0.9.1.8 - Arcon
+* Fixed after update
+
 LuaCore 1.7.12.6 - Arcon
 * Fixed after update
 
