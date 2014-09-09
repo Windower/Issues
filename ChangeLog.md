@@ -1,3 +1,15 @@
+2014-08-09 September FFXI Update
+----------
+
+LuaCore 1.7.12.6 - Arcon
+* Fixed after update
+
+BlinkMeNot 3.4.0.5 - Arcon
+* Fixed after update
+
+PetTP 2.2.0.6 - Arcon
+* Fixed after update
+
 2014-08-07
 ----------
 
