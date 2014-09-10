@@ -1,6 +1,10 @@
 2014-09-10
 ----------
 
+LuaCore 1.7.12.9 - JoshK6656
+* Fixed a bug TargetArray
+* Not sure where .8 went.
+
 LuaCore 1.7.12.7 - Arcon
 * Fixed a bug in the IPC event handler
 
