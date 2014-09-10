@@ -1,6 +1,9 @@
 2014-09-10
 ----------
 
+LuaCore 1.7.12.7 - Arcon
+* Fixed a bug in the IPC event handler
+
 Timers 3.4.0.10 - Arcon
 * Fixed after update
 
