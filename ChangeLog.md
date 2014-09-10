@@ -2,8 +2,10 @@
 ----------
 
 LuaCore 1.7.12.9 - JoshK6656
-* Fixed a bug TargetArray
-* Not sure where .8 went.
+* Fixed a bug in TargetArray
+
+LuaCore 1.7.12.8 - Arcon
+* Fixed get_party() crashes.
 
 LuaCore 1.7.12.7 - Arcon
 * Fixed a bug in the IPC event handler
