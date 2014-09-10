@@ -1,4 +1,10 @@
-2014-08-09 September FFXI Update
+2014-09-10
+----------
+
+Timers 3.4.0.10 - Arcon
+* Fixed after update
+
+2014-09-09 September FFXI Update
 ----------
 
 FFXIDB 0.9.1.8 - Arcon
@@ -13,13 +19,13 @@ BlinkMeNot 3.4.0.5 - Arcon
 PetTP 2.2.0.6 - Arcon
 * Fixed after update
 
-2014-08-07
+2014-09-07
 ----------
 
 Bidder 1.4.1.8 - Arcon
 * Fixed a crash when typing malformed commands
 
-2014-08-06
+2014-09-06
 ----------
 
 Hook 4.2.8.2 - Arcon
@@ -28,7 +34,7 @@ Hook 4.2.8.2 - Arcon
 LuaCore 1.7.12.5 - Arcon
 * Fixed a bug that caused registered events to execute after the unload event
 
-2014-08-05
+2014-09-05
 ----------
 
 LuaCore 1.7.12.4 - Arcon
