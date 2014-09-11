@@ -1,7 +1,7 @@
 Issues
 ======
 
-_**Note:** Everyone on Windows Vista or higher should read [this](https://github.com/Windower/Issues/wiki/Enabling-automatic-crash-dumps) and follow the instructions there, regardless of whether an error is happening already or not.
+_**Note:** Everyone on Windows Vista or higher should read [this](https://github.com/Windower/Issues/wiki/Enabling-automatic-crash-dumps) and follow the instructions there, regardless of whether an error is happening already or not._
 
 This is Windower's public issue tracker. If you're experiencing any bugs with Windower, feel free to report them here. Below are a few guidelines for bug reporting that will help both you and us in faster debugging, so please read them and try to follow them.
 
