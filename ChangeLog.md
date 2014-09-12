@@ -1,11 +1,18 @@
+2014-09-12
+----------
+
+InfoBar 1.2.0.7 - Arcon
+* Fixed after update
+
 2014-09-10
 ----------
 
 LuaCore 1.7.12.9 - JoshK6656
-* Fixed a bug in TargetArray
+* Fixed `windower.ffxi.get_mob_by_target` for arguments `lastst`, `stpt` and `stal`
+* Fixed the `menu_open` value in the `windower.ffxi.get_info` table
 
 LuaCore 1.7.12.8 - Arcon
-* Fixed get_party() crashes.
+* Fixed a source of crashes in `windower.ffxi.get_party`
 
 LuaCore 1.7.12.7 - Arcon
 * Fixed a bug in the IPC event handler
