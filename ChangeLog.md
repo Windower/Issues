@@ -1,3 +1,9 @@
+2014-09-16
+----------
+
+Timers 3.4.1.0 - Arcon
+* Added option `stroke` which enables an outline to existing timer labels so it's easier to read on a light background
+
 2014-09-12
 ----------
 
