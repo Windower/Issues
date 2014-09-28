@@ -1,3 +1,15 @@
+2014-09-28
+----------
+
+Hook 4.2.8.4 - Arcon
+* Reverted some unnecessary changes in the previous update, simplified some internals
+
+2014-09-25
+----------
+
+Hook 4.2.8.3 - Arcon
+* Fixed a crash in the text handler
+
 2014-09-16
 ----------
 
