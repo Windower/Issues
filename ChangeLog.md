@@ -1,3 +1,9 @@
+2014-09-29
+----------
+
+LuaCore 1.7.13.0 - Arcon
+* Added [`windower.text.set_stroke_width`](http://dev.windower.net/doku.php?id=lua:api:functions:text:start&#windowertextset_stroke_width_name_width) and [`windower.text.set_stroke_color`](http://dev.windower.net/doku.php?id=lua:api:functions:text:start&#windowertextset_stroke_color_name_alpha_red_green_blue) to set an outline for text within a text object
+
 2014-09-28
 ----------
 
