@@ -1,6 +1,11 @@
 2014-09-29
 ----------
 
+FFXIDB 0.9.2.0 - Arcon
+* Fixed stuttering of dots on the radar by improving sampling resolution
+* Fixed incorrect position being displayed in the sub-pixel range (in map coordinates)
+* Minor efficiency improvements
+
 LuaCore 1.7.13.0 - Arcon
 * Added [`windower.text.set_stroke_width`](http://dev.windower.net/doku.php?id=lua:api:functions:text:start&#windowertextset_stroke_width_name_width) and [`windower.text.set_stroke_color`](http://dev.windower.net/doku.php?id=lua:api:functions:text:start&#windowertextset_stroke_color_name_alpha_red_green_blue) to set an outline for text within a text object
 
