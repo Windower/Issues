@@ -1,3 +1,18 @@
+2014-10-08
+----------
+
+Timers 3.4.2.0 - Arcon
+* Improved COR roll handling
+  * Accurately tracks and displays *Busts*
+  * Updates the correct timers where appropriate instead of creating new ones
+  * Vice versa now correctly creates new timers instead of updating incorrect ones
+  * Tracks individual targets correctly and updates timers accordingly
+  * Displays the roll tier in the name
+  * Incorporated *XI* roll effect on following *Busts*
+
+Timers 3.4.1.1 - Arcon
+* Fixed certain timers showing random times (usually wearing off immediately after a cast)
+
 2014-09-29
 ----------
 
