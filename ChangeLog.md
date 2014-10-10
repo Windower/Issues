@@ -1,3 +1,9 @@
+2014-10-10
+----------
+
+LuaCore 1.7.13.1 - Arcon
+* Fixed a crash in `print` when calling it with an object that throws an error when evaluating its `__tostring` metamethod
+
 2014-10-08
 ----------
 
