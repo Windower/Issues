@@ -1,6 +1,13 @@
 2014-10-10
 ----------
 
+Timers 3.4.2.1 - Arcon
+* Added a japanese-compatible default font for the japanese client
+* Added japanese client support for hardcoded values:
+  * Bust
+  * Double-Up Chance
+  * Special abilities
+
 LuaCore 1.7.13.1 - Arcon
 * Fixed a crash in `print` when calling it with an object that throws an error when evaluating its `__tostring` metamethod
 
