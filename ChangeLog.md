@@ -1,3 +1,9 @@
+2014-10-11
+----------
+
+Hook 4.2.8.6 - Arcon
+* Improved prim and text API for plugins
+
 2014-10-10
 ----------
 
@@ -28,6 +34,9 @@ Timers 3.4.1.1 - Arcon
 
 2014-09-29
 ----------
+
+Hook 4.2.8.5 - Arcon
+* Added a preemptive crash prevention mechanism
 
 FFXIDB 0.9.2.0 - Arcon
 * Fixed stuttering of dots on the radar by improving sampling resolution
