@@ -1,3 +1,10 @@
+2014-10-19
+----------
+
+Itemizer 1.2.3.6 - Arcon
+* Fixed misinterpreting the `/itemsearch` command
+* Fixed trying to pull items out of wardrobe when attempting to use them
+
 2014-10-11
 ----------
 
