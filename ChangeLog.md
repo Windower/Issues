@@ -1,6 +1,9 @@
 2014-10-19
 ----------
 
+Hook 4.2.9.0 - Arcon
+* Enabled numpad keys in the Windower console
+
 Itemizer 1.2.3.6 - Arcon
 * Fixed misinterpreting the `/itemsearch` command
 * Fixed trying to pull items out of wardrobe when attempting to use them
