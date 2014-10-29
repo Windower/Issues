@@ -1,3 +1,9 @@
+2014-10-28
+----------
+
+Launcher 4.2.5414.29359 - Iryoku
+* Fixed a resolution bug with a multi-monitor setup
+
 2014-10-19
 ----------
 
