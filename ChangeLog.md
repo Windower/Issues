@@ -1,3 +1,9 @@
+2014-11-05
+----------
+
+AutoExec 2.8.1.6 - Arcon
+* Fixed the `noammo` event
+
 2014-10-28
 ----------
 
