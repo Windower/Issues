@@ -1,6 +1,12 @@
 2014-11-10 November FFXI Update
 ----------
 
+FFXIDB 0.9.2.1 - Arcon
+* Adjusted for november update
+
+PetTP 2.2.0.7 - Arcon
+* Adjusted for november update
+
 InfoBar 1.2.0.8 - Arcon
 * Adjusted for november update
 
