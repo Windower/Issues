@@ -1,6 +1,9 @@
 2014-11-10 November FFXI Update
 ----------
 
+InfoBar 1.2.0.8 - Arcon
+* Adjusted for november update
+
 TParty 1.2.2.9 - Arcon
 * Adjusted for november update
 
