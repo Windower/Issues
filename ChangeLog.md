@@ -1,3 +1,21 @@
+2014-11-10 November FFXI Update
+----------
+
+TParty 1.2.2.9 - Arcon
+* Adjusted for november update
+
+Distance 1.3.3.3 - Arcon
+* Adjusted for november update
+
+BlinkMeNot 3.1.0.6 - Arcon
+* Adjusted for november update
+
+JaZero 1.2.2.8 - Arcon
+* Adjusted for november update
+
+LuaCore 1.7.13.2 - Arcon
+* Adjusted for november update
+
 2014-11-05
 ----------
 
