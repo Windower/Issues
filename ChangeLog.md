@@ -1,5 +1,7 @@
 2014-11-10 November FFXI Update
 ----------
+JaZero 1.2.2.9 - JoshK6656
+* Adjusted for november update
 
 FFXIDB 0.9.2.1 - Arcon
 * Adjusted for november update
