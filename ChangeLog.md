@@ -1,3 +1,9 @@
+2014-11-25
+----------
+
+LuaCore 1.7.13.3 - Arcon
+* Added `GEO` and `RUN` to the table returned by `windower.ffxi.get_player`
+
 2014-11-10 November FFXI Update
 ----------
 JaZero 1.2.2.9 - JoshK6656
