@@ -1,3 +1,12 @@
+2014-12-10 December FFXI Update
+----------
+
+Hook 4.2.9.2 - Arcon
+* Fixed a bug that caused continuous button presses to be ignored
+
+Hook 4.2.9.1 - Iryoku
+* Fixed the chat input function to work with FFXI's new chat system
+
 2014-11-25
 ----------
 
@@ -6,6 +15,7 @@ LuaCore 1.7.13.3 - Arcon
 
 2014-11-10 November FFXI Update
 ----------
+
 JaZero 1.2.2.9 - JoshK6656
 * Adjusted for november update
 
