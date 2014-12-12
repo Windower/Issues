@@ -1,3 +1,9 @@
+2014-12-12
+----------
+
+Hook 4.2.10.0 - Arcon
+* Added support for a player's *Superior* level
+
 2014-12-10 December FFXI Update
 ----------
 
