@@ -1,6 +1,12 @@
 2014-12-12
 ----------
 
+LuaCore 1.7.14.0 - Arcon
+* Added `item_level` and `superior_level` to the table returned by `windower.ffxi.get_player`
+
+Hook 4.2.10.1 - Arcon
+* Added support for a player's item level
+
 IME 1.2.1.4 - Arcon
 * Fixed signature
 
