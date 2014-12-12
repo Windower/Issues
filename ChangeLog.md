@@ -1,6 +1,9 @@
 2014-12-12
 ----------
 
+IME 1.2.1.4 - Arcon
+* Fixed signature
+
 Hook 4.2.10.0 - Arcon
 * Added support for a player's *Superior* level
 
