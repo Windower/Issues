@@ -1,3 +1,9 @@
+2014-12-16
+----------
+
+Hook 4.2.10.2 - Iryoku
+* Fixed a bug where addons and plugins could not output any chat lines after talking to certain NPCs
+
 2014-12-12
 ----------
 
