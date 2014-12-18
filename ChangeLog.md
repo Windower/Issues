@@ -1,3 +1,26 @@
+2014-12-18
+----------
+
+LuaCore 1.7.14.4 - Arcon
+* Installed a panic handler that should enable easier debugging for certain crash-to-desktop scenarios
+* Adjusted internal string handling
+  * This was to fix a certain type of crash when incomplete error reporting was used
+
+2014-12-17
+----------
+
+LuaCore 1.7.14.3 - Arcon
+* Added addon initialization into a coroutine
+  * This means that it's now possible to sleep and yield in the global scope
+* Fixed error message display on certain types of errors
+
+LuaCore 1.7.14.2 - Arcon
+* Fixed errors not displaying when the `ErrorNewLine` setting was set to `false`
+
+LuaCore 1.7.14.1 - Arcon
+* Adjusted the `ErrorNewLine` setting to dispay the path and line on the first line and only the actual error message on the second line
+* Adjusted the `CondenseError` setting to correctly condense errors in the case of Lua scripts
+
 2014-12-16
 ----------
 
