@@ -1,6 +1,12 @@
 2014-12-24
 ----------
 
+LuaCore 1.8.0.0 - Arcon
+* Implemented more robust error handling
+  * Certain crashes when passing the wrong type of arguments to `windower.*` functions are now fixed
+  * Some crashes still remain and will be adjusted in the future
+* Implemented more reliable error propagation and more detailed error reporting
+
 LuaCore 1.7.14.5 - Arcon
 * Fixed the `logout` event not passing the character's name
 
