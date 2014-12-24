@@ -1,3 +1,9 @@
+2014-12-24
+----------
+
+LuaCore 1.7.14.5 - Arcon
+* Fixed the `logout` event not passing the character's name
+
 2014-12-18
 ----------
 
