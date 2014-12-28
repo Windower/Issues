@@ -1,6 +1,9 @@
 2014-12-28
 ----------
 
+LuaCore 1.8.1.1 - Arcon
+* Made `autorun` return a table of directions when a player is running, otherwise it returns `false`
+
 Config 1.0.0.0 - Arcon - ***New plugin***
 * A plugin that mimics FFXI's in-game config, but with expanded options and maintainable through a settings file
 
