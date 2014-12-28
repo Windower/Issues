@@ -1,3 +1,12 @@
+2014-12-28
+----------
+
+LuaCore 1.8.1.0 - Arcon
+* Added two new [events](http://dev.windower.net/doku.php?id=lua:api:events:start&#event_list): `add item` and `remove item`
+
+Hook 4.2.11.0 - Arcon
+* Added two new events to the plugin interface (adding/removing items from bags)
+
 2014-12-24
 ----------
 
