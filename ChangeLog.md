@@ -1,7 +1,7 @@
 2014-12-28
 ----------
 
-Config 1.0.0.0 - Arcon
+Config 1.0.0.0 - Arcon - ***New plugin***
 * A plugin that mimics FFXI's in-game config, but with expanded options and maintainable through a settings file
 
 LuaCore 1.8.1.0 - Arcon
