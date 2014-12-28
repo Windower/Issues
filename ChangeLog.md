@@ -1,6 +1,9 @@
 2014-12-28
 ----------
 
+Config 1.0.0.0 - Arcon
+* A plugin that mimics FFXI's in-game config, but with expanded options and maintainable through a settings file
+
 LuaCore 1.8.1.0 - Arcon
 * Added two new [events](http://dev.windower.net/doku.php?id=lua:api:events:start&#event_list): `add item` and `remove item`
 
