@@ -1,3 +1,9 @@
+2014-12-31
+----------
+
+Hook 4.2.11.1 - Iryoku
+* Fixed a bug with texture rendering on primitives that resulted in a blurry image
+
 2014-12-28
 ----------
 
