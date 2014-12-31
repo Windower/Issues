@@ -1,6 +1,15 @@
 2014-12-31
 ----------
 
+LuaCore 1.8.1.2 - Arcon
+* Amended Lua API for  `add item` and `remove item` events to include the item count
+* Changed argument order for `add item` and `remove item`
+  * Order: Bag > Index > ID > Count
+
+Hook 4.2.11.2 - Arcon
+* Amended API for `add item` and `remove item` events to include the item count
+* The `add item` and `remove item` events are now not called while the inventory loads during login
+
 Hook 4.2.11.1 - Iryoku
 * Fixed a bug with texture rendering on primitives that resulted in a blurry image
 
