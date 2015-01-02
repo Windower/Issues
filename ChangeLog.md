@@ -1,3 +1,10 @@
+2015-01-02
+----------
+
+LuaCore 1.8.1.3 - Arcon
+* Fixed a crash in `string.unpack` when used with bit-packed values
+* Fixed `string.unpack` returning 0 when used with a 32-bit format specifier
+
 2014-12-31
 ----------
 
