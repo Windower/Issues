@@ -1,3 +1,12 @@
+2015-01-03
+----------
+
+LuaCore 1.8.1.5 - Arcon
+* Added `enabled_<bag>` keys for all bags to the table returned by `windower.ffxi.get_items` when no bag is provided
+
+LuaCore 1.8.1.4 - Arcon
+* Added `enabled` key to the table returned by `windower.ffxi.get_items` when a bag is provided
+
 2015-01-02
 ----------
 
