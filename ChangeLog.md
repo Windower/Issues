@@ -1,11 +1,14 @@
 2015-01-03
 ----------
 
+Timers 3.6.1.0 - Arcon
+* Fixed durations for blood pact ward timers (did not consider summoning magic skill)
+
 LuaCore 1.8.1.5 - Arcon
-* Added `enabled_<bag>` keys for all bags to the table returned by `windower.ffxi.get_items` when no bag is provided
+* Added `enabled_<bag>` keys for all bags to the table returned by [`windower.ffxi.get_items`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_items_bag_index) when no bag is provided
 
 LuaCore 1.8.1.4 - Arcon
-* Added `enabled` key to the table returned by `windower.ffxi.get_items` when a bag is provided
+* Added `enabled` key to the table returned by [`windower.ffxi.get_items`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_items_bag_index) when a bag is provided
 
 2015-01-02
 ----------
@@ -13,6 +16,11 @@ LuaCore 1.8.1.4 - Arcon
 LuaCore 1.8.1.3 - Arcon
 * Fixed a crash in `string.unpack` when used with bit-packed values
 * Fixed `string.unpack` returning 0 when used with a 32-bit format specifier
+
+Timers 3.6.0.0 - Arcon
+* Added avatar blood pacts to buff duration timers
+* Added support for certain *Dancer* and *Rune Fencer* job abilities that work differently from regular job abilities
+* Made buff timers hold their countdown on zoning to reflect their real duration more accurately
 
 2014-12-31
 ----------
@@ -44,8 +52,18 @@ LuaCore 1.8.1.0 - Arcon
 Hook 4.2.11.0 - Arcon
 * Added two new events to the plugin interface (adding/removing items from bags)
 
+2014-12-26
+----------
+
+Timers 3.5.0.0 - Arcon
+* Efficiency improvements
+* Added job ability durations for (hopefully) all missing job abilities to the buff tracker
+
 2014-12-24
 ----------
+
+Timers 3.4.3.0 - Arcon
+* Added *Warrior* job ability durations to the buff tracker
 
 LuaCore 1.8.0.0 - Arcon
 * Implemented more robust error handling
