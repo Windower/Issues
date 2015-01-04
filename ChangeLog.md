@@ -1,6 +1,9 @@
 2015-01-04
 ----------
 
+Timers 3.6.1.3 - Arcon
+* Fixed *Diffusion* incorrectly boosting certain blua magic spells
+
 Timers 3.6.1.2 - Arcon
 * Fixed target names showing up as `Unknown`
 
