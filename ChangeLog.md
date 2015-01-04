@@ -1,6 +1,9 @@
 2015-01-04
 ----------
 
+Timers 3.6.1.6 - Arcon
+* Adjusted display to fit larger fonts better and to not cut off text vertically
+
 Timers 3.6.1.5 - Arcon
 * Fixed a bug where *Earthen Ward*'s and *Aerial Armor*'s duration would incorrectly benefit from summoning skill
 
