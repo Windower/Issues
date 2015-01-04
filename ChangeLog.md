@@ -1,6 +1,13 @@
 2015-01-04
 ----------
 
+Timers 3.6.1.5 - Arcon
+* Fixed a bug where *Earthen Ward*'s and *Aerial Armor*'s duration would incorrectly benefit from summoning skill
+
+Timers 3.6.1.4 - Arcon
+* Added the *Evasionist's Cape*'s effect to *Embolden*
+* Fixed a buff that would make enfeebling magic rules apply to blue magic
+
 Timers 3.6.1.3 - Arcon
 * Fixed *Diffusion* incorrectly boosting certain blua magic spells
 
