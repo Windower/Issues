@@ -1,3 +1,12 @@
+2015-01-04
+----------
+
+Timers 3.6.1.2 - Arcon
+* Fixed target names showing up as `Unknown`
+
+Timers 3.6.1.1 - Arcon
+* Added *Astral Conduit* merits into the calculations for *Blood Pact: Ward* durations
+
 2015-01-03
 ----------
 
