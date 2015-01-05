@@ -1,6 +1,13 @@
 2015-01-05
 ----------
 
+LuaCore 1.8.1.6 - Arcon
+* Efficiency improvements
+  * [`windower.ffxi.get_mob_by_id`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_mob_by_id_id) will now be constant time if the ID belongs to an NPC (pets included)
+
+Timers 3.6.2.1 - Arcon
+* Efficiency improvements
+
 Timers 3.6.2.0 - Arcon
 * Fixed targets disappearing when zoning
 * Fixed crash when using the `timers` command with no arguments
