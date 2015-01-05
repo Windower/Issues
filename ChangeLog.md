@@ -1,6 +1,9 @@
 2015-01-05
 ----------
 
+Timers 3.6.2.2 - Arcon
+* Added *Pummeler's Lorica* and *Agoge Calligae*/*+1* to *Berserk* duration calculations
+
 LuaCore 1.8.1.6 - Arcon
 * Efficiency improvements
   * [`windower.ffxi.get_mob_by_id`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_mob_by_id_id) will now be constant time if the ID belongs to an NPC (pets included)
