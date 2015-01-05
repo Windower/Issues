@@ -1,3 +1,10 @@
+2015-01-05
+----------
+
+Timers 3.6.2.0 - Arcon
+* Fixed targets disappearing when zoning
+* Fixed crash when using the `timers` command with no arguments
+
 2015-01-04
 ----------
 
