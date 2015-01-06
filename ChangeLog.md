@@ -1,3 +1,9 @@
+2015-01-06
+----------
+
+LuaCore 1.8.1.7 - Arcon
+* Fixed an issue where the entire bag was pushed instead of just its ID in the equipment table
+
 2015-01-05
 ----------
 
