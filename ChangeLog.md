@@ -1,3 +1,9 @@
+2015-01-07
+----------
+
+LuaCore 1.8.2.0 - Arcon
+* Adjusted [`windower.ffxi.get_bag_info`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiget_bag_info_bag) to work on the entire inventory when no argument is provided
+
 2015-01-06
 ----------
 
