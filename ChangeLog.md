@@ -1,3 +1,9 @@
+2015-01-08
+----------
+
+FFOChat 1.1.1.0 - Arcon
+* Added full Shift JIS input support
+
 2015-01-07
 ----------
 
