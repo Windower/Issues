@@ -1,6 +1,16 @@
 2015-01-08
 ----------
 
+Timers 3.7.0.0 - Arcon
+* Replaced the old `recastList` and `buffsList` options with more detailed equivalents
+  * `AbilityRecastFilter`
+  * `AbilityBuffFilter`
+  * `SpellRecastFilter`
+  * `SpellBuffFilter`
+* Fixed a bug where the `recastList` and `buffsList` settings were ignored
+* Adjusted *Timers* to delete unused settings values
+ * The settings have been updated quite a few times, resulting in many unused values cluttering up the XML files
+
 FFOChat 1.1.1.0 - Arcon
 * Added full Shift JIS input support
 
