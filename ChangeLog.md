@@ -1,3 +1,9 @@
+2015-01-09
+----------
+
+Timers 3.7.0.1 - Arcon
+* Fixed shared timer names not displaying properly
+
 2015-01-08
 ----------
 
