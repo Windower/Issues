@@ -1,6 +1,9 @@
 2015-01-09
 ----------
 
+Timers 3.7.0.2 - Arcon
+* Fixed an error where recast names of abilities would display incorrectly
+
 Timers 3.7.0.1 - Arcon
 * Fixed shared timer names not displaying properly
 
