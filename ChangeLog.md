@@ -1,3 +1,18 @@
+2015-01-15
+----------
+
+Hook 4.2.11.3 - Arcon
+* Fixed an error that would cause texts and prims to be removed immediately after creation in certain instances
+
+LuaCore 1.8.3.1 - Arcon
+* Fixed a bug in `windower.prim.get_position`
+
+2015-01-14
+----------
+
+LuaCore 1.8.3.0 - Arcon
+* Added the [`windower.console`](http://dev.windower.net/doku.php?id=lua:api:functions:console:start) table to the Lua API along with the respective functions
+
 2015-01-09
 ----------
 
