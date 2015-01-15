@@ -1,3 +1,12 @@
+2015-01-16
+----------
+
+LuaCore 1.8.3.2 - Arcon
+* Fixed incoming chunk crash when receiving messages
+
+Hook 4.2.11.4 - Arcon
+* Fixed auto-translating signature
+
 2015-01-15
 ----------
 
