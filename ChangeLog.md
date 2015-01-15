@@ -1,4 +1,4 @@
-2015-01-16 January FFXI Update
+2015-01-15 January FFXI Update
 ----------
 
 GearCollector 1.0.4.7 - Arcon
@@ -93,7 +93,7 @@ LuaCore 1.8.3.2 - Arcon
 Hook 4.2.11.4 - Arcon
 * Fixed auto-translating signature
 
-2015-01-15
+2015-01-14
 ----------
 
 Hook 4.2.11.3 - Arcon
@@ -101,9 +101,6 @@ Hook 4.2.11.3 - Arcon
 
 LuaCore 1.8.3.1 - Arcon
 * Fixed a bug in `windower.prim.get_position`
-
-2015-01-14
-----------
 
 LuaCore 1.8.3.0 - Arcon
 * Added the [`windower.console`](http://dev.windower.net/doku.php?id=lua:api:functions:console:start) table to the Lua API along with the respective functions
