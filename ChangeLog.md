@@ -1,6 +1,9 @@
 2015-01-15 January FFXI Update
 ----------
 
+Hook 4.2.11.5 - Arcon
+* Fixed chat related issues
+
 GearCollector 1.0.4.7 - Arcon
 * Adjusted to new API
 
