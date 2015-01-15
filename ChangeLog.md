@@ -1,5 +1,91 @@
-2015-01-16
+2015-01-16 January FFXI Update
 ----------
+
+GearCollector 1.0.4.7 - Arcon
+* Adjusted to new API
+
+Guildwork 1.4.2.8 - Arcon
+* Adjusted to new API
+
+WinControl 1.6.1.5 - Arcon
+* Adjusted to new API
+
+WeatherMon 1.0.1.9 - Arcon
+* Adjusted to new API
+
+Tickle 1.1.2.4 - Arcon
+* Adjusted to new API
+
+StatusTimer 1.2.2.9 - Arcon
+* Adjusted to new API
+
+SSOrganizer 1.5.1.7 - Arcon
+* Adjusted to new API
+
+Run 1.3.1.4 - Arcon
+* Adjusted to new API
+
+PlasticSurgeon 1.1.1.6 - Arcon
+* Adjusted to new API
+
+Logger 1.5.1.5 - Arcon
+* Adjusted to new API
+
+LightLuggage 4.0.1.2 - Arcon
+* Adjusted to new API
+
+InfoBar 1.2.0.9 - Arcon
+* Adjusted to new API
+
+IME 1.2.1.5 - Arcon
+* Adjusted to new API
+
+DelayMeNot 1.0.0.2 - Arcon
+* Adjusted to new API
+
+ChatMon 1.10.0.4 - Arcon
+* Adjusted to new API
+
+BlinkMeNot 3.1.0.7 - Arcon
+* Adjusted to new API
+
+Bidder 1.4.1.9 - Arcon
+* Adjusted to new API
+
+AutoExec 2.8.1.7 - Arcon
+* Adjusted to new API
+
+Unlimited 1.0.1.1 - Arcon
+* Adjusted to new API
+
+Timers 3.7.0.3 - Arcon
+* Adjusted to new API
+
+Sandbox 1.0.1.6 - Arcon
+* Adjusted to new API
+
+JaZero 1.2.2.10 - Arcon
+* Adjusted to new API
+
+FishingCrashFix 1.0.0.1 - Arcon
+* Adjusted to new API
+
+FFXIDB 0.9.2.2 - Arcon
+* Adjusted to new API
+
+FFOChat 1.1.1.1 - Arcon
+* Adjusted to new API
+
+Config 1.0.0.1 - Arcon
+* Adjusted to new API
+
+Binder 1.4.2.0 - Arcon
+* Adjusted to new API
+* Added ASUS Strix Tactic Pro
+* Added Logitech ChillStream
+
+LuaCore 1.8.3.3 - Arcon
+* Adjusted to new API
 
 LuaCore 1.8.3.2 - Arcon
 * Fixed incoming chunk crash when receiving messages
