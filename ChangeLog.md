@@ -1,3 +1,9 @@
+2015-01-16
+----------
+
+Config 1.0.1.0 - Arcon
+* Added `save` command to save the current character's settings globally
+
 2015-01-15 January FFXI Update
 ----------
 
