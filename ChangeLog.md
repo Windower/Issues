@@ -1,3 +1,13 @@
+2015-01-17
+----------
+
+Config 1.1.0.0 - Arcon
+* Incorporated Unlimited's functionality
+  * The game divides 60 FPS by the value `FrameRateDivisor` to determine the frame rate cap
+  * The default is `2`, resulting in a 30 FPS cap
+  * Set it to `1` to increase the cap to 60 FPS
+  * Setting it to `0` will disable the cap entirely, but will likely cause performance problems
+
 2015-01-16
 ----------
 
