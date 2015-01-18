@@ -1,6 +1,9 @@
 2015-01-18
 ----------
 
+Config 1.1.0.2 - Arcon
+* Fixed incorrect aspect ratio calculation for explicitly provided values
+
 Config 1.1.0.1 - Arcon
 * Fixed incorrect settings names
 
