@@ -1,3 +1,16 @@
+2015-01-26
+----------
+
+Timers 3.7.1.0 - Arcon
+* Improved buff handling of certain buffs
+  * This change fixed certain Scholar-related buff timers incorrectly staying after wearing off
+  * Afftected buffs were:
+    * *Light Arts*
+    * *Dark Arts*
+    * *Sublimation*
+    * *Stratagems*
+* Fixed composure incorrectly multiplying the buff duration by 2 instead of 3
+
 2015-01-18
 ----------
 
