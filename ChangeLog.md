@@ -1,3 +1,21 @@
+2015-01-31
+----------
+
+Config 2.0.0.1 - Arcon
+* Changed the default `FrameRateDivisor` option from 1 to 2
+  * That means that the default frame rate cap was changed to 30 FPS (the game's native limit)
+
+Config 2.0.0.0 - Arcon
+* Revamped the settings handler
+* Added `config help` option to display all possible settings
+* Merged `MapDrawDistance` and `MobDrawDistance` into the `ClippingPlane` option
+  * Both single options are still available and will take precedence over `ClippingPlane`
+  * They merely won't be necessary anymore and can be omitted to only have one value
+* Added `AutoDisconnectTime` option
+  * If set to a number bigger than 0 it will enable the game's auto-disconnect feature
+* Fixed aspect ratio resetting on zoning
+  * Will now completely disable the game's own slider
+
 2015-01-26
 ----------
 
