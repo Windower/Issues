@@ -1,6 +1,12 @@
 2015-02-11
 ----------
 
+LuaCore 1.8.5.0 - Arcon
+* Changed the default behavior of `//lua list`
+  * Will now output to the chat log by default
+  * If provided the optional keyword `console` will output to the Windower console as it did before
+* Added an optional argument to `//lua memory` which will only show the memory usage of addons starting with the provided string
+
 LuaCore 1.8.4.0 - Arcon
 * Added [`windower.get_from_clipboard`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowerget_from_clipboard) and [`windower.copy_to_clipboard`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowercopy_to_clipboard_str) functions to the Lua API
 
