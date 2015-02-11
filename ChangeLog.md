@@ -1,3 +1,9 @@
+2015-02-11
+----------
+
+LuaCore 1.8.4.0 - Arcon
+* Added [`windower.get_from_clipboard`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowerget_from_clipboard) and [`windower.copy_to_clipboard`](http://dev.windower.net/doku.php?id=lua:api:functions:start&#windowercopy_to_clipboard_str) functions to the Lua API
+
 2015-01-31
 ----------
 
