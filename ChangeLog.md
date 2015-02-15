@@ -1,6 +1,10 @@
 2015-02-15
 ----------
 
+LuaCore 1.8.6.1 - Arcon
+* Fixed error reporting
+  * All syntax errors were incorrectly reported as "attempt to call a string value"
+
 Timers 3.7.1.2 - Arcon
 * Added the *Ghostfyre Cape* to *Enhancing Magic* duration calculations
 
