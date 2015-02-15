@@ -1,3 +1,9 @@
+2015-02-15
+----------
+
+Config 2.0.0.2 - Arcon
+* Fixed an issue where the `AutoDisconnect` option would be reset to the game's default after zoning
+
 2015-02-14
 ----------
 
