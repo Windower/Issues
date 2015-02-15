@@ -1,6 +1,9 @@
 2015-02-15
 ----------
 
+Timers 3.7.1.2 - Arcon
+* Added the *Ghostfyre Cape* to *Enhancing Magic* duration calculations
+
 Config 2.0.0.2 - Arcon
 * Fixed an issue where the `AutoDisconnect` option would be reset to the game's default after zoning
 
