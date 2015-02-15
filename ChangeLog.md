@@ -1,3 +1,16 @@
+2015-02-14
+----------
+
+LuaCore 1.8.6.0 - Arcon
+* Added the [`windower.chat`](http://dev.windower.net/doku.php?id=lua:api:functions:chat:start) table with functions relating to chat input
+
+Hook 4.2.12.0 - Arcon
+* Fixed a number of old pasting-related crashes and chat corruption
+  * Game won't crash when browsing the chat history after pasting anymore
+  * Game won't crash when removing pasted text a number of times anymore
+  * Pasting won't mess up auto-translate phrases anymore
+* Some minor stability adjustments
+
 2015-02-11
 ----------
 
