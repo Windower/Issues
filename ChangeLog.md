@@ -1,3 +1,12 @@
+2015-02-18
+----------
+LuaCore 1.8.7.0 - Cair
+* Added the [`windower.pipe`](http://dev.windower.net/doku.php?id=lua:api:functions:pipe:start) table with functions allowing communication with programs over named pipes.
+  * This functionality is in development and subject to heavy API changes.
+* Added the `pipe message` event that triggers when a message is received over the named pipe.
+  * This functionality is in development and subject to heavy API changes.
+
+
 2015-02-15
 ----------
 
