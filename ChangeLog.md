@@ -1,3 +1,9 @@
+2015-02-18 February 2015 Update
+----------
+
+LuaCore 1.9.0.3 - Arcon
+* Adjusted for FFXI update
+
 2015-02-18
 ----------
 
