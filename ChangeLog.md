@@ -1,8 +1,13 @@
-2015-02-18 February 2015 Update
+2015-02-18 February FFXI Update
 ----------
 
+Timers 3.7.2.0 - Arcon
+* Adjusted for February FFXI update
+* Added *Grapevine Cape*'s bonus to *Battery Charge*
+* Fixed *Killer Instinct* duration calculations based on additional merit points
+
 LuaCore 1.9.0.3 - Arcon
-* Adjusted for FFXI update
+* Adjusted for February FFXI update
 
 2015-02-18
 ----------
