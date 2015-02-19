@@ -1,5 +1,8 @@
-2015-02-18 February FFXI Update
+2015-02-19 February FFXI Update
 ----------
+
+LuaCore 1.9.0.4 - Arcon
+* Fixed incorrect error message output under certain circumstances
 
 InfoBar 1.2.0.10 - Arcon
 * Adjusted for February FFXI update
