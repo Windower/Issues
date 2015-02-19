@@ -1,6 +1,9 @@
 2015-02-18
 ----------
 
+LuaCore 1.9.0.2 - Arcon
+* Fixed the bug that caused `lua list` to print to the console and `lua list console` to print to the chat log
+
 LuaCore 1.9.0.1 - Arcon
 * Fixed a bug in the `windower.send_command` function that would cause a crash with certain inputs
 
