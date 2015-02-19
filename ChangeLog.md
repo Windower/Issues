@@ -1,6 +1,9 @@
 2015-02-18 February FFXI Update
 ----------
 
+JaZero 1.2.2.11 - Arcon
+* Adjusted for February FFXI update
+
 Timers 3.7.2.0 - Arcon
 * Adjusted for February FFXI update
 * Added *Grapevine Cape*'s bonus to *Battery Charge*
