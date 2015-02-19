@@ -1,6 +1,9 @@
 2015-02-18 February FFXI Update
 ----------
 
+BlinkMeNot 3.1.0.8 - Arcon
+* Adjusted for February FFXI update
+
 JaZero 1.2.2.11 - Arcon
 * Adjusted for February FFXI update
 
