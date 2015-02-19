@@ -1,6 +1,9 @@
 2015-02-18 February FFXI Update
 ----------
 
+InfoBar 1.2.0.10 - Arcon
+* Adjusted for February FFXI update
+
 BlinkMeNot 3.1.0.8 - Arcon
 * Adjusted for February FFXI update
 
