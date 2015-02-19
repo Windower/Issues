@@ -1,6 +1,9 @@
 2015-02-19 February FFXI Update
 ----------
 
+LuaCore 1.9.0.5 - Arcon
+* Fixed incorrect job ability recasts being reported with `windower.ffxi.get_ability_recasts`
+
 LuaCore 1.9.0.4 - Arcon
 * Fixed incorrect error message output under certain circumstances
 
