@@ -1,8 +1,14 @@
-2015-02-19 February FFXI Update
+2015-02-20
 ----------
+
+FFXIDB 0.9.2.3 - Arcon
+* Adjusted for February FFXI update
 
 LuaCore 1.9.1.0 - JoshK6656
 * Added new Job Points to the Lua API
+
+2015-02-19 February FFXI Update
+----------
 
 LuaCore 1.9.0.5 - Arcon
 * Fixed incorrect job ability recasts being reported with `windower.ffxi.get_ability_recasts`
