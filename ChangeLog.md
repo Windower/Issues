@@ -1,3 +1,12 @@
+2015-02-25
+----------
+
+LuaCore 1.9.1.1 - Arcon
+* Fixed contents of the tables returned by `windower.ffxi.get_mjob_data` and `windower.ffxi.get_sjob_data`
+
+Hook 4.2.12.1 - Arcon
+* Fixed gathered data regarding job info
+
 2015-02-20
 ----------
 
