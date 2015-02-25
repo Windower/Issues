@@ -1,6 +1,9 @@
 2015-02-25
 ----------
 
+InfoBar 1.2.0.11 - Arcon
+* Fixed the crash when trying to display current player information
+
 LuaCore 1.9.1.1 - Arcon
 * Fixed contents of the tables returned by `windower.ffxi.get_mjob_data` and `windower.ffxi.get_sjob_data`
 
