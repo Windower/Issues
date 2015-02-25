@@ -1,6 +1,10 @@
 2015-02-25
 ----------
 
+Timers 3.7.3.0 - Arcon
+* Added optional third argument when creating custom timers that indicates whether the bar is moving up or down
+  * `timers c <name> <duration> [up|down]`
+
 InfoBar 1.2.0.11 - Arcon
 * Fixed the crash when trying to display current player information
 
