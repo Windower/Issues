@@ -1,3 +1,9 @@
+2015-02-26
+----------
+
+LuaCore 1.9.1.2 - Arcon
+* Fixed `windower.ffxi.get_mjob_data` and `windower.ffxi.get_sjob_data` reporting incorrect BLU spells
+
 2015-02-25
 ----------
 
