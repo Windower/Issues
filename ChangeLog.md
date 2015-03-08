@@ -1,3 +1,10 @@
+2015-03-08
+----------
+
+StatusTimer 1.2.3.0 - Byrth
+* Fixed *Aftermath* calculations
+* Added *Aftermath* calculations for *Ergon* weapons
+
 2015-02-26
 ----------
 
