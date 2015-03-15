@@ -1,6 +1,9 @@
 2015-03-15
 ----------
 
+Launcher 4.2.5552.23154 - Arcon
+* Fixed an issue where addons and plugins would not correctly load in the dev version
+
 Launcher 4.2.5552.21628 - Arcon
 * Added a `--quit` option which quits the *Launcher* before the *PlayOnline Viewer* starts
   * This is only useful to update *Windower* silently
