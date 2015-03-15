@@ -1,3 +1,17 @@
+2015-03-15
+----------
+
+Launcher 4.2.5552.21628 - Arcon
+* Added a `--quit` option which quits the *Launcher* before the *PlayOnline Viewer* starts
+  * This is only useful to update *Windower* silently
+* Re-added the `--update` option which makes implies both `--hide` and `--quit`
+
+2015-03-14
+----------
+
+Launcher 4.2.5551.19172 - Arcon
+* Changed the `--update` option to `--hide` due to a misleading name
+
 2015-03-08
 ----------
 
