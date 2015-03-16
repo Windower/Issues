@@ -1,3 +1,9 @@
+2015-03-16
+----------
+
+Launcher 4.2.5553.33791 - Arcon
+* Fixed an issue where the Launcher would not start under certain conditions
+
 2015-03-15
 ----------
 
