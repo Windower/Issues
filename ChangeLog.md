@@ -1,3 +1,10 @@
+2015-03-21
+----------
+
+Launcher 4.2.5558.22522 - Arcon
+* Fixed an issue where the addons are not updated correctly for Windows XP users
+  * Addons will still not be updated in real time, so delays between addon pushes and updates for Windows XP users are expected
+
 2015-03-16
 ----------
 
