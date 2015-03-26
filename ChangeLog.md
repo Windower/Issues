@@ -1,3 +1,10 @@
+2015-03-21 March FFXI Update
+----------
+
+LuaCore 1.9.2.0 - Arcon
+* Fixed crash in `windower.ffxi.get_ability_recasts`
+* Adjusted `windower.regex.match` to return tables for sub-groups
+
 2015-03-21
 ----------
 
