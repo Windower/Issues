@@ -1,6 +1,9 @@
 2015-03-21 March FFXI Update
 ----------
 
+LuaCore 1.9.2.1 - Arcon
+* Fixed `windower.ffxi.get_mob_by_target` being broken for certain values
+
 LuaCore 1.9.2.0 - Arcon
 * Fixed crash in `windower.ffxi.get_ability_recasts`
 * Adjusted `windower.regex.match` to return tables for sub-groups
