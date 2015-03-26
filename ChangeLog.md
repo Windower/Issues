@@ -1,6 +1,9 @@
 2015-03-21 March FFXI Update
 ----------
 
+JaZero 1.2.2.12 - Arcon
+* Fixed for March update
+
 LuaCore 1.9.2.1 - Arcon
 * Fixed `windower.ffxi.get_mob_by_target` being broken for certain values
 
