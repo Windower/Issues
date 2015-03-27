@@ -1,6 +1,10 @@
 2015-03-27
 ----------
 
+FFXIDB 0.9.2.4 - Arcon
+* Fixed an issue where targeting could cause crashes
+* Fixed an issue where target lines were not displayed correctly
+
 Launcher 4.2.5564.39846 - Arcon
 * Fixed an issue where FFXI would not start up
 
