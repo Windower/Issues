@@ -1,6 +1,9 @@
 2015-03-27
 ----------
 
+Launcher 4.2.5564.39846 - Arcon
+* Fixed an issue where FFXI would not start up
+
 Launcher 4.2.5564.39373 - Arcon
 * Fixed an issue where the Launcher would not start up on certain operating systems
 
