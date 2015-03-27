@@ -1,6 +1,9 @@
 2015-03-27
 ----------
 
+Launcher 4.2.5564.39373 - Arcon
+* Fixed an issue where the Launcher would not start up on certain operating systems
+
 LuaCore 1.9.2.2 - Arcon
 * Fixed `windower.ffxi.get_mob_by_target('lastst')`
 
