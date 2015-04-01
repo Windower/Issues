@@ -1,6 +1,10 @@
 2015-04-01
 ----------
 
+Hook 4.2.12.2 - Arcon
+* Fixed pasting not working immediately after opening the chat input box
+* Fixed the `%` modifier occasionally ignoring an open chat input box
+
 LuaCore 1.9.2.3 - Arcon
 * Fixed erroneous prevention of setting *Blue Magic* spells
 
