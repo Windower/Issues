@@ -1,3 +1,13 @@
+2015-04-01
+----------
+
+LuaCore 1.9.2.3 - Arcon
+* Fixed erroneous prevention of setting *Blue Magic* spells
+
+Timers 3.7.4.0 - Byrth, Arcon
+* Added March 2015 update items
+* Fixed enhancing duration buffs from *Ghostfyre Cape* and various augments
+
 2015-03-27
 ----------
 
