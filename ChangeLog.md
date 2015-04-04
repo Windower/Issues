@@ -1,3 +1,9 @@
+2015-04-04
+----------
+
+Hook 4.2.12.3 - Arcon
+* Adjusted developer keys
+
 2015-04-01
 ----------
 
