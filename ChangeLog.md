@@ -1,6 +1,12 @@
 2015-04-05
 ----------
 
+Timers 3.7.4.1 - Byrth
+* Added *Phantom Roll* upgrades from reforged COR Empyrean armor
+
+LuaCore 1.9.2.4 - Arcon
+* Added `server` ID to the table returned by `windower.get_info`
+
 Config 2.0.0.3 - Arcon
 * Fixed crash on logout
 
