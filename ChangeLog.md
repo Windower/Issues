@@ -1,3 +1,9 @@
+2015-05-06
+----------
+
+LuaCore 2.0.0.0 - Arcon
+* Added support for the *SQLite* database, provided by the [LuaSQLite3](http://lua.sqlite.org/index.cgi/home) library
+
 2015-04-05
 ----------
 
