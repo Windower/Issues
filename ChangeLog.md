@@ -13,7 +13,7 @@ LuaCore 2.0.1.0 - Arcon
   * `sack`
   * `case`
   * `wardrobe`
-  * `safe`
+  * `safe2`
   * `treasure`
   * `gil`
 
