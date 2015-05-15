@@ -1,3 +1,9 @@
+2015-05-15 May FFXI Update
+----------
+
+Hook 4.2.12.4 - Iryoku
+* Fixed inventory and related bugs
+
 2015-05-06
 ----------
 
