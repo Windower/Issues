@@ -9,6 +9,7 @@ LuaCore 2.0.1.1 - Arcon
 * Added `safe2` as a key to the `windower.ffxi.get_items` table, and enabled it as a function parameter
 * Added `max_safe2`, `count_safe2` and `enabled_safe2` values to the `windower.ffxi.get_items` table
 * Added `max_safe2`, `count_safe2` and `enabled_safe2` values to the `windower.ffxi.get_bag_info` table
+* Fixed pet and fellow related variables
 
 LuaCore 2.0.1.0 - Arcon
 * Fixed inventory
