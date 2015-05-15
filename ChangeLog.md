@@ -1,6 +1,22 @@
 2015-05-15 May FFXI Update
 ----------
 
+LuaCore 2.0.1.0 - Arcon
+* Fixed inventory
+* Adjusted `windower.ffxi.get_items` to accept all its table keys as function parameters>
+  * `inventory`
+  * `safe`
+  * `storage`
+  * `temporary`
+  * `locker`
+  * `satchel`
+  * `sack`
+  * `case`
+  * `wardrobe`
+  * `safe`
+  * `treasure`
+  * `gil`
+
 Hook 4.2.12.4 - Iryoku
 * Fixed inventory and related bugs
 
