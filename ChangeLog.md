@@ -1,6 +1,9 @@
 2015-05-18
 ----------
 
+InfoBar 1.2.0.12 - Arcon
+* Fixed NPC related info
+
 FFXIDB 0.9.2.5 - Arcon
 * Fixed NPC display
 
