@@ -1,6 +1,9 @@
 2015-05-18
 ----------
 
+FFXIDB 0.9.2.5 - Arcon
+* Fixed NPC display
+
 LuaCore 2.0.1.3 - Arcon
 * Fixed `windower.ffxi.get_mob_by_target('lastst')`
 
