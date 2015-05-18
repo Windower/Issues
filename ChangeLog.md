@@ -1,3 +1,9 @@
+2015-05-18
+----------
+
+LuaCore 2.0.1.3 - Arcon
+* Fixed `windower.ffxi.get_mob_by_target('lastst')`
+
 2015-05-15 May FFXI Update
 ----------
 
