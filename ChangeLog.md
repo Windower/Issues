@@ -1,6 +1,13 @@
 2015-05-18
 ----------
 
+LuaCore 2.0.1.4 - Byrth
+* Adjusted `windower.ffxi.get_abilities().job_abilities` so it is no longer limited to 752 abilities
+* Added the new job point categories to `windower.ffxi.get_player().job_points`
+
+2015-05-18
+----------
+
 InfoBar 1.2.0.12 - Arcon
 * Fixed NPC related info
 
