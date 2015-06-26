@@ -1,3 +1,15 @@
+2015-06-26 June FFXI Update
+----------
+
+FFXIDB 0.9.2.6 - Arcon
+* Fixed for update
+
+Timers 3.7.4.3 - Arcon
+* Fixed for update
+
+LuaCore 2.0.1.5 - Arcon
+* Fixed for update
+
 2015-05-25
 ----------
 
