@@ -1,3 +1,16 @@
+2015-06-27
+----------
+
+FFXIDB 0.9.2.7 - Arcon
+* Fixed target handling
+* Adjusted the target line to show the sub-target, when available
+
+InfoBar 1.2.0.13 - Arcon
+* Fixed target handling
+
+LuaCore 2.0.1.6 - Arcon
+* Fixed target handling
+
 2015-06-26 June FFXI Update
 ----------
 
