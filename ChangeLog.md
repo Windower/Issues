@@ -1,6 +1,10 @@
 2015-06-27
 ----------
 
+BlinkMeNot 3.1.0.10 - Arcon
+* Fixed for update
+* Fixed target handling
+
 Guildwork 1.4.2.9 - Arcon
 * Fixed for update
 * Fixed target handling
