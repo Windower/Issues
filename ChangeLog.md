@@ -1,6 +1,13 @@
 2015-06-27
 ----------
 
+Guildwork 1.4.2.9 - Arcon
+* Fixed for update
+* Fixed target handling
+
+2015-06-27
+----------
+
 FFXIDB 0.9.2.7 - Arcon
 * Fixed target handling
 * Adjusted the target line to show the sub-target, when available
