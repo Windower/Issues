@@ -1,3 +1,9 @@
+2015-07-06
+----------
+
+JaZero 1.2.2.13 - Arcon
+* Fixed the engage/disengage unlock not working
+
 2015-06-27
 ----------
 
