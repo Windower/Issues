@@ -1,3 +1,21 @@
+2015-08-05 August FFXI Update
+----------
+
+FFXIDB 0.9.2.8 - Arcon, Iryoku
+* Fixed for update
+
+InfoBar 1.2.0.14 - Arcon, Iryoku
+* Fixed for update
+
+Guildwork 1.4.2.10 - Arcon, Iryoku
+* Fixed for update
+
+BlinkMeNot 3.1.0.11 - Arcon, Iryoku
+* Fixed for update
+
+LuaCore 2.0.1.7 - Arcon, Iryoku
+* Fixed for update
+
 2015-07-06
 ----------
 
