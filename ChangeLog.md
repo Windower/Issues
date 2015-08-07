@@ -1,3 +1,10 @@
+2015-08-07
+----------
+
+Timers 3.7.4.4 - Arcon, Iryoku, Kenshi
+* Added new icons
+* Fixed for update
+
 2015-08-05 August FFXI Update
 ----------
 
