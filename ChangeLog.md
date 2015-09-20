@@ -1,3 +1,14 @@
+2015-09-20
+----------
+
+LuaCore 2.0.2.0 - Arcon
+* Exposed job point details under the respective job category
+  * Added three new fields: `cp`, `jp` and `jp_spent`
+
+Hook 4.2.13.0 - Arcon
+* Added Job Point info collection
+* Internal cleanup and efficiency improvements
+
 2015-08-07
 ----------
 
