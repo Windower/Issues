@@ -1,6 +1,12 @@
 2015-09-20
 ----------
 
+Hook 4.2.13.2 - Arcon
+* Fixed it even more
+
+Hook 4.2.13.1 - Arcon
+* Fixed a crash on receiving items in the treasure pool
+
 LuaCore 2.0.2.0 - Arcon
 * Exposed job point details under the respective job category
   * Added three new fields: `cp`, `jp` and `jp_spent`
