@@ -1,5 +1,8 @@
-2015-09-20
+2015-09-20 September FFXI Update
 ----------
+
+BlinkMeNot 3.1.0.12 - Arcon
+* Fixed after update
 
 Hook 4.2.13.2 - Arcon
 * Fixed it even more
