@@ -4,6 +4,11 @@
 BlinkMeNot 3.1.0.12 - Arcon
 * Fixed after update
 
+Timers 3.7.4.6 - Byrth
+* Added various job point related effects
+* Added new and fixed existing equipment related effects
+* Added Enspell duration handling
+
 Hook 4.2.13.2 - Arcon
 * Fixed it even more
 
