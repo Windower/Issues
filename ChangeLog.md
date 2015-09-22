@@ -1,3 +1,9 @@
+2015-09-22
+----------
+
+Hook 4.2.13.3 - Arcon
+* Fixed a bug where player jobs would not be reported correctly
+
 2015-09-20 September FFXI Update
 ----------
 
