@@ -1,3 +1,10 @@
+2015-09-23
+----------
+
+Hook 4.2.13.4 - Arcon
+* Simplified buff extraction mechanism
+* Fixed food/costume/medicine not being reported correctly under certain conditions
+
 2015-09-22
 ----------
 
