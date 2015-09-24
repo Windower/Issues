@@ -1,3 +1,9 @@
+2015-09-24
+----------
+
+Hook 4.2.13.5 - Arcon
+* Fixed an issue where incorrect buffs would be reported right after zoning or logging in
+
 2015-09-23
 ----------
 
