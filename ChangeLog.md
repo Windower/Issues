@@ -1,6 +1,9 @@
 2015-09-24
 ----------
 
+LuaCore 2.0.2.1 - Arcon
+* Exposed information on the target arrow's position (as is used for Geo-Spells)
+
 Hook 4.2.13.5 - Arcon
 * Fixed an issue where incorrect buffs would be reported right after zoning or logging in
 
