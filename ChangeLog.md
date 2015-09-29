@@ -1,3 +1,9 @@
+2015-09-29
+----------
+
+LuaCore 2.0.2.3 - Nitrous
+* Added `windower.ffxi.remove_blue_magic_spell('index')`
+
 2015-09-24
 ----------
 
