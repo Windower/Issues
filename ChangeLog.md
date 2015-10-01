@@ -1,8 +1,14 @@
+2015-10-01
+----------
+
+WinControl 1.6.1.6 - Arcon
+* Fixed a crash when called with no arguments
+
 2015-09-29
 ----------
 
 LuaCore 2.0.2.3 - Nitrous
-* Added `windower.ffxi.remove_blue_magic_spell('index')`
+* Added `windower.ffxi.remove_blue_magic_spell`
 
 2015-09-24
 ----------
