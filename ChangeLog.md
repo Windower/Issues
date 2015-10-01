@@ -8,7 +8,7 @@ WinControl 1.6.1.6 - Arcon
 ----------
 
 LuaCore 2.0.2.3 - Nitrous
-* Added `windower.ffxi.remove_blue_magic_spell`
+* Added [`windower.ffxi.remove_blue_magic_spell`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start&#windowerffxiremove_blue_magic_spell_index)
 
 2015-09-24
 ----------
