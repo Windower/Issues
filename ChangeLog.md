@@ -1,3 +1,12 @@
+2015-10-07
+----------
+
+LuaCore 2.0.2.4 - Arcon
+* Fixed buff array in Salvage (and possibly other cases)
+
+Hook 4.2.13.6 - Arcon
+* Fixed collection of food, medicine and costume IDs for Salvage (and possibly other cases)
+
 2015-10-01
 ----------
 
