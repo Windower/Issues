@@ -1,3 +1,12 @@
+2015-11-11 November FFXI Update
+----------
+
+LuaCore 2.0.2.5 - Arcon
+* Fixed for update:
+  * NPC fellow index
+  * Menu open indicator
+  * Targeting issues
+
 2015-10-07
 ----------
 
