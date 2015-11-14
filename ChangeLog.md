@@ -1,3 +1,12 @@
+2015-11-14
+----------
+
+Timers 3.7.4.7 - Arcon
+* Fixed crashes when casting on pets and trusts
+
+LuaCore 2.0.2.6 - Arcon
+* Fixed `windower.get_mob_by_id` for pets and trusts
+
 2015-11-13
 ----------
 
