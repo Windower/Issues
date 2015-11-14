@@ -1,6 +1,9 @@
 2015-11-13
 ----------
 
+Config 2.0.1.1 - Arcon
+* Fixed `AnimationFrameRate` always being set to lowest.
+
 Config 2.0.1.0 - Arcon
 * Fixed clipping plane settings after update
 * Added `BattleAutoTarget` option, which sets the respective option under *Config* > *Gameplay*
