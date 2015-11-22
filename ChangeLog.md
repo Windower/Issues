@@ -1,3 +1,12 @@
+2015-11-22
+----------
+
+FFXIDB 0.9.2.9 - Arcon
+* Added maps for new zones:
+  * *Escha - Zi'Tah*
+  * *Escha - Ru'Aun*
+  * *Reisenjima*
+
 2015-11-14
 ----------
 
