@@ -1,3 +1,10 @@
+2015-11-30
+----------
+
+LuaCore 2.0.2.7 - Arcon
+* Fixed an issue where `windower.ffxi.get_mob_by_name` would not find certain pets or trusts
+* Fixed an issue where `windower.ffxi.get_mob_array` would not return entries for certain pets or trusts
+
 2015-11-22
 ----------
 
