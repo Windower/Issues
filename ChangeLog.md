@@ -1,3 +1,12 @@
+2015-12-10
+----------
+
+LuaCore 2.0.2.8 - Arcon
+* Fixed issues relating to the update.
+* Removed the following entries from the mob table, because they are no longer available in there:
+  * `mpp`
+  * `tp`
+
 2015-11-30
 ----------
 
