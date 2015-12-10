@@ -1,8 +1,11 @@
-2015-12-10
+2015-12-10 December FFXI Update
 ----------
 
+JaZero 1.2.2.14 - Arcon
+* Fixed for update
+
 LuaCore 2.0.2.8 - Arcon
-* Fixed issues relating to the update.
+* Fixed for update
 * Removed the following entries from the mob table, because they are no longer available in there:
   * `mpp`
   * `tp`
