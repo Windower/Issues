@@ -1,6 +1,9 @@
 2015-12-10 December FFXI Update
 ----------
 
+Timers 3.7.4.8 - Arcon
+* Fixed for update
+
 JaZero 1.2.2.14 - Arcon
 * Fixed for update
 
