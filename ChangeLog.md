@@ -1,3 +1,9 @@
+2015-12-11
+----------
+
+FFXIDB 0.9.2.10 - Arcon
+* Fixed for update
+
 2015-12-10 December FFXI Update
 ----------
 
