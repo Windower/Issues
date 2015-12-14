@@ -1,3 +1,12 @@
+2015-12-14
+----------
+
+Guildwork 1.4.2.11 - Arcon
+* Fixed for update
+
+InfoBar 1.2.0.15 - Arcon
+* Fixed for update
+
 2015-12-11
 ----------
 
