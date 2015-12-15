@@ -1,6 +1,9 @@
 2015-12-14
 ----------
 
+Guildwork 1.4.2.12 - Arcon
+* Fixed error introduced in latest update, would unload the plugin on certain incoming packets
+
 Guildwork 1.4.2.11 - Arcon
 * Fixed for update
 
