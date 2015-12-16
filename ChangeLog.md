@@ -1,3 +1,9 @@
+2015-12-16
+----------
+
+LuaCore 2.0.3.0 - Arcon
+* Adjusted `windower.ffxi.get_map_data` to return floating point coordinates (i.e. between pixel coordinates)
+
 2015-12-14
 ----------
 
