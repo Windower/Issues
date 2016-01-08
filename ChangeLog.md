@@ -1,3 +1,9 @@
+2016-1-8
+----------
+
+Config 2.0.1.2 - Cair
+* Fixed a crash in command handling
+
 2015
 ----
 
