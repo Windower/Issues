@@ -1,7 +1,19 @@
-2016-1-8
+2016-01-24
+----------
+
+FFXIDB 0.9.2.11 - Arcon
+* Efficiency improvements
+* Fixed an issue where the map positions would occasionally stutter by small amounts
+
+LuaCore 2.0.4.0 - Arcon
+* Added [`postrender`](http://dev.windower.net/doku.php?id=lua:api:events:start&#event_list) event
+* Fixed [`windower.ffxi.get_info`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_info) to return the correct server value (now matches the server ID from the [server resources](https://github.com/Windower/Resources/blob/master/xml/servers.xml))
+* Fixed a crash when passing invalid values to [`windower.ffxi.get_mob_by_id`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_mob_by_id_id)
+
+2016-01-08
 ----------
 LuaCore 2.0.3.1 - Cair
-* Fixed errors relating to `add item` and `remove item` events.
+* Fixed errors relating to `add item` and `remove item` events
 
 Config 2.0.1.2 - Cair
 * Fixed a crash in command handling
