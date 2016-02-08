@@ -1,3 +1,9 @@
+2016-02-08
+----------
+
+Timers 3.7.4.9 - Arcon
+- Fixed an issue where "Enh. Mag. eff. dur." augment was not calculated correctly
+
 2016-01-24
 ----------
 
