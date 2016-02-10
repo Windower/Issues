@@ -1,5 +1,11 @@
-2016-02-10
+2016-02-10 February FFXI Update
 ----------
+
+FFXIDB 0.9.2.12 - Arcon
+* Fixed for update
+
+LuaCore 2.0.4.1 - Arcon
+* Fixed for update
 
 Hook 4.2.13.7 - Arcon
 * Refactored packet handling to improve performance and maintainability
