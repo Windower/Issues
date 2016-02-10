@@ -1,3 +1,10 @@
+2016-02-10
+----------
+
+Hook 4.2.13.7 - Arcon
+* Refactored packet handling to improve performance and maintainability
+* Fixed key bindings for shift (using the tilde `~` key)
+
 2016-02-08
 ----------
 
