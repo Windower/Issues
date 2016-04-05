@@ -1,3 +1,18 @@
+2016-04-05 April FFXI Update
+----------
+
+Guildwork 1.4.2.13 - Arcon
+* Added Wardrobe 2
+
+Timers 3.7.4.10 - Arcon
+* Added Wardrobe 2
+
+LuaCore 2.0.4.2 - Arcon
+* Added Wardrobe 2
+
+Hook 4.2.13.8 - Arcon
+* Added Wardrobe 2
+
 2016-02-10 February FFXI Update
 ----------
 
