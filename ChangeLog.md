@@ -1,3 +1,9 @@
+2016-04-14
+----------
+
+Hook 4.2.13.9 - Arcon
+* Fixed a bug where certain items would remain in the *Using* state
+
 2016-04-05 April FFXI Update
 ----------
 
