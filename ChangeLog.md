@@ -1,3 +1,9 @@
+2016-04-19
+----------
+
+Guildwork 1.4.3.0 - Arcon
+* Added new type of kills to the FFXIDB collection mechanism
+
 2016-04-14
 ----------
 
