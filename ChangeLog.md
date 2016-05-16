@@ -1,3 +1,13 @@
+2016-05-16
+----------
+
+Timers 3.7.4.11 - Arcon
+* Fixed an issue where SP abilities would display in English on the Japanese client
+* Fixed the spelling of *Asylum*
+
+Guildwork 1.4.3.1 - Arcon
+* Fixed an issue where the game would freeze under heavy battle
+
 2016-04-19
 ----------
 
