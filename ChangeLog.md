@@ -1,3 +1,10 @@
+2016-06-22
+----------
+
+LuaCore 2.0.4.3
+* Fixed an issue where the `target_locked` property would always return `true`
+* Fixed an issue where certain key items would not be listed
+
 2016-05-16
 ----------
 
