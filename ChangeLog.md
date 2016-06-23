@@ -1,7 +1,17 @@
+2016-06-23
+----------
+
+LuaCore 2.0.4.4 - Arcon
+* Fixed an issue with pasting text and setting chat input
+* Added the function [`is_open`](http://dev.windower.net/doku.php?id=lua:api:functions:chat:start#windowerchatis_open) to the `windower.chat` table.
+
+Hook 4.2.13.10 - Arcon
+* Fixed an issue where pasting would not immediately update the chat box with the right value
+
 2016-06-22
 ----------
 
-LuaCore 2.0.4.3
+LuaCore 2.0.4.3 - Arcon
 * Fixed an issue where the `target_locked` property would always return `true`
 * Fixed an issue where certain key items would not be listed
 
