@@ -1,3 +1,19 @@
+2016-07-07 July FFXI Update
+----------
+
+Guildwork 1.4.3.2 - Arcon
+* Adjusted to new API
+
+Timers 3.7.4.12 - Arcon
+* Adjusted to new API
+
+LuaCore 2.0.4.5 - Arcon
+* Adjusted to new API
+* Added new inventories (`wardrobe3` and `wardrobe4`) to [`windower.ffxi.get_items`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_items_bag_index) and [`windower.ffxi.get_bag_info`](http://dev.windower.net/doku.php?id=lua:api:functions:ffxi:start#windowerffxiget_bag_info_bag)
+
+Hook 4.2.13.11 - Arcon
+* Added two new inventories from the July update
+
 2016-06-23
 ----------
 
