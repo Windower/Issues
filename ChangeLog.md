@@ -1,3 +1,9 @@
+2016-07-16
+----------
+
+LuaCore 2.0.4.6 - Arcon
+* Fixed an error in `windower.ffxi.get_player().in_combat`
+
 2016-07-07 July FFXI Update
 ----------
 
