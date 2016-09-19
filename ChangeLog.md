@@ -1,3 +1,9 @@
+2016-09-19
+----------
+
+LuaCore 2.0.4.7 - Arcon
+* Fixed possible crashing issue when zoning
+
 2016-07-16
 ----------
 
