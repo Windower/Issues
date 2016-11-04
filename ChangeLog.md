@@ -1,3 +1,9 @@
+2016-11-04
+----------
+
+Timers 3.7.4.13 - Arcon
+* Added some bard gear to factor into buff duration calculations
+
 2016-09-19
 ----------
 
