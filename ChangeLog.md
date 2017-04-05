@@ -6,13 +6,19 @@ LuaCore 2.0.4.10 - Arcon
 Timers 3.7.4.22 - Byrth
 * Added buff calculations for *Inyanga Shalwar +2*
 
-2017-02-16
+2017-04-03
+----------
+
+Sandbox 1.0.1.8~9 - Byrth
+* Ensured that characters on the same computer will zone at least 100ms apart
+
+2017-03-01
 ----------
 
 Timers 3.7.4.21 - Byrth
 * Added buff calculations for *Brioso Whistle* and *Moonbow Whistle* (*+1*)
 
-2017-03-01
+2017-02-16
 ----------
 
 Timers 3.7.4.20 - Byrth

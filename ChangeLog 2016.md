@@ -1,3 +1,32 @@
+2016-12-30
+----------
+
+Timers 3.7.4.16~19 - Byrth
+* Fixed Odyllic Subterfuge and Widened Compass recasts
+* Added icons for SP2 abilities
+* Added buff calculations for *Compensator*
+
+2016-12-23
+----------
+
+Binder 1.4.2.1 - Byrth
+* Added the g600 mouse
+
+Timers 3.7.4.15 - Byrth
+* Fixed WHM Regen duration Job Points
+
+2016-12-20
+----------
+
+All plugins except Guildwork - Byrth
+* Recompiled with the updated WindowerPlugin
+
+Statustimer 1.2.3.2 - Byrth
+* Fixed Mythic/Ergon aftermath tracking
+
+Timers 3.7.4.14 - Byrth
+* Added Artifact +2/3 armor buff duration handling
+
 2016-11-04
 ----------
 
