@@ -3,6 +3,8 @@
 
 LuaCore 2.0.4.10 - Arcon
 * Fixed possible crash when using `windower.ffxi.get_mob_by_target` with `<scan>`
+Timers 3.7.4.22 - Byrth
+* Added buff calculations for *Inyanga Shalwar +2*
 
 2017-02-16
 ----------
