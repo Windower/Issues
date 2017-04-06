@@ -1,8 +1,15 @@
+2017-04-06
+----------
+
+LuaCore 2.0.5.0 - Arcon
+* Updated LuaSocket to version 3 RC1
+
 2017-04-05
 ----------
 
 LuaCore 2.0.4.10 - Arcon
 * Fixed possible crash when using `windower.ffxi.get_mob_by_target` with `<scan>`
+
 Timers 3.7.4.22 - Byrth
 * Added buff calculations for *Inyanga Shalwar +2*
 
