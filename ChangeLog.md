@@ -1,3 +1,17 @@
+2017-04-13
+----------
+
+Hook 4.3.0.1 - Arcon
+* Fixed crash when using certain Windower commands
+* Fixed crash when using certain FFXI commands that were modified by addons
+
+Launcher 4.3.6312.40615 - Iryoku
+* Updated for new Hook
+
+Hook 4.3.0.0 - Iryoku
+* Refactored to use new hooking library to work with Windows 10 Creator's Update
+* Further internal refactoring and fixed various related crashes
+
 2017-04-06
 ----------
 
