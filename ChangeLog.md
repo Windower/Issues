@@ -1,3 +1,15 @@
+2017-04-15
+----------
+
+Hook 4.3.0.3 - Arcon
+* Fixed crash on creating primitive objects from addons
+
+2017-04-14
+----------
+
+Hook 4.3.0.2 - Iryoku
+* Fixed window/process name showing the currently logged in character
+
 2017-04-13
 ----------
 
