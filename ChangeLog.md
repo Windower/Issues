@@ -1,3 +1,9 @@
+2017-04-17
+----------
+
+Hook 4.3.0.4 - Arcon
+* Fixed crash when playing sounds
+
 2017-04-15
 ----------
 
