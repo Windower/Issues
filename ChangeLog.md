@@ -1,3 +1,12 @@
+2017-04-28 
+----------
+
+Hook 4.3.0.6 - Iryoku
+* Fixed mouse delay  with POL open
+
+Hook 4.3.0.5 - Iryoku
+* Fixed keyboard delay with POL open
+
 2017-04-17
 ----------
 
