@@ -1,3 +1,8 @@
+2017-05-02 
+----------
+Timers 3.7.4.23 - Cair
+* Fixed a crash caused by casting an AoE Buff on a character before it has loaded into memory.
+
 2017-04-28 
 ----------
 
