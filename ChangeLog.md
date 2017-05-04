@@ -1,3 +1,19 @@
+2017-05-04 
+----------
+
+Hook 4.3.0.8 - Cair
+* Fixed loss of binds on window change
+
+2017-05-03
+----------
+
+Launcher 4.3.6332.35270 - Iryoku
+* Fixed hook injection method
+
+Hook 4.3.0.7 - Iryoku
+* Fixed stuck key inputs on window change
+* Fixed controller focus behavior
+
 2017-05-02 
 ----------
 Timers 3.7.4.23 - Cair
