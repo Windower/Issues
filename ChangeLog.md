@@ -1,5 +1,16 @@
+2017-05-05
+----------
+Hook 4.3.0.11 - Cair
+* Fixed the use of setkey while out of focus
+
+Hook 4.3.0.10 - Iryoku
+* Enabled binds that use the windows key
+
 2017-05-04 
 ----------
+
+Hook 4.3.0.9 - Iryoku
+* Fixed controller blocking method
 
 Hook 4.3.0.8 - Cair
 * Fixed loss of binds on window change
