@@ -1,3 +1,19 @@
+2017-05-07
+----------
+Hook 4.3.0.15 - Cair
+* Prevent input device delay after changing windows
+
+Hook 4.3.0.14 - Cair
+* Disable keyboard input while window is in background
+
+2017-05-06
+----------
+Hook 4.3.0.13 - Cair
+* Version bump - versioning mistake with pushed version
+
+Hook 4.3.0.12 - Cair
+* Reimplement mouse input delay fix
+
 2017-05-05
 ----------
 Hook 4.3.0.11 - Cair
@@ -34,7 +50,7 @@ Timers 3.7.4.23 - Cair
 ----------
 
 Hook 4.3.0.6 - Iryoku
-* Fixed mouse delay  with POL open
+* Fixed mouse delay with POL open
 
 Hook 4.3.0.5 - Iryoku
 * Fixed keyboard delay with POL open
