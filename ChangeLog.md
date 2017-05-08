@@ -1,7 +1,17 @@
+2017-05-08
+----------
+Hook 4.3.0.16 - Cair
+* Prevent keyboard input delay after changing windows
+* Fix Always Enable Sound/Always Enable Gamepad launcher settings
+
+Launcher 4.3.6332.35270 - Cair
+* Change settings handling for compatability with hook
+
+
 2017-05-07
 ----------
 Hook 4.3.0.15 - Cair
-* Prevent input device delay after changing windows
+* Prevent controller device input delay after changing windows
 
 Hook 4.3.0.14 - Cair
 * Disable keyboard input while window is in background
