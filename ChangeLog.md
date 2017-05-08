@@ -1,5 +1,8 @@
 2017-05-08
 ----------
+Hook 4.3.0.17 - Cair
+* Fix stuck keyboard input after window changes
+
 Hook 4.3.0.16 - Cair
 * Prevent keyboard input delay after changing windows
 * Fix Always Enable Sound/Always Enable Gamepad launcher settings
