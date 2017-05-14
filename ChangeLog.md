@@ -1,3 +1,11 @@
+2017-05-14
+----------
+Hook 4.3.1.0 - Cair
+* Fix window retaining frame when toggled in windowed mode
+* Fix the use of setkey while out of focus (again)
+* Fix the use of Windows Key binds with multiple instances running
+
+
 2017-05-08
 ----------
 Hook 4.3.0.17 - Cair
