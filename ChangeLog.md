@@ -1,3 +1,8 @@
+2017-05-15
+----------
+Hook 4.3.1.1 - Cair
+* Address several crashes on exiting to POL
+
 2017-05-14
 ----------
 Hook 4.3.1.0 - Cair
