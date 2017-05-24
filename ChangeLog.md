@@ -1,18 +1,34 @@
+2017-05-24
+----------
+
+LuaCore 2.1.0.1 - Arcon
+* Adjusted `windower.ffxi.get_player().jobs` to show `0` for jobs that are not unlocked
+
+LuaCore 2.1.0.0 - Arcon
+* Updated the code base to new standards, plugin-wide refactoring
+* Adjusted `windower.ffxi.get_player().jobs` to only show levels for unlocked jobs, instead of displaying `1`
+
+Hook 4.3.2.0 - Arcon
+* Fixed an issue with pasting into the console
+* Added tracking of job availability
+
 2017-05-15
 ----------
+
 Hook 4.3.1.1 - Cair
 * Address several crashes on exiting to POL
 
 2017-05-14
 ----------
+
 Hook 4.3.1.0 - Cair
 * Fix window retaining frame when toggled in windowed mode
 * Fix the use of setkey while out of focus (again)
 * Fix the use of Windows Key binds with multiple instances running
 
-
 2017-05-08
 ----------
+
 Hook 4.3.0.17 - Cair
 * Fix stuck keyboard input after window changes
 
@@ -23,9 +39,9 @@ Hook 4.3.0.16 - Cair
 Launcher 4.3.6332.35270 - Cair
 * Change settings handling for compatability with hook
 
-
 2017-05-07
 ----------
+
 Hook 4.3.0.15 - Cair
 * Prevent controller device input delay after changing windows
 
@@ -34,6 +50,7 @@ Hook 4.3.0.14 - Cair
 
 2017-05-06
 ----------
+
 Hook 4.3.0.13 - Cair
 * Version bump - versioning mistake with pushed version
 
@@ -42,6 +59,7 @@ Hook 4.3.0.12 - Cair
 
 2017-05-05
 ----------
+
 Hook 4.3.0.11 - Cair
 * Fixed the use of setkey while out of focus
 
