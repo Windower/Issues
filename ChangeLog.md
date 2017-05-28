@@ -1,3 +1,12 @@
+2017-05-27
+----------
+
+Guildwork 1.4.3.5 - Byrth and Cair
+* Fixed a crash caused by having an invalid Party pointer at logout.
+
+Guildwork 1.4.3.4 - Byrth
+* Removed the guildwork.com check for the "guildwork.dll" component of the guildwork plugin.
+
 2017-05-24
 ----------
 
