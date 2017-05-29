@@ -1,3 +1,9 @@
+2017-05-29
+----------
+
+LuaCore 2.1.0.2 - Arcon
+* Fixed an issue when calling `print` with multiple arguments
+
 2017-05-27
 ----------
 
