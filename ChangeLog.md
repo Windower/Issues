@@ -1,3 +1,11 @@
+2017-06-13
+----------
+
+Hook 4.3.2.1 - Cair
+* Fixed an issue that prevented other processes from accessing the clipboard
+* Addressed a possible cause of multiple process zoning deadlocks
+* Got a cool version number
+
 2017-05-29
 ----------
 
