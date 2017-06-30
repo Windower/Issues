@@ -1,3 +1,9 @@
+2017-06-30
+----------
+
+Chatmon 1.10.0.6 - Cair
+* Fixed an issue where having chatmon loaded prevented setkey from working in certain situations
+
 2017-06-13
 ----------
 
