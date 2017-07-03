@@ -1,3 +1,9 @@
+2017-07-03
+----------
+
+Sandbox 1.0.1.13 - Cair
+* Reverted changes that caused staggering while zoning with multiple characters
+
 2017-06-30
 ----------
 
