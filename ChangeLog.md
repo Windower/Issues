@@ -1,3 +1,10 @@
+2017-07-09
+----------
+
+LuaCore 2.1.0.3 - Cair & Arcon
+* Fixed crash on addon load under certain conditions
+* Fixed crash on deleting primitive objects which did not exist
+
 2017-07-03
 ----------
 
