@@ -1,7 +1,7 @@
 2017-07-16
 ----------
 
-Sandbox - 1.0.1.14
+Sandbox 1.0.1.14 - Cair
 * Fixed an issue that prevented the plugin from loading for some users
 
 2017-07-09
