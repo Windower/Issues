@@ -1,3 +1,9 @@
+2017-10-22
+----------
+
+Hook 4.3.2.2 - Cair & Arcon
+* Addressed a crash introduced in the FCU on Windows 10
+
 2017-07-16
 ----------
 
