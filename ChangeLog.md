@@ -1,3 +1,15 @@
+2017-10-30 
+----------
+Hook 4.3.4.0 - Cair
+* Upgrade ZMQ version (attempt to address IPC errors and 'random' crash)
+
+2017-10-22 - 2017-10-29
+----------
+
+Hook 4.3.3.X - Cair
+* Fix an issue that introduced lag when switching windows
+
+
 2017-10-22
 ----------
 
