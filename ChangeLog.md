@@ -1,5 +1,13 @@
+2017-10-31
+----------
+Hook 4.3.4.2 - Cair
+* Fix support for applications using ancient keyboard API
+
 2017-10-30 
 ----------
+Hook 4.3.4.1 - Cair
+* Revert to behavior where current keybinds are overwritten
+
 Hook 4.3.4.0 - Cair
 * Upgrade ZMQ version (attempt to address IPC errors and 'random' crash)
 
