@@ -1,16 +1,21 @@
+2017-11-13
+----------
+Hook 4.3.4.7 - Cair
+* Adjust the console key to function with chat both open and closed
+
 2017-11-07
 ----------
-Hook 4.3.4.6 & Launcher 4.3.6520.35578
+Hook 4.3.4.6 & Launcher 4.3.6520.35578 - Cair
 * Added an option to allow the use of windows key 
 
 2017-11-03
 ----------
-Hook 4.3.4.5
+Hook 4.3.4.5 - Cair
 * Addressed a potential crash with keybinds
 
 2017-11-02
 ----------
-Hook 4.3.4.4
+Hook 4.3.4.4 - Cair
 * Allow the use of `setkey` with the console open
 * Fix binds that use the console key
 
