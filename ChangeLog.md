@@ -1,3 +1,8 @@
+2017-12-14
+----------
+Hook 4.3.4.8 - Cair
+* Fix controller behavior for non-focused windows
+
 2017-11-13
 ----------
 Hook 4.3.4.7 - Cair
